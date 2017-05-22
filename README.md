@@ -1,6 +1,6 @@
 # Psvimgtools-Easy-FrontEnd
 
-This is a graphical interface for the PSVIMGTools Team Molecule / Yifanlu Which is a tool that can be used to decrypt and extract backup files PSVita (.psvimg) Since you knew the AID of the account that created the backup,
+This is a graphical interface for the PSVIMGTools Team Molecule / Yifanlu Which is a tool that can be used to decrypt and extract backup files PSVita (.psvimg) You just need to know the AID (QCMA Key) of the account that created the backup,
 
 This works on all firmwares to date, including 3.65. And probably all future firmwares
 
@@ -17,7 +17,7 @@ https://codestation.github.io/qcma/
 
 # Usage
 
-Clicking on the magnifying glass, the program automatically searches for the last key used by QCMA! Or it can inform the manually manipulated key!
+Clicking on the magnifying glass, the program automatically searches for the last key used by QCMA! Or you can inform it manually!
 
 # Automatic mode exploits:
 
@@ -26,26 +26,26 @@ When pressing the Exploits Automatic button, the program searches all PSP games 
 # Manual option for PSP/PS1
 
 Extract PSP/PS1
-You should look for the PSP games in PGAME / ID and extract the game in a folder Psvita / EXTRAIR
+The program will look for the PSP games in PGAME / ID and extract the game in a folder Psvita / EXTRAIR
 
 Recreate PSP / PS1
-Should seek PSP games extracted in Ps vita / EXTRAIR, and recreate in PGAME / ID
+The program will look PSP games extracted in Ps vita / EXTRAIR, and recreate in PGAME / ID
 
 # Backup Options
 
 Extract Backup
-You should look for your backups in Psvita / SYSTEM / ID and extract in PSvita EXTRAIRBackup
+The program will look for your backups in Psvita / SYSTEM / ID and extract in PSvita EXTRAIRBackup
 
 Recreat Backup
-You should get your backups in EXTRAIRBackup and recreate in PSvita Ps vita / SYSTEM / ID
+The program will look your backups in EXTRAIRBackup and recreate in PSvita Ps vita / SYSTEM / ID
 
 # Manual option for APP / Games - PSVITA
 
 Extract APP / Games 
-You should look for the APP / Games in APP / ID and extract the game in a folder Psvita / EXTRAIRAppGame
+The program will look for the APP / Games in APP / ID and extract the game in a folder Psvita / EXTRAIRAppGame
 
 Recreat APP / Games
-You should get your APP / Games in EXTRAIRAppGame and recreate in PSvita Ps vita / APP / ID
+The program will look for the APP / Games in EXTRAIRAppGame and recreate in PSvita Ps vita / APP / ID
 
 # Option for App´s
 
