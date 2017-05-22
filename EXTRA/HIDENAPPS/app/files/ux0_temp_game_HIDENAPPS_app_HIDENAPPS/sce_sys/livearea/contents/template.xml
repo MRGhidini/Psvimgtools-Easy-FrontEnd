@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<livearea style="ad4" format-ver="01.00" content-rev="3">
+
+	<livearea-background>
+		<image>bg0.png</image>
+	</livearea-background>
+	
+	<title color="#ffffffff"/>
+	
+	<!-- システムファンクションエリア 最大7個 -->
+
+	<gate>
+		<startup-image>default_gate.png</startup-image>
+	</gate>
+
+	<!-- 各Space配置 -->
+	<frame id="frame5">
+    <liveitem>
+      <text origin="image" align="outside-right">
+        <str color="#ffffff" size="28">Run Sign Up App</str>
+      </text>
+      <target>psnreg:</target>
+    </liveitem>
+  </frame>
+  
+  	<frame id="frame6">
+    <liveitem>
+      <text origin="image" align="outside-right">
+        <str color="#ffffff" size="28">Run Package Installer</str>
+      </text>
+      <target>psgm:play?titleid=NPXS10031</target>
+    </liveitem>
+  </frame>
+  
+</livearea>
+
