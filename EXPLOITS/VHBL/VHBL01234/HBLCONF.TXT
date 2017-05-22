@@ -1,0 +1,60 @@
+# Config File for HBL
+# Lines starting with "#" are comments
+
+# hb_folder 
+#   The menu displays the contents of this folder at startup
+hb_folder=ms0:/PSP/VHBL/
+
+# return_to_xmb_on_exit
+# If set to 1, returns directly to XMB when exiting a homebrew instead of going back to the HBL menu
+return_to_xmb_on_exit=0
+
+# force_exit_button
+# combination of buttons to press to force exit a homebrew and return to HBL
+# useful for homebrews that don't have an exit menu, since the HOME button doesn't work in HBL
+# use hex values
+#  PSP_CTRL_SELECT = 0x000001, PSP_CTRL_START = 0x000008, PSP_CTRL_UP = 0x000010, PSP_CTRL_RIGHT = 0x000020,
+# PSP_CTRL_DOWN = 0x000040, PSP_CTRL_LEFT = 0x000080, PSP_CTRL_LTRIGGER = 0x000100, PSP_CTRL_RTRIGGER = 0x000200,
+#  PSP_CTRL_TRIANGLE = 0x001000, PSP_CTRL_CIRCLE = 0x002000, PSP_CTRL_CROSS = 0x004000, PSP_CTRL_SQUARE = 0x008000,
+# For example select + start is 1+8 = 0x9
+#
+# Comment out for performance
+force_exit_buttons=0x00000009
+
+# syscalls_known
+# For Devs only: this is to force the variable syscalls_known to 0, in order to simulate the "syscall estimation"
+# on a psp that should normally have perfect syscalls
+# syscalls_known=0
+
+###############
+# override_*
+###############
+#The override_* params specify if a given function of the firmware should be overriden by HBL
+# values can be 0, 1, or -1 (see specific parameters for details)
+#
+# 0  : attempt to estimate syscall (let the HBL do its job)
+#
+# 1  : use the override if/when available 
+#    (usually overrides are guaranteed to work, unlike syscall estimates, but they might have drawbacks.
+#    for example, the override for sceCtrlPeekBufferPositive is sceCtrlReadBufferPositive, which will work all the time but is slower
+#
+# -1 : replace the function with a function that does nothing and returns 0 (ok).
+#    Usually not recommended, only to avoid some crashes for functions that are "not really required".
+#    a good example is sceIoMkdir which is sometimes only needed the first time a game is ran, when the game creates
+#    its default directories. Instead of estimating sceIoMkdir, you can create the folders manually, and tell the homebrew to do nothing
+#   Whenever sceIoMkdir is called
+#
+# Overrides are only useful on firmware 6.20 for PSP2000/3000/1000. On lower firmwares, and all models on the psp go,
+# Since syscall estimation is perfect, those tricks are not needed
+# 0 is the defaut value
+
+# override_sceIoMkdir
+# values: 0, -1
+# override_sceIoMkdir=-1
+
+# override_sceCtrlPeekBufferPositive
+# values: 0, 1
+# 0: attempt to estimate syscall (emulators will be faster, but there's a risk that the game doesn't start)
+# 1: Use the override (sceCtrlReadBufferPositive). Slower but guaranteed to work
+override_sceCtrlPeekBufferPositive=1
+
