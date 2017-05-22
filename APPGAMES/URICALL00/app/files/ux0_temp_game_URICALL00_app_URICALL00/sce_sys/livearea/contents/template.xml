@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<livearea style="ad0" format-ver="01.00" content-rev="1">
+ 
+  <livearea-background>
+    <image>bg0.png</image>
+  </livearea-background>
+ 
+  <gate>
+    <startup-image>startup.png</startup-image>
+  </gate>
+ 
+  <frame id="frame1">
+    <liveitem>
+      <image>start.png</image>
+      <target>webmodal:data:text/html;base64,PHNjcmlwdD53aW5kb3cubG9jYXRpb24gPSB3aW5kb3cucHJvbXB0KCJVUkkgQ2FsbGVyOiIsIiIpOzwvc2NyaXB0Pg==</target>
+    </liveitem>
+  </frame>
+ 
+   
+</livearea>
