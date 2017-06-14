@@ -19,6 +19,15 @@ https://codestation.github.io/qcma/
 
 Clicking on the magnifying glass, the program automatically searches for the last key used by QCMA! Or you can inform it manually!
 
+#Clone PSP games
+
+Added ability to clone PSP games, doing all the work, automatic
+>> Copy the PSP game and sequence the renamed folder
+>> Change param.sfo with new numbering
+>> Extract the changed game.
+>> Change the VITA_PATH.txt with the new numbering.
+>> Recreate cloned games.
+
 # Automatic mode exploits:
 
 When pressing the Exploits Automatic button, the program searches all PSP games in the PGAME\ID folder in a listbox, after selecting the game, should select which exploit will use VHBL or ARK, confirming the program will extract and recreate the game with the informed exploit Automatically, and add the folder of the chosen exploit, within the SAVEDATA automatically
