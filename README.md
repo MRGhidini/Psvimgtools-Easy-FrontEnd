@@ -19,7 +19,7 @@ https://codestation.github.io/qcma/
 
 Clicking on the magnifying glass, the program automatically searches for the last key used by QCMA! Or you can inform it manually!
 
-#Clone PSP games
+# Clone PSP games
 
 Added ability to clone PSP games, doing all the work, automatic
 >> Copy the PSP game and sequence the renamed folder
