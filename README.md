@@ -22,11 +22,11 @@ Clicking on the magnifying glass, the program automatically searches for the las
 # Clone PSP games
 
 Added ability to clone PSP games, doing all the work, automatic
->> Copy the PSP game and sequence the renamed folder
->> Change param.sfo with new numbering
->> Extract the changed game.
->> Change the VITA_PATH.txt with the new numbering.
->> Recreate cloned games.
+* Copy the PSP game and sequence the renamed folder
+* Change param.sfo with new numbering
+* Extract the changed game.
+* Change the VITA_PATH.txt with the new numbering.
+* Recreate cloned games.
 
 # Automatic mode exploits:
 
