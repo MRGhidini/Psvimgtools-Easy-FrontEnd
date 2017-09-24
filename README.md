@@ -19,7 +19,7 @@ https://codestation.github.io/qcma/
 
 Clicking on the magnifying glass, the program automatically searches for the last key used by QCMA! Or you can inform it manually!
 
-# Clone PSP games
+# Automatic Clone PSP games
 
 Added ability to clone PSP games, doing all the work, automatic
 * Copy the PSP game and sequence the renamed folder
@@ -27,6 +27,26 @@ Added ability to clone PSP games, doing all the work, automatic
 * Extract the changed game.
 * Change the VITA_PATH.txt with the new numbering.
 * Recreate cloned games.
+
+# Automatic themes
+
+List of themes that are included in themas folder, but you can add more
+* Theme Flatcons
+* Theme GraceUX
+* Theme HACKINFORMER
+* Theme Mario
+* To add more, just copy your custom internet theme to the THEME folder
+
+# Automatic SQL commands
+
+List of SQL commands included in the SQL folder, but you can add more
+* Package-Installer
+* RemoveFeatured-PSTV
+* Whitelist-PSTV
+* To add more, just create a .txt file with the SQL command and copy it to the SQL folder
+
+
+Added ability to add custom themes
 
 # Automatic mode exploits:
 
