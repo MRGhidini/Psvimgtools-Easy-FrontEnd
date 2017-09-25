@@ -1,0 +1,2 @@
+insert into tbl_appinfo_icon values (
+ (select max(pageId) from tbl_appinfo_icon),(select max(pos)+1 from tbl_appinfo_icon where pageId = (select max(pageId) from tbl_appinfo_icon)),"vs0:app/npxs10031/sce_sys/icon0.png","* Package Installer",0,NULL,"NPXS10031",5,0,0,NULL,NULL,NULL,NULL,NULL);

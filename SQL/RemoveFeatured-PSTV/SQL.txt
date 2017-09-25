@@ -1,0 +1,35 @@
+DROP TRIGGER tgr_livearea_del_img;
+DROP TRIGGER tgr_livearea_frame_del_item;
+DELETE FROM tbl_appinfo WHERE titleId='NPXS10102' AND val=0;
+DELETE FROM 'tbl_livearea' WHERE titleId='NPXS10102';
+DELETE FROM 'tbl_livearea_frame' WHERE titleId='NPXS10102';
+CREATE TRIGGER tgr_livearea_del_img AFTER DELETE ON tbl_livearea 
+WHEN OLD.gate_startupImage LIKE ' %' OR OLD.background_image LIKE ' %' 
+BEGIN 
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.gate_startupImage AS INTEGER);
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.background_image AS INTEGER);
+END;
+CREATE TRIGGER tgr_livearea_frame_del_item BEFORE DELETE ON tbl_livearea_frame 
+WHEN OLD.item0_bg_path LIKE ' %' OR OLD.item0_img_path LIKE ' %' OR OLD.item1_bg_path LIKE ' %' OR OLD.item1_img_path LIKE ' %' OR OLD.item2_bg_path LIKE ' %' OR OLD.item2_img_path LIKE ' %' OR OLD.item3_bg_path LIKE ' %' OR OLD.item3_img_path LIKE ' %' OR OLD.item4_bg_path LIKE ' %' OR OLD.item4_img_path LIKE ' %' OR OLD.item5_bg_path LIKE ' %' OR OLD.item5_img_path LIKE ' %' OR OLD.item6_bg_path LIKE ' %' OR OLD.item6_img_path LIKE ' %' OR OLD.item7_bg_path LIKE ' %' OR OLD.item7_img_path LIKE ' %' OR OLD.item8_bg_path LIKE ' %' OR OLD.item8_img_path LIKE ' %' OR OLD.item9_bg_path LIKE ' %' OR OLD.item9_img_path LIKE ' %' 
+BEGIN 
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.item0_bg_path AS INTEGER);
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.item0_img_path AS INTEGER);
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.item1_bg_path AS INTEGER);
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.item1_img_path AS INTEGER);
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.item2_bg_path AS INTEGER);
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.item2_img_path AS INTEGER);
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.item3_bg_path AS INTEGER);
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.item3_img_path AS INTEGER);
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.item4_bg_path AS INTEGER);
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.item4_img_path AS INTEGER);
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.item5_bg_path AS INTEGER);
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.item5_img_path AS INTEGER);
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.item6_bg_path AS INTEGER);
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.item6_img_path AS INTEGER);
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.item7_bg_path AS INTEGER);
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.item7_img_path AS INTEGER);
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.item8_bg_path AS INTEGER);
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.item8_img_path AS INTEGER);
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.item9_bg_path AS INTEGER);
+UPDATE tbl_livearea_file SET refcnt=refcnt-1 WHERE rowid=CAST(OLD.item9_img_path AS INTEGER);
+END;

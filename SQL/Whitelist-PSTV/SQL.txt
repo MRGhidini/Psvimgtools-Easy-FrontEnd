@@ -1,0 +1,20 @@
+CREATE TRIGGER CHANGE_CATEGORY_GPC AFTER INSERT ON tbl_appinfo
+WHEN new.val LIKE 'gpc'
+BEGIN
+UPDATE tbl_appinfo SET val='gdb' WHERE key='566916785' and titleid=new.titleid;
+END;
+CREATE TRIGGER CHANGE_CATEGORY_GP AFTER INSERT ON tbl_appinfo
+WHEN new.val LIKE 'gp'
+BEGIN
+UPDATE tbl_appinfo SET val='gdb' WHERE key='566916785' and titleid=new.titleid;
+END;
+CREATE TRIGGER CHANGE_CATEGORY_GDC AFTER INSERT ON tbl_appinfo
+WHEN new.val LIKE 'gdc'
+BEGIN
+UPDATE tbl_appinfo SET val='gdb' WHERE key='566916785' and titleid=new.titleid;
+END;
+CREATE TRIGGER CHANGE_CATEGORY_GD AFTER INSERT ON tbl_appinfo
+WHEN new.val LIKE 'gd'
+BEGIN
+UPDATE tbl_appinfo SET val='gdb' WHERE key='566916785' and titleid=new.titleid;
+END;
