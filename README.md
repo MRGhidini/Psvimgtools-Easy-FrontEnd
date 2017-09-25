@@ -35,6 +35,7 @@ List of themes that are included in themas folder, but you can add more
 * Theme GraceUX
 * Theme HACKINFORMER
 * Theme Mario
+* Theme Nighttime
 * To add more, just copy your custom internet theme to the THEME folder
 
 # Automatic SQL commands
