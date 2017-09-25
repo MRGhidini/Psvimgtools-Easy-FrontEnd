@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<livearea style="ad0" format-ver="01.00" content-rev="1">
+	<livearea-background>
+		<image>bg.png</image>
+	</livearea-background>
+ <frame id="frame1">
+    <liveitem>
+      <image  y="40" >startup.png</image>
+      <target>webmodal:https://repo47.000webhostapp.com/WololoVita/</target>
+    </liveitem>
+  </frame>
+</livearea>
