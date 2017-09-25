@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme format-ver="00.99" package="0">
+ <HomeProperty>
+<!--HACKINFORMER THEME V1.00 by Vex_Official
+  Changelog :
+  - This is the very first version!
+Thanks to everybody. Please use this theme wisely and never edit my theme without my permission! -->
+   <m_bgParam>
+     <BackgroundParam>
+	 <m_imageFilePath>theme-bg-1.png</m_imageFilePath>
+	 <m_thumbnailFilePath>theme-bg-1.png</m_thumbnailFilePath>
+       <m_waveType>11</m_waveType>
+     </BackgroundParam>
+	 <BackgroundParam>
+	<m_imageFilePath>theme-bg-1.png</m_imageFilePath>
+	 <m_thumbnailFilePath>theme-bg-1.png</m_thumbnailFilePath>
+       <m_waveType>11</m_waveType>
+     </BackgroundParam>
+	 <BackgroundParam>
+	<m_imageFilePath>theme-bg-1.png</m_imageFilePath>
+	 <m_thumbnailFilePath>theme-bg-1.png</m_thumbnailFilePath>
+       <m_waveType>11</m_waveType>
+     </BackgroundParam>
+     <BackgroundParam>
+	 <m_imageFilePath>theme-bg-1.png</m_imageFilePath>
+	 <m_thumbnailFilePath>theme-bg-1.png</m_thumbnailFilePath>
+       <m_waveType>11</m_waveType>
+     </BackgroundParam>
+	 <BackgroundParam>
+	<m_imageFilePath>theme-bg-1.png</m_imageFilePath>
+	 <m_thumbnailFilePath>theme-bg-1.png</m_thumbnailFilePath>
+       <m_waveType>11</m_waveType>
+     </BackgroundParam>
+	 <BackgroundParam>
+	<m_imageFilePath>theme-bg-1.png</m_imageFilePath>
+	 <m_thumbnailFilePath>theme-bg-1.png</m_thumbnailFilePath>
+       <m_waveType>11</m_waveType>
+     </BackgroundParam>
+   </m_bgParam>
+  <m_bgmFilePath>BGM.at9</m_bgmFilePath>
+   <m_browser>
+     <m_iconFilePath>icon_web.png</m_iconFilePath>
+   </m_browser>
+   <m_calendar>
+     <m_iconFilePath>icon_calendar.png</m_iconFilePath>
+   </m_calendar>
+   <m_camera>
+     <m_iconFilePath>icon_photos.png</m_iconFilePath>
+   </m_camera>
+   <m_email>
+     <m_iconFilePath>icon_mail.png</m_iconFilePath>
+   </m_email>
+   <m_friend>
+     <m_iconFilePath>icon_friends.png</m_iconFilePath>
+   </m_friend>
+   <m_hostCollabo>
+     <m_iconFilePath>icon_cma.png</m_iconFilePath>
+   </m_hostCollabo>
+   <m_message>
+     <m_iconFilePath>icon_messages.png</m_iconFilePath>
+   </m_message>
+   <m_music>
+     <m_iconFilePath>icon_music.png</m_iconFilePath>
+   </m_music>
+   <m_near>
+     <m_iconFilePath>icon_near.png</m_iconFilePath>
+   </m_near>
+   <m_parental>
+     <m_iconFilePath>icon_parental.png</m_iconFilePath>
+   </m_parental>
+   <m_party>
+     <m_iconFilePath>icon_party.png</m_iconFilePath>
+   </m_party>
+   <m_power>
+     <m_iconFilePath>icon_power.png</m_iconFilePath>
+   </m_power>
+   <m_ps3Link>
+     <m_iconFilePath>icon_ps3link.png</m_iconFilePath>
+   </m_ps3Link>
+   <m_ps4Link>
+     <m_iconFilePath>icon_ps4link.png</m_iconFilePath>
+   </m_ps4Link>
+   <m_settings>
+     <m_iconFilePath>icon_settings.png</m_iconFilePath>
+   </m_settings>
+   <m_trophy>
+     <m_iconFilePath>icon_trophies.png</m_iconFilePath>
+   </m_trophy>
+   <m_video>
+     <m_iconFilePath>icon_videos.png</m_iconFilePath>
+   </m_video>
+   <m_maps>
+     <m_iconFilePath>icon_maps.png</m_iconFilePath>
+   </m_maps>
+   <m_store>
+     <m_iconFilePath>icon_store.png</m_iconFilePath>
+   </m_store>
+ </HomeProperty>
+ <InfomationBarProperty>
+   <m_barColor>fff6f6f6</m_barColor>
+   <m_indicatorColor>ff000000</m_indicatorColor>
+ </InfomationBarProperty>
+ <InfomationProperty>
+   <m_contentVer>01.00</m_contentVer>
+   <m_homePreviewFilePath>preview_page.png</m_homePreviewFilePath>
+   <m_packageImageFilePath>preview_thumbnail.png</m_packageImageFilePath>
+   <m_provider>
+     <m_default>Vex_Official</m_default>
+     <m_param>Vex_Official</m_param>
+   </m_provider>
+   <m_startPreviewFilePath>preview_lockscreen.png</m_startPreviewFilePath>
+   <m_title>
+     <m_default>Hackinformer Theme</m_default>
+     <m_param>
+       <m_da>Hackinformer Theme</m_da>
+       <m_de>Hackinformer Theme</m_de>
+       <m_es>Hackinformer Theme</m_es>
+       <m_fi>Hackinformer Theme</m_fi>
+       <m_fr>Hackinformer Theme</m_fr>
+       <m_it>Hackinformer Theme</m_it>
+       <m_nl>Hackinformer Theme</m_nl>
+       <m_no>Hackinformer Theme</m_no>
+       <m_pl>Hackinformer Theme</m_pl>
+       <m_pt>Hackinformer Theme</m_pt>
+       <m_ru>Hackinformer Theme</m_ru>
+       <m_sv>Hackinformer Theme</m_sv>
+     </m_param>
+   </m_title>
+ </InfomationProperty>
+ <StartScreenProperty>
+   <m_dateColor>ffffffff</m_dateColor>
+   <m_dateLayout>0</m_dateLayout>
+   <m_filePath>lockpaper.png</m_filePath>
+   <m_notifyBgColor>1fffffff</m_notifyBgColor>
+   <m_notifyBorderColor>ffcccccc</m_notifyBorderColor>
+   <m_notifyFontColor>ffffffff</m_notifyFontColor>
+ </StartScreenProperty>
+</theme>
