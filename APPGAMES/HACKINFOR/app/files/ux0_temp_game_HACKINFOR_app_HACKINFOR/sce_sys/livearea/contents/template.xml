@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<livearea style="ad4" format-ver="01.00" content-rev="1">
+	<livearea-background>
+		<image>bg0.png</image>
+	</livearea-background>
+	 
+	<gate>
+		<startup-image>startup.png</startup-image>
+	</gate>
+	
+	<frame id="frame1">
+		<liveitem>
+			<background align="center" valign="center">logo_site.png</background>
+			<target>https://hackinformer.com</target>
+		</liveitem>
+	</frame>
+	
+	<frame id="frame2">
+		<liveitem>
+			<text align="center" text-align="center" valign="top" text-valign="center">
+				<str color="#000000" size="32" bold="on" shadow="on">tap to visit now!</str>
+			</text>
+			<target>https://hackinformer.com</target>
+		</liveitem>
+	</frame>
+
+	
+	
+	<frame id="frame7">
+		<liveitem>
+			<image x="-80">bubble.png</image>
+			<text origin="image" align="outside-right" margin-left="20">
+				<str color="#000000" size="20" bold="on" shadow="on">visit our /forums</str>
+			</text>
+			<target>https://hackinformer.com/forum</target>
+		</liveitem>
+	</frame>
+	
+	<frame id="frame8">
+		<liveitem>
+			<image x="-80">logo_psguide.png</image>
+			<text origin="image" align="outside-right" margin-left="20">
+				<str color="#000000" size="20" bold="on" shadow="on">PlayStation Guide</str>
+			</text>	
+			<target>https://hackinformer.com/PlayStationGuide/</target>
+		</liveitem>
+	</frame>
+	
+	<frame id="frame9">
+		<liveitem>
+			<image x="-80">logo_nguide.png</image>
+			<text origin="image" align="outside-right" margin-left="20">
+				<str color="#000000" size="20" bold="on" shadow="on">Nintendo Guide</str>
+			</text>	
+			<target>https://hackinformer.com/NintendoGuide/</target>
+		</liveitem>
+	</frame>
+	
+</livearea>
