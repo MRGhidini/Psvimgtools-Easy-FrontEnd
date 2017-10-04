@@ -19,6 +19,15 @@ https://codestation.github.io/qcma/
 
 Clicking on the magnifying glass, the program automatically searches for the last key used by QCMA! Or you can inform it manually!
 
+# Extracting of pkg to NoNpDrm
+
+Just download pkg, if you want suggestions there is a list in the file Download.txt, after download put your file.pkg in the PKG folder, if there is a zRIF add to the file ListKey.txt: ex: Title_ID;zRIF
+* List the Title_ID of pkg that are in the PKG folder
+* Extract pkg with drm, zRIF needs to be added in ListKey.txt together with Title_ID
+* Extract pkg with drmfree
+In the PKG folder, you have a list of suggestions for downloading from the Zeus list, with the zRIF already added to the ListKey.txt file.
+You need the NoNpDrm plugin in your vita.
+
 # Automatic Clone PSP games
 
 Added ability to clone PSP games, doing all the work, automatic
