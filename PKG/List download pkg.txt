@@ -1,0 +1,1132 @@
+Title ID	Region	Name	PKG direct link
+PCSB00180	EU	Oddworld: Stranger's Wrath HD	http://zeus.dl.playstation.net/cdn/EP4134/PCSB00180_00/nWeDdtFKINeiSUPXiIdfWZPfJSHxBogNmTxaIjJEqZoeJgTwXZTbtKldBNlEtxUs.pkg
+PCSF00446	EU	Freedom Wars	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00446_00/rzMueMJNXemMDsEKEquZcSYmgrBoJCuZpwjgbMCoELhJoiPFhydzoNQDwUkXllsM.pkg
+PCSF00271	EU	Sly 3: Honour Among Thieves	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00271_00/wfRAGQEoMApitEJmaitNoqQfTIzyleIotUSbnaBoVDsMOnqLHTybUbQpPAAbMViN.pkg
+PCSF00247	EU	The Jak and Daxter Trilogy	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00247_00/nvNgBxoDUgEzPxSREFrIcQJofqQFHlmWbaYVOWzGuBiQCPtyFWOhtMePrtkQXOXn.pkg
+PCSF00243	EU	"Killzone™ Mercenary (EFIGS;DUT;POR)"	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00243_00/kUrQRHrASnoSVifLvUNYRODJFZnULJqkwIqiodZDBrhJEjNNEEGEHzzWePXjOtgO.pkg
+PCSF00068	EU	Unit 13	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00068_00/ZeeNRtBrjXcCIsxIxCoRsWrqtlmRWECVtdBwwqlQKhBMEdnDCBArHwMUsassPCxP.pkg
+PCSF00208	EU	Sly Cooper: Thieves in Time™ (ENG,FRE,DUT)	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00208_00/cFJanAGsTucUPkYkjujjxSGAUabDXWInzronWQKCabDSttkHrqQMbxvHNJUrSuGx.pkg
+PCSF00024	EU	Gravity Rush	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00024_00/fSndUWlDQSWRWhQnmRatZeBUBoCzWFCkzCyBJFeiGOumyAStXgoANrosdheJxKHY.pkg
+PCSB00975	EU	Adventures of Mana	http://zeus.dl.playstation.net/cdn/EP0082/PCSB00975_00/EP0082-PCSB00975_00-ADVENTURESOFMANA_bg_1_5aed8396547745055f306d6bef249a34a5fa6745.pkg
+PCSB00898	EU	Attack on Titan: Wings of Freedom	http://zeus.dl.playstation.net/cdn/EP4108/PCSB00898_00/EP4108-PCSB00898_00-AT1EUHDDGAME0000_bg_1_409b9fd14d817bcb653743a14dc32691e7cb7a0b.pkg
+PCSB00502	EU	Oddworld: New 'n' Tasty	http://zeus.dl.playstation.net/cdn/EP4134/PCSB00502_00/EP4134-PCSB00502_00-ODDWORLDNEWTASTY_bg_1_b169a0003c4fc60330e8fe3cb859ecf2b4389ff8.pkg
+PCSF00476	EU	Tearaway	http://ares.dl.playstation.net/cdn/EP9000/PCSF00476_00/tZnOIExAbzIvRlEknwZRzrrwmNiuMOtIMnFuIBvqSOTcPOOgktHkIXtymHraEvcH.pkg
+PCSF00482	EU	The Ratchet & Clank Trilogy	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00482_00/STRUmoEaQzlKIklyTEdofSBVQHKnEzbbubulwjNMjYrXREDadqSEUZeemhEQzvhB.pkg
+PCSE00429	US	Tales of Hearts R	http://zeus.dl.playstation.net/cdn/UP0700/PCSE00429_00/ehjqaqTAsoyZPNVAdZbGGoOwgDufNEaMjDOgpHSbduyAJLtlpjToGWPbBzgKdVSk.pkg
+PCSE00277	US	Rayman Legends	http://zeus.dl.playstation.net/cdn/UP0001/PCSE00277_00/cenikzcQtSdsaWFspwNJqXgfmUpOLiixETfjRkFakwZDKyRgKFcKPLlOfZrTTtEB.pkg
+PCSA00011	US	Gravity Rush	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00011_00/dRICewDJtPZHtBCwPvyzdGdmGGVSLtvrJhEoxtJwhXYCFAVEUmOZaMCqmDyludGWPCrCJxIPINoaWQzBwVBJsnyulhZclhwSFdjnD.pkg
+PCSA00147	US	Freedom Wars	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00147_00/itMmtKIhuwDQjwLENTzZlYyJLkayPODvkSvChAAAgYYXStgqUhJVAseXXXXSLQEg.pkg
+PCSE00019	US	Dragon's Crown	http://zeus.dl.playstation.net/cdn/UP0005/PCSE00019_00/LjXFkKhBZRDpvkWanrsvnnlDfrRYKvvVNkZakuWWdMiMVAHDCXNuPojQiEKxDoMo.pkg
+PCSE00020	US	Metal Gear Solid HD Collection	http://zeus.dl.playstation.net/cdn/UP0101/PCSE00020_00/XsGHXcWryxqMAbUdmZwovDCIuDItkXbvEwOklvERfAMiUAnJPFpJBYpxcurlIFIUNsGfwFsYZDhCGLortFPQZOQwbBlEkdzOntbfv.pkg
+PCSE00231	US	Atelier Totori Plus: The Adventurer of Arland	http://zeus.dl.playstation.net/cdn/UP4108/PCSE00231_00/GVgSNpttWbjVLctyuWIsCcraJiNtEaBgkofhuFhTfvKUZzLekeJRzweHzzrtxuOI.pkg
+PCSE00283	US	Final Fantasy X-2 HD Remaster	http://zeus.dl.playstation.net/cdn/UP0082/PCSE00283_00/iJNQrEUIprLsPZTKZbXbJJsbbSnCPhhondUfmWDBbHaCeKyPbhVAtbQFuPXdBfoL.pkg
+PCSE00296	US	Atelier Meruru Plus: The Apprentice of Arland	http://zeus.dl.playstation.net/cdn/UP4108/PCSE00296_00/RzyQIuJeUtQOjFYMPtvXtilOrTWAaonufOJYzWRsnJVRdVAhPjheJawNiJxMscwU.pkg
+PCSE00326	US	Hatsune Miku: Project DIVA f	http://zeus.dl.playstation.net/cdn/UP0177/PCSE00326_00/AqxurYMdaVTELtEtICaUuYWbHRBqQdTkfzWlmMdcWHGgiqxEHcEpXMElaBDTEqKK.pkg
+PCSE00398	US	Senran Kagura: Shinovi Versus	http://zeus.dl.playstation.net/cdn/UP1023/PCSE00398_00/IfuzezuGLNZJuHEEXnnuzMmicTcEiyBaNanuZQhqigEykTkTMCtWyukQaQyBfmxS.pkg
+PCSE00434	US	Hatsune Miku: Project DIVA f 2nd	http://zeus.dl.playstation.net/cdn/UP0177/PCSE00434_00/RmBuvEURXrLZyCTqWOOxYMlHiFSxLniCvupYFrgskYtqlLATqyXXMfiumwLbpBju.pkg
+PCSE00443	US	"Hyperdimension Neptunia Re;Birth1"	http://zeus.dl.playstation.net/cdn/UP0031/PCSE00443_00/iJSWlfynbGxoaEocQfFAMYWlwKLACPsEQRwzkDSwhAAJiKfIVqToBtYUbfIyDPIB.pkg
+PCSE00465	US	Sword Art Online -Hollow Fragment-	http://zeus.dl.playstation.net/cdn/UP0700/PCSE00465_00/RaUaPXKmPTcMvAajQFFtTkiZhFogStqzaRkZiqBZFQBoiLfUYXlPbAwKeRScpdBt.pkg
+PCSE00466	US	Atelier Rorona Plus: The Alchemist of Arland	http://zeus.dl.playstation.net/cdn/UP4108/PCSE00466_00/XsSJSDjnTfUizohunXnSnREWggQHivHNldUsCgKjsQNHTCPjKSXBBHrMfUVkDSwC.pkg
+PCSB00079	EU	Rayman Origins	http://zeus.dl.playstation.net/cdn/EP0001/PCSB00079_00/qlZuAgYluBwonGoNYbdnShiZXywfhUTHqSRLscOEYpNUeNwhlKYDMmzTUVyifegg.pkg
+PCSB00109	EU	New Little King's Stor	http://zeus.dl.playstation.net/cdn/EP0101/PCSB00109_00/tAdaplklYUAJfLzJPmUyLwuXFUYMIGYTvFQoRNSroneshZKtBOsnhSNnMOyEsiDj.pkg
+PCSB00118	EU	Metal Gear Solid HD Collection	http://zeus.dl.playstation.net/cdn/EP0101/PCSB00118_00/ilCLoXJoDvyTeqtkUOXTcfUlxyTEajuvILtohVeKfClaphQbOiSCyXAFnMOppyjq.pkg
+PCSB00189	EU	Guacamelee!	http://ares.dl.playstation.net/cdn/EP2145/PCSB00189_00/SbbaKVGkVPdjfFVkQKivpwobUpjfAqBsbJjEsCJOklQoNZDvttrgPPhcqRENCUlv.pkg
+PCSB00245	EU	Persona 4 Golden	http://zeus.dl.playstation.net/cdn/EP1063/PCSB00245_00/LTncdecBVsTHeSLEZFxxfhjtwnXrTlNdtKcGdjlCsGnkqFcmlxNpAIQlJerDXONr.pkg
+PCSB00318	EU	Hotline Miami	http://zeus.dl.playstation.net/cdn/EP3643/PCSB00318_00/DkxvaUFlqzWbAvJUIVSBYxXRLVESZGCRoPQqADOIhZyqTATbjrvdsBnCJESuQUFu.pkg
+PCSB00346	EU	Danganronpa: Trigger Happy Havoc	http://zeus.dl.playstation.net/cdn/EP1063/PCSB00346_00/IHqWvWZPbvHKzxJHCFyJEuHqIYPhuGzDvGtTMNKXWRhuXxAYGdaxLzBvmjJzzwrQ.pkg
+PCSB00353	EU	Batman: Arkham Origins Blackgate	http://zeus.dl.playstation.net/cdn/EP1018/PCSB00353_00/wZSXCjzkeWNgjtmqoNYkOdcdCaNlNDGhGwByQPbULRmRxlVlmrNbDXgyTwQRxoHW.pkg
+PCSB00359	EU	Spelunky	http://zeus.dl.playstation.net/cdn/EP4407/PCSB00359_00/wXpVTLWIpyXQclkzqQSjFdwreyveLHVSgEZzziXkwjIgEcpxRgnMCpZthlWjgAWo.pkg
+PCSB00361	EU	Lone Survivor: The Director's Cut	http://zeus.dl.playstation.net/cdn/EP4395/PCSB00361_00/XrSdjEAwZwYHvqOVeCkrlfLfhLDaPGvAtsYdmgJHsEOqnLaSGCgPjXqeiPcWqygj.pkg
+PCSB00394	EU	Final Fantasy X-2 HD Remaster	http://zeus.dl.playstation.net/cdn/EP0082/PCSB00394_00/qhOLakgLgyWmwGoYCWalSdDzGeNnaTLeZvyzImWumJHcNoaNUODOHyEUFDosARxB.pkg
+PCSB00404	EU	Muramasa Rebirth	http://zeus.dl.playstation.net/cdn/EP1024/PCSB00404_00/tHdESKkLQUyRPbnnbcLrHBeSJoJuEeOORhntkASuzTqXRnjsyFwrAEFssCpNKJab.pkg
+PCSB00408	EU	Dragon's Crown	http://zeus.dl.playstation.net/cdn/EP1063/PCSB00408_00/MrJHxyztCfESmTIdDJnyuhFpgWSuBKsoZdEGCgezlaSZZGAUFEUyMKXCpEmJFTJS.pkg
+PCSB00437	EU	Duke Nukem 3D: Megaton Edition	http://zeus.dl.playstation.net/cdn/EP3643/PCSB00437_00/azhVovzgCZWqkOwlIEONHIfwnuHpAVklAdUPxHEHXuoHKUXDexggRBHPvvpfgjiw.pkg
+PCSB00456	EU	FEZ	http://zeus.dl.playstation.net/cdn/EP4427/PCSB00456_00/VXXbucZUPtJWAofoFjHgUOZlsfijPgPsuOADtfppUtyVNPAtpAadOElIgtYzGwYD.pkg
+PCSB00514	EU	Danganronpa 2: Goodbye Despair	http://zeus.dl.playstation.net/cdn/EP1063/PCSB00514_00/RnPZTTIDKYoQOzURASJhMhyDRxTscAXuttuEjkxUSeRvefLrNsSKujuLbUcUZmxq.pkg
+PCSB00548	EU	PixelJunk Shooter Ultimate	http://zeus.dl.playstation.net/cdn/EP4415/PCSB00548_00/juMFrfCdxgpGxaITrdWmcadUelsLosoCtvtpHMSRNTUCwdgdpcIOdIPCRIZlxxIM.pkg
+PCSB00550	EU	Tales of Hearts R	http://zeus.dl.playstation.net/cdn/EP0700/PCSB00550_00/SvHlRpWkgomksmvGvPwOujFCOKNYuMcixsQdhzQMzKGkptGMyoAdivYrusUnWzdO.pkg
+PCSB00579	EU	"Hyperdimension Neptunia Re;Birth1"	http://zeus.dl.playstation.net/cdn/EP0031/PCSB00579_00/SVXYotxpijFYRkKBJIHrTbzXujTjDlvQCbnFzMqhKGaNiaDghOyLqKtKheuucvoC.pkg
+PCSB00618	EU	Sword Art Online -Hollow Fragment-	http://zeus.dl.playstation.net/cdn/EP0700/PCSB00618_00/MxrdjiPJOqRuxmOCLnJMWodlzwMyrjPneJdGvZVwIJKpAkbaYGELIfrgIQiYWwTQ.pkg
+PCSB00626	EU	"Hyperdimension Neptunia Re;Birth2"	http://zeus.dl.playstation.net/cdn/EP0031/PCSB00626_00/VwKIVwdhwkVRuZnIPzBuDBBLfMungRHbplWCtqRQgpTwJVVtDUNLAUsFkaruyudV.pkg
+PCSB00640	EU	Akiba's Trip: Undead & Undressed	http://zeus.dl.playstation.net/cdn/EP1063/PCSB00640_00/iaQyDptxiDcxwdTRlbeHFJfeYisvgkuqtVyMwdpJXGEByXoNcgqRHowMUooWibbN.pkg
+PCSB00676	EU	The Binding Of Isaac: Rebirth	http://zeus.dl.playstation.net/cdn/EP2103/PCSB00676_00/icAYSaTaScCSRZYrtPQhpBqWocEWRrdWOGMzBTHKfLmnUsCQDeFezSmAJYqYuTOD.pkg
+PCSB00694	EU	La-Mulana EX	http://zeus.dl.playstation.net/cdn/EP4034/PCSB00694_00/EP4034-PCSB00694_00-G000000000000627_bg_1_60d558c1756e4bff54574ae2b81c5ca377800048.pkg
+PCSB00722	EU	Teslagrad	http://zeus.dl.playstation.net/cdn/EP4513/PCSB00722_00/EP4513-PCSB00722_00-TESLAGRAD0000001_bg_2_c9177d275f2c85d8eb8f36a4eca99e7a6c43db1d.pkg
+PCSB00724	EU	"Steins;Gate"	http://zeus.dl.playstation.net/cdn/EP4293/PCSB00724_00/EP4293-PCSB00724_00-STEINSGATE00000E_bg_1_d3ce0b851e3af64930b66cef9919ba64344069e6.pkg
+PCSB00740	EU	Amnesia: Memories	http://zeus.dl.playstation.net/cdn/EP0031/PCSB00740_00/EP0031-PCSB00740_00-AMNESIAMEMORIES1_bg_1_7f062ef17d810c7795163b975adae77ba0577b4b.pkg
+PCSB00742	EU	XCOM: Enemy Unknown Plus	http://zeus.dl.playstation.net/cdn/EP1001/PCSB00742_00/EP1001-PCSB00742_00-XCOMENEMYUNKPLUS_bg_1_a4f90dccb6c90f75fc7cd45d1e8cd8f856cdec88.pkg
+PCSB00747	EU	Day of the Tentacle Remastered	http://zeus.dl.playstation.net/cdn/EP2154/PCSB00747_00/EP2154-PCSB00747_00-DAYOFTHETENTACLE_bg_1_3ea8dcc8ac718f84df583bcff3ac58925b7d357e.pkg
+PCSB00779	EU	Axiom Verge	http://zeus.dl.playstation.net/cdn/EP0850/PCSB00779_00/EP0850-PCSB00779_00-AXIOMVERGE000000_bg_1_de788236d479ef1856369b4fc5870b918f2150f8.pkg
+PCSB00788	EU	Danganronpa Another Episode: Ultra Despair Girls	http://zeus.dl.playstation.net/cdn/EP1063/PCSB00788_00/EP1063-PCSB00788_00-DESPAIRGIRLSEU01_bg_1_22b787ecbe650dbf56f0bec7c83c4454533b67e4.pkg
+PCSB00822	EU	Corpse Party: Blood Drive	http://zeus.dl.playstation.net/cdn/EP4492/PCSB00822_00/EP4492-PCSB00822_00-CPVOL4BLOODDRIVE_bg_1_3d54f1809127fde2f2b0bfe0cdeb16e3fbe00333.pkg
+PCSB00874	EU	God Eater Ressurection	http://zeus.dl.playstation.net/cdn/EP0700/PCSB00874_00/EP0700-PCSB00874_00-DOWNLOADABLEGAME_bg_1_f75ad7d9fd7592bc97bf6dbba62b57fe81ce8b9f.pkg
+PCSB00875	EU	God Eater 2 Rage Burst	http://zeus.dl.playstation.net/cdn/EP0700/PCSB00875_00/EP0700-PCSB00875_00-DOWNLOADABLEGAME_bg_1_6ca6560990233c7580b3fb6341c2722cce74b49c.pkg
+PCSB00910	EU	Neon Chrome (3.60+!)	http://zeus.dl.playstation.net/cdn/EP4403/PCSB00910_00/EP4403-PCSB00910_00-NEONCHROME000000_bg_1_3f1b803435271b7f9743aa2502d941db592f4046.pkg
+PCSB00935	EU	Risk of Rain	http://zeus.dl.playstation.net/cdn/EP0338/PCSB00935_00/EP0338-PCSB00935_00-RISKOFRAIN000000_bg_1_4e2a64fb8ac4fb3f57453f7df9eecaf7f5a18dc3.pkg
+PCSB00951	EU	World of Final Fantasy	http://zeus.dl.playstation.net/cdn/EP0082/PCSB00951_00/EP0082-PCSB00951_00-WORLDOFFFPSVITA0_bg_1_27a3e22b59ca5b9bb4496c2608542be006002a6f.pkg
+PCSB00952	EU	Downwell	http://zeus.dl.playstation.net/cdn/EP3643/PCSB00952_00/EP3643-PCSB00952_00-DOWNWELLEUPV0001_bg_1_c4951e71f988f492cdb52b8fae9514c6f7818012.pkg
+PCSF00338	EU	The Sly Trilogy	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00338_00/TlrCgRbcfIRujPxdmHTCFXBhBtNVujVsbswRqhsOQtqSfaedxlElJaIgiWvbkFUW.pkg
+PCSF00532	EU	Soul Sacrifice Delta	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00532_00/KYpGuCIBbGvjbeEEXnyxltFDWUHGnrtowUseIwtsUMTApXfRRrvOEEdUzheyfXMF.pkg
+PCSB00861	EU	Digimon Story Cyber Sleuth	http://zeus.dl.playstation.net/cdn/EP0700/PCSB00861_00/EP0700-PCSB00861_00-DSCYBERSLEUTH001_bg_1_fe4f5939959b5419463adad1305a52fd28f2b463.pkg
+PCSE00085	US	Zero Escape: Virtue's Last Reward	http://zeus.dl.playstation.net/cdn/UP1024/PCSE00085_00/SKoAviXZPyARzcYfpaXDbizjYcDRVCCRpBTeCYQPVjrJtiWomOtImRHzjmEIYhPu.pkg
+PCSE00428	US	Akiba's Trip: Undead & Undressed	http://zeus.dl.playstation.net/cdn/UP1023/PCSE00428_00/pAGZLDgJRXBpEgrrSmYNqOgQkvOOJbTOMtfNkmQKgKziSywEKQdOzXtbpUAtIDlW.pkg
+PCSE00235	EU	Dead or Alive 5 Plus	http://ares.dl.playstation.net/cdn/UP4108/PCSE00235_00/GmeNDsdSsKQIfFEDNxbDElVxTmzCxrhhTVYLtxqSUFzNQOVwjyPICSAOPzvRwOhI.pkg
+PCSF00349	EU	Flower	http://ares.dl.playstation.net/cdn/EP9000/PCSF00349_00/efbKuthwsZWcEgNUGtWWUuVmCFSteLHLPwSwOjPJtjQxzjnylpIUkPOEezkSWHuI.pkg
+PCSG00351	JP	Phantasy Star Nova	http://zeus.dl.playstation.net/cdn/JP0177/PCSG00351_00/JSvfiwunXmyyhriUILTtRbXdLssLCRWFstWAguVswaESSjeRYWIyyaItYOYSdCNTbxGhbPlAXueVrbtFtsarGuCwZrfCVgMKJEutr.pkg
+PCSE00471	US	Senran Kagura Bon Appetit!	http://zeus.dl.playstation.net/cdn/UP1023/PCSE00471_00/SONCbbEODygBXUfyVYMxkQRrLpOezWnpyfXqmthOwngJrqEabdpDpMDSflWeYSYc.pkg
+PCSE00516	US	Criminal Girls: Invite Only	http://zeus.dl.playstation.net/cdn/UP1063/PCSE00516_00/UP1063-PCSE00516_00-0001000000000000_bg_1_9193fe17a8c501e6b6409af2e2d959a556e00aaa.pkg
+PCSE00269	US	Batman: Arkham Origins Blackgate	http://zeus.dl.playstation.net/cdn/UP1018/PCSE00269_00/GCORuidZXMRjalwKeSJsjTVHvsWCkvFndwQoVaknkpOMtdhsVEEtFscoiQwPSxYB.pkg
+PCSE00480	US	Child of Light	http://ares.dl.playstation.net/cdn/UP0001/PCSE00480_00/uRfuwBFbfkRuiMZboyljLgZetqHaSbQKYOfGqFvphRpuPpaKNaBKhePLhTuPhAGX.pkg
+PCSA00153	US	Murasaki Baby	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00153_00/zZNKMtJEMUPJjRKScObwZXWghUumOLOFPThyvyJpzVdreNxgjbfMdGYIdAzGVGqF.pkg
+PCSE00817	US	Ninja Senki DX	http://zeus.dl.playstation.net/cdn/UP2114/PCSE00817_00/UP2114-PCSE00817_00-SHURIKENMASTERDX_bg_1_ee95ed16aba4d689123769c1b49158d6d66e05c5.pkg
+PCSE00021	US	Ninja Gaiden Sigma Plus	http://zeus.dl.playstation.net/cdn/UP4108/PCSE00021_00/lBIcXMVPMAnNGUwYHfVTCDPtoFyCBUctfNcBiTYnZJzHDsxNaSeSAXzXyAArVThFYIvfttIdiSaGhdtPMnbUFyOrxnfFDwmzIKmfi.pkg
+PCSE00567	US	La-Mulana EX	http://zeus.dl.playstation.net/cdn/UP4034/PCSE00567_00/UP4034-PCSE00567_00-LAMULANAEX000000_bg_1_cf10a8cc606961e73204b3ae5b7d09eaaca72402.pkg
+PCSE00584	US	Atelier Ayesha Plus ~The Alchemist of Dusk~	http://zeus.dl.playstation.net/cdn/UP4108/PCSE00584_00/puhUiShbPVobDTasRxlUIrhljXeNREVknxLrDkwVPmhltIAKdYojkhNObTdkIdDtBpesfYsXYNzgAbnueDylmvAldqMANqPNqPfLV.pkg
+PCSB00772	EU	Metal Slug 3	http://zeus.dl.playstation.net/cdn/EP0576/PCSB00772_00/EP0576-PCSB00772_00-METALSLUG3000000_bg_1_1b8cd2baa4d6d56f9d65538c10d9d39f58867801.pkg
+PCSE00293	US	Final Fantasy X HD Remaster	http://zeus.dl.playstation.net/cdn/UP0082/PCSE00293_00/DLizuRFVbQBIvlPnLAXpaFJoXmiqJuuaoisMEncnZPWcwHfmVcDzGsAVrdPuafbV.pkg
+PCSE00120	US	Persona 4 Golden	http://zeus.dl.playstation.net/cdn/UP0005/PCSE00120_00/QJBXcGiXfvBUkibcZJhSAiFOHPnTqWbqwlzfbwWkKkERimRnofIdsJEmLkxsMEJP.pkg
+PCSE00300	US	Ragnarok Odyssey ACE	http://zeus.dl.playstation.net/cdn/UP1023/PCSE00300_00/oXLOfaloSiemqioOGPLjSyTxyUTLewLreHyBpDVXwvttrxWCXGhXCMjYtFXukkvI.pkg
+PCSF00485	EU	Ratchet and Clank 2	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00485_00/xkdovUEMhgeYlIFrEdCYZSZjhtAnYuKTmqSfcGKAGXNZRkiTHlQaAkqUiTiPpCGm.pkg
+PCSF00484	EU	Ratchet and Clank	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00484_00/LEtBInUbSIEpZQOUPpPOmceVeJeyoXUVhPoLYgPlEeWNKFUhnyKQUWquJtTzSOXj.pkg
+PCSF00486	EU	Ratchet and Clank 3	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00486_00/SkbmJzuJKjWmKBNuuwjQqhrewlIJIBAlHMnAmwoLXhLqCSXYIhZajFLSfxSVsDWR.pkg
+PCSB00089	EU	Dynasty Warriors NEXT	http://zeus.dl.playstation.net/cdn/EP4108/PCSB00089_00/wZLAdhMXzcqZnyrhnIwyVduuykQOhRSMpedGnDlwtPrSEicvAAFoIvmRZLbixqDN.pkg
+PCSB00332	EU	Worms Revolution Extreme	http://zeus.dl.playstation.net/cdn/EP4064/PCSB00332_00/xrAAANCNfmIHLOCCkpYAPdFbnPlWvKSauhKGYwqcrmllggZHdsutPJygKnITCbjE.pkg
+PCSB00333	EU	Farming Simulator	http://zeus.dl.playstation.net/cdn/EP4399/PCSB00333_00/PsYwxruOpJaALYgbFxGCJENPJNNWserbBpkAlZnwUdlhUWZNBAXMyKpzyJjkPGRw.pkg
+PCSH00043	KO/CN	Final Fantasy X-2 HD Remaster	http://zeus.dl.playstation.net/cdn/HP0082/PCSH00043_00/ZnIENVgaGCVeXcWgTrziWsOolFUEwheLiuiHuIfbYyMcMFtpUGFzHQJUfalmpIClUQCVInrZwtbDHxJeWYgVSvLXZtsaUtAbeZerE.pkg
+PCSH00042	KO/CN	Final Fantasy X HD Remaster	http://zeus.dl.playstation.net/cdn/HP0082/PCSH00042_00/iEHVLZwAupGqSxvBZcaYTJBkCgczIQDyLyCsVjRjFXfBJoeUnnVBxLKtxpbcyIwhMHwKgIViryCIBcWNEeYXXnBjPkwYChldVakoP.pkg
+PCSI00009	??	PSM Unity DEV	http://ares.dl.playstation.net/cdn/IP9100/PCSI00009_00/xpGROqtCTKXciWMDdIpjQitbvfHVsIzCudVbyecimKmBYLJDcuXNHfmIJODCahGsdNPakftJbMdMuVnbJrgRQxAybDeNTdpzMYrrU.pkg
+PCSB00183	EU	Need for Speed: Most Wanted	http://zeus.dl.playstation.net/cdn/EP0006/PCSB00183_00/XEFaAutdiMpokzLvDtOHpwbqpobsZPcDFmiFIuVJodsgFmnWdaDrWMzzEaIrwCUC.pkg
+PCSF00007	EU	Wipeout 2048	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00007_00/MWZsKcgmoiFnkNIlYeMsyGsPqZBwBiNdYNvzGMaSOvPyclboJlKbVlAPPqFkeWXm.pkg
+PCSB00205	EU	Zero Escape: Virtue's Last Reward	http://zeus.dl.playstation.net/cdn/EP4034/PCSB00205_00/DlgPWkzSdFcdtsxjWDMOILhJLJIXeLTJrEToigdFGXrDdVMOXDYcyblOEAhXUYDV.pkg
+PCSD00071	JP	Killzone: Mercenary	http://zeus.dl.playstation.net/cdn/HP9000/PCSD00071_00/GOHZJsUuRChxRektGbwvaNBocdKnjsCQDIvhHyqAUYbFYirIGHWibMBXqadVsRsDGYCGRLrcWgCPiRdEUqvMbcQiGORgIgXWSaiAR.pkg
+PCSB00025	EU	Puddle	http://zeus.dl.playstation.net/cdn/EP4115/PCSB00025_00/KISTLiBBfAvvpOkxJnjYNFyAsdDkaqocWApcXimnvNzpXVsomvBjuWjuMeqWqFNi.pkg
+PCSB00037	EU	StarDrone Extreme	http://ares.dl.playstation.net/cdn/EP4101/PCSB00037_00/LLTnMqwFcAMmEbhUPmXIOSibFYsayGXBYMauHURwERywutMyaYoGrcqdZPGZfPBb.pkg
+PCSB00040	EU	Asphalt Injection	http://zeus.dl.playstation.net/cdn/EP0001/PCSB00040_00/RImAqIzVlyikIuyTyKmWPqDxmZQPdSvlUdFFMEEhcObSljYBwsemhXPllYQPwSem.pkg
+PCSB00060	EU	Treasures of Montezuma Blitz	http://ares.dl.playstation.net/cdn/EP4173/PCSB00060_00/UvFbbYPWwaQSFvSDuECZSQKwQGvglaEFuvaqjkJczsPDbaSsyeJRVZbcQXOElKtI.pkg
+PCSF00012	EU	Uncharted: Golden Abyss	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00012_00/pxTfWxOyWsQLbZrQgfOVPdtVDXXgdjitvaylZvByLCOehpAHngZNeOtKbcJkWqAM.pkg
+PCSG00685	KO/CN	DEEMO ~The Last Recital~	http://zeus.dl.playstation.net/cdn/JP1386/PCSG00685_00/JP1386-PCSG00685_00-DEEMOLASTRECITAL_bg_1_feea41b60df01a82aa460a0240a4bf04d6df7995.pkg
+PCSF00438	EU	God Of War Collection	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00438_00/ibPrxgLFVyetVdlWRBwtPzqksLbnVURuDGkqMcHBXVYWWcBxSgvDAZfRZNasHvXZ.pkg
+PCSB00042	EU	BLAZBLUE Continuum Shift Extend	http://zeus.dl.playstation.net/cdn/EP4293/PCSB00042_00/LVBLlGmFZJhKkDqelZufSHhLOcVdaXecwcaLuKlzxSnhoDQYgjRKjwiUvBJIsjwZ.pkg
+PCSB00096	EU	Tales from Space: Mutant Blobs Attack	http://ares.dl.playstation.net/cdn/EP2145/PCSB00096_00/TxqhokuEzLVzmJzzJrUHJkWpzifcACOlCOSjGAVVfgIdATDGrmucHXkbwWVYjTFT.pkg
+PCSB00103	EU	LEGO Harry Potter: Years 5-7	http://zeus.dl.playstation.net/cdn/EP1018/PCSB00103_00/YTKiLqdIKOlSamciiaayAoNNWgCSaXtlHCYBueXEZTuOyFmMbAGaaSDImxPExwEu.pkg
+PCSB00111	EU	CastleStorm	http://zeus.dl.playstation.net/cdn/EP4042/PCSB00111_00/KirmhyaeWAsBaZORLFeqLsiHjRRYJEBHBxtMhmDiXrfdaOYNbHhmGYctZuhyLqSC.pkg
+PCSB00116	EU	Pinball Arcade	http://ares.dl.playstation.net/cdn/EP2058/PCSB00116_00/YLAYOWUqsMckTyWtWrQHGVRmkWSUakWHhrMeoYPjiqgdwFnIASDqVOWMbAQQKlrs.pkg
+PCSB00126	EU	Kickbeat	http://zeus.dl.playstation.net/cdn/EP4042/PCSB00126_00/ldKHVbqNcFqtDviuiNcUhbgyjABxgVParShflXNaqhscKBZUfNpdCNlYfpllgMIm.pkg
+PCSB00133	EU	Lego Batman 2: DC Super Heroes	http://zeus.dl.playstation.net/cdn/EP1018/PCSB00133_00/XlNPEKLtOnRFzLJfEvxgXqBtsoeXaTaXcKITwEchMqrgrYZwLaToQOjDOtRwOkmV.pkg
+PCSB00169	EU	Knytt Underground	http://zeus.dl.playstation.net/cdn/EP4337/PCSB00169_00/pmZPuBkLdBKnzCflJifKzQKYwmmUxneMDbChvubEcpybzRopjouHmQtNakTHzBgb.pkg
+PCSB00190	EU	Sonic & All-Stars Racing Transformed	http://zeus.dl.playstation.net/cdn/EP0177/PCSB00190_00/UUGvBBYVsKjIgXcnrqQNiYMENbyXUPjwEaVPDfkhwziGNOCrSEwXwUGDMpIsAXOV.pkg
+PCSB00255	EU	Rocketbirds: Hardboiled Chicken	http://zeus.dl.playstation.net/cdn/EP5015/PCSB00255_00/UNnKRaegZfijhiwExJEsGgXQUuuDImQtjnErdIgRwibjHfoJFvUTemRSTprcdrSb.pkg
+PCSB00317	EU	Stealth Inc: A Clone in the Dark	http://zeus.dl.playstation.net/cdn/EP4395/PCSB00317_00/SwqylnJesZYqVmtPOdpHPncTrrAPlJslYjFEpWKKhsPIgOQzOakFvmLBaDhunKDi.pkg
+PCSB00321	EU	LUFTRAUSERS	http://zeus.dl.playstation.net/cdn/EP3643/PCSB00321_00/BiEHYzCHmClNINtqSpctedkodYifOephDlliGXRZGVWgabruWgctJDGaqJNgwHvI.pkg
+PCSB00331	EU	Kung Fu Rabbit	http://zeus.dl.playstation.net/cdn/EP4115/PCSB00331_00/kdVkDWirKAQaNePtzSacgeHXkOtEsUyIEvxceWyPkHkSVsfmQQITeZmoYAqMKMuE.pkg
+PCSB00358	EU	Proteus	http://zeus.dl.playstation.net/cdn/EP4395/PCSB00358_00/ZlMwRfLPbEcuNQMCTaKzdpZQRthXBfyYpMqpyyOBYdDlxqiwXgqfduinGFdfCOjQ.pkg
+PCSB00362	EU	Super Exploding Zoo!	http://zeus.dl.playstation.net/cdn/EP4078/PCSB00362_00/EP4078-PCSB00362_00-SUPEREXPZOO00001_bg_1_59e585703c5c6e43e0a10edf0599fb63156560d6.pkg
+PCSB00393	EU	Pixel Junk Monsters: Ultimate HD	http://zeus.dl.playstation.net/cdn/EP4415/PCSB00393_00/XdLvBVONhHNXavfMTJoNzjvWDzIlDNvpTtQfjdJHXpctFMBHldWqBzAueYhSALLi.pkg
+PCSB00405	EU	Terraria	http://ares.dl.playstation.net/cdn/EP4040/PCSB00405_00/jMsLegfWHaIKfEDWHPfVcWLtCQwKMVFmxVWngOYeTuOFoNvrXKbEBiciaEKWlggX.pkg
+PCSB00489	EU	The Swapper	http://zeus.dl.playstation.net/cdn/EP4395/PCSB00489_00/ffZsOmzTDBfdIyhqjjSETyDufMSfVEoUufXGGoAReBtFVCUlGaCqkCerncUWpsvg.pkg
+PCSB00494	EU	TxK	http://zeus.dl.playstation.net/cdn/EP4461/PCSB00494_00/AzuClGkeGlXGHSrKEyOJfLjDlmBptIkzzdBJgfTahonrFdUyWbzpVlnthQMdXVFl.pkg
+PCSB00504	EU	Titan Attacks!	http://zeus.dl.playstation.net/cdn/EP4395/PCSB00504_00/bRocNiYKPcFijsFRafCtfeLYPEYSoLLpmbYJXjPQCapUcBOwEQtSSRwfbUreCdDE.pkg
+PCSB00505	EU	Ultratron	http://zeus.dl.playstation.net/cdn/EP4395/PCSB00505_00/EP4395-PCSB00505_00-G000000000000449_bg_1_004d97d7b5a7c98162fdbae3e3e119f097457de3.pkg
+PCSB00523	EU	Final Horizon	http://zeus.dl.playstation.net/cdn/EP4168/PCSB00523_00/YUQJwqPggOqCTRqkkKgCZXjItxfaizrZbIMfaIDxgvffwIwfGtraGXekbNYvgZHD.pkg
+PCSB00590	EU	OlliOlli2: Welcome to Olliwood	http://zeus.dl.playstation.net/cdn/EP4409/PCSB00590_00/EP4409-PCSB00590_00-OLLIOLLIOLLITWO2_bg_1_45da38b305c1e2b4ec63371f152ac864e1481604.pkg
+PCSB00621	EU	Dragon Fin Soup	http://zeus.dl.playstation.net/cdn/EP2186/PCSB00621_00/EP2186-PCSB00621_00-GRIMMBROS1DFS004_bg_1_516e540634b2f18aeb6cb8f093060da0968cef62.pkg
+PCSB00645	EU	Pix The Cat	http://zeus.dl.playstation.net/cdn/EP4518/PCSB00645_00/twVxtYTpMzFDvFfZxkRCjALKCssrCpeKWfOhoigqucHJXauOSHPgfPlLIMYRjgku.pkg
+PCSB00669	EU	BADLAND: Game of the Year Edition	http://zeus.dl.playstation.net/cdn/EP4530/PCSB00669_00/EP4530-PCSB00669_00-GAMEOFTHEYEAREDI_bg_1_f9d9f60e86b11d50e0e0b92f964f4c22f2ee391f.pkg
+PCSB00690	EU	Stealth Inc 2: A Game of Clones	http://zeus.dl.playstation.net/cdn/EP4395/PCSB00690_00/EP4395-PCSB00690_00-STEALTHINC200000_bg_1_fc5b6c4e874a64a89d19c6e2033233e234c89f00.pkg
+PCSB00720	EU	Titan Souls	http://zeus.dl.playstation.net/cdn/EP3643/PCSB00720_00/EP3643-PCSB00720_00-DEVOTITANSOULS01_bg_1_85566724bc624d1382b5fdfe3f4d947aa8e177e4.pkg
+PCSB00760	EU	TorgueL	http://zeus.dl.playstation.net/cdn/EP0122/PCSB00760_00/EP0122-PCSB00760_00-0000000000000000_bg_2_cdd019cf937815d87b758b451b1cce9544719199.pkg
+PCSB00769	EU	Geometry Wars 3™: Dimensions Evolved	http://zeus.dl.playstation.net/cdn/EP0002/PCSB00769_00/EP0002-PCSB00769_00-GEOMETRYWARS3PSV_bg_1_b1a3267769af4686bdb1420f729c6f0ee5ae1131.pkg
+PCSB00775	EU	Type:Rider	http://zeus.dl.playstation.net/cdn/EP1302/PCSB00775_00/EP1302-PCSB00775_00-TYPERIDERVITAEUR_bg_1_8f2c32d577446849df680f9a298b9be849fcde3f.pkg
+PCSB00786	EU	Super Time Force Ultra	http://zeus.dl.playstation.net/cdn/EP2003/PCSB00786_00/EP2003-PCSB00786_00-SUPERTIMEFORCEUL_bg_1_e71686f9e9f1720b334067a9c48c7500faa46cee.pkg
+PCSB00797	EU	Xeodrifter	http://zeus.dl.playstation.net/cdn/EP8909/PCSB00797_00/EP8909-PCSB00797_00-XEODRIFTERVITAEU_bg_1_493a3b38e9f7928a3ec45fbe5133c74696136127.pkg
+PCSB00903	EU	Ninja Senki DX	http://zeus.dl.playstation.net/cdn/EP2114/PCSB00903_00/EP2114-PCSB00903_00-SHURIKENMASTERDX_bg_1_e362df9b96050572235553e3a78acf77ca11b2b0.pkg
+PCSB00939	EU	Lumo	http://zeus.dl.playstation.net/cdn/EP4034/PCSB00939_00/EP4034-PCSB00939_00-LUMO000000000000_bg_1_af70b736cc474ed7b31f7c94ed0d512cc35db7f9.pkg
+PCSB00963	EU	10 Second Ninja X	http://zeus.dl.playstation.net/cdn/EP4395/PCSB00963_00/EP4395-PCSB00963_00-G000000000000885_bg_1_c0400230f1dcc3f446d2e455e4d2ccff5723ab13.pkg
+PCSF00017	EU	Little Deviants	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00017_00/fSFZlDWQBSzKRyxpLXpfidTppTLqPZtBIBoxdMjWKoggtBouWlZxwMhGvpXePXWX.pkg
+PCSF00378	EU	CounterSpy	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00378_00/ZGuwnZSlyZhUxPDjfGgJifQArCFNudODNDuRXxKKiuULCHVZaThcllaiLarpzpTq.pkg
+PCSF00379	EU	Doki-Doki Universe	http://ares.dl.playstation.net/cdn/EP9000/PCSF00379_00/OxlPhfLNfnMWdblOKuFWKKhAjrKpArIacxPNvkKoRlUiZuKwikYpiMpduYJJuOdA.pkg
+PCSF00435	EU	Murasaki Baby	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00435_00/rKZrzAPcXdtCvWRiKjAPBYQoSTKqHVXSbatWokEAoEeRlqqPyhJhclgkhJzwDgHi.pkg
+PCSF00501	EU	The Hungry Horde	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00501_00/BSUNqMEfKVXAJeyDMwctqNlowIRLreyclgyAKBifJnDJoEWjWEMyuZSJDarnRyyh.pkg
+PCSF00578	EU	Entwined	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00578_00/rMOTcDIqYNdXudRzxtMirGHigGhQIcUgEVKGnqwITkrKrdsEcigNyneTXZvCnaBw.pkg
+PCSB00316	EU	MotoGP 13	http://zeus.dl.playstation.net/cdn/EP4356/PCSB00316_00/yqpUZAQEmquWvevDHkiuuqFoffRrLrgtayHuabxGKLqmORcZtZhiwUjFaQdGnCOU.pkg
+PCSE00097	US	Call of Duty: Black Ops Declassified	http://zeus.dl.playstation.net/cdn/UP0002/PCSE00097_00/ndrlSisiANpmFAkUXlwjywcXQIFEySIxBOdRTFQhhYUcCLJTENxiYvxqJResFKdt.pkg
+PCSA00107	US	Killzone: Mercenary	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00107_00/xSogsfuwrfNKAhnFJILmrtTihaMTVBqvWwiMuyEWyHzhQnksjKbGVkRdaWAyUwJH.pkg
+PCSC00081	JP	Miku Miku Hockey 2.0	http://zeus.dl.playstation.net/cdn/JP9002/PCSC00081_00/YjckDsLmfDxYMXmfQUuHNBeOWDdeYIGJkIDuyXGPoQoJCguCVCHhyLYDXdWgpuZCCecHCeLprNXXQnPJfWtEhtybZOsxRdduOhKvh.pkg
+PCSB00473	EU	Monster Monpiece	http://zeus.dl.playstation.net/cdn/EP0031/PCSB00473_00/fRZMUnrDxtdbRkDHNkKGiafhuanpiBFtArhNzOBqlTFBpfttEhZjAvIiXrLoLfNh.pkg
+PCSA00150	US	No Heroes Allowed No Puzzles Either	http://ares.dl.playstation.net/cdn/UP9000/PCSA00150_00/DTrPoMDQXussPflxpyztfuoQmIzShuNjCKpOIaredpnsNSIIwGJeURIwhWkfsQLC.pkg
+PCSE00917	US	Octodad The Deadliest Catch	CART ONLY
+PCSE00764	US	Persona 4 Dancing All Night	MISSING
+PCSA00069	US	Playstation All-Stars Battle Royale	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00069_00/mBVejqMYkZJvUjsYKORyYFEnTWhtnWazRbDeUgQotQgIfwEocGKVzjLfeNjKCmywkvygQAAVOqAyciILvMFbbadFKoPqREpAqSUkI.pkg
+PCSB00726	EU	Rayman Origins + Legends	CART ONLY
+PCSE00011	US	Silent Hill Book of Memories	MISSING
+PCSE00005	US	Street Fighter X Tekken	http://zeus.dl.playstation.net/cdn/UP0102/PCSE00005_00/CgfKkJUtuIrtYtwdocyioRILSqYbMcyzRJpqsIrLjpMDVNPRFGYsaHeavBfqJbWs.pkg
+PCSE00740	US	Sword Art Online Lost Song	http://zeus.dl.playstation.net/cdn/UP0700/PCSE00740_00/UP0700-PCSE00740_00-PRODUCTPACKAGE01_bg_1_fb2bef67e8e3648233e8a14d962bc7ca01883612.pkg
+PCSG00551	JP	Taiko no Tatsujin V Version	http://zeus.dl.playstation.net/cdn/JP0700/PCSG00551_00/JP0700-PCSG00551_00-TAIKOFULLGAME000_bg_1_2c7a2e220da783664a38053a4124354925dfde64.pkg
+PCSE00786	US	The Legend of Heroes Trails of Cold Steel	MISSING
+PCSE00896	US	The Legend of Heroes Trails of Cold Steel II	http://zeus.dl.playstation.net/cdn/UP1023/PCSE00896_00/UP1023-PCSE00896_00-EDSENNOKISEKI2ND_bg_1_47d2844b2eed1683cf353fc6651911d054512df2.pkg
+PCSF00001	EU	Uncharted: Golden Abyss	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00001_00/ZGkyvUJatRjaXSqnOaeeFYBJaLXASkjBNWaelzTUYxjuxAtLGYyPvStdjDpYsUKK.pkg
+PCSE00867	US	Miku Hatsune Project DIVA X	MISSING
+PCSB00098	EU	Disgaea 3 Absence of Detention	MISSING
+PCSE00075	US	Retro City Rampage	http://ares.dl.playstation.net/cdn/UP2077/PCSE00075_00/THaGMCKBhQNxhOyUyZWXSEJKwjcQBsQzDEawkAEnJYTVxxPxdBKqnwNeVEYGHUJP.pkg
+PCSE00763	US	Code: Realize ~Guardian of Rebirth~	http://zeus.dl.playstation.net/cdn/UP1024/PCSE00763_00/UP1024-PCSE00763_00-CODEREALIZE00000_bg_1_aaaa721c34bef9e44a6488ea6c1bdf40dcea00ee.pkg
+PCSE00762	US	Norn9: Var Commons	http://zeus.dl.playstation.net/cdn/UP1024/PCSE00762_00/UP1024-PCSE00762_00-IFNORNVARCOMMONS_bg_1_6f077a6c8a06f046730c3d32027021f30aa6d668.pkg
+PCSE00245	US	Ys: Memories of Celceta	http://zeus.dl.playstation.net/cdn/UP1023/PCSE00245_00/SxcbohbXEAkJOQqElLVTTGwXtaiZbcuReUbuiVgPNXjNnOwvCSwSObpUhodEuABU.pkg
+PCSB00345	EU	WRC 4: FIA World Rally Championship	MISSING
+PCSB00070	EU	Ultimate Marvel vs. Capcom 3	MISSING
+PCSE00022	US	Disgaea 3 Absence of Detention	http://zeus.dl.playstation.net/cdn/UP1063/PCSE00022_00/shxpEbUaRYVywKquxuwSJsrXknqISFdHOZcBkIYQxTgpNEdJBMQGNKWQolUEBHmCuuvoyIfcUIwxaYZoMsGnRexdfRJRdTZZfHZQy.pkg
+PCSE00314	US	Sorcery Saga: The curse of the Great Curry God	http://zeus.dl.playstation.net/cdn/UP1024/PCSE00314_00/JfVHYAiAcuIKoVNDySYBoOMOrokQJfzNWWAxULWBnhnYsoTgrglveEtpLpBvFeke.pkg
+PCSE00358	US	Demon Gaze	MISSING
+PCSE00360	US	Disgaea 4: A Promise Revisited	MISSING
+PCSE00693	US	Dungeon Travelers 2: The Royal Library & The Monster Seal	http://zeus.dl.playstation.net/cdn/UP0005/PCSE00693_00/UP0005-PCSE00693_00-DUNTRAV2VTRLATMS_bg_1_c6a813bfab9445d139dc1436dcec7150d91ed8a7.pkg
+PCSB00303	EU	Coconut Dodge Revitalised	http://ares.dl.playstation.net/cdn/EP4143/PCSB00303_00/pjaVFYBArGgHZBHbujZbiiVPANCXBSZXPJdghevubCpPTyuTNSyuLfMoLyzwnueE.pkg
+PCSC00008	JP	Star Strike Delta	http://ares.dl.playstation.net/cdn/JP9000/PCSC00008_00/RIiaTcZYVJcymNlDYaHdZNQGjFiWYSYjDWsjKHHBDJXmPfaFRqMToDKBDwjMqireWfwpbyJhGjRfOUgTMLDkNxWDdzUJxFPbAaSKZ.pkg
+PCSC00012	JP	Escape Plan	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00012_00/ufvPKDvLOtjhNCSuBCOeONultKMRhZFyCLwtIfIYvKIApjGGYFoNOPSTsxwQoLglpgapMLJCiAnzKKdnzOwLYuXDApzOxmqpdXebR.pkg
+PCSC00014	JP	MotorStorm RC	http://ares.dl.playstation.net/cdn/JP9000/PCSC00014_00/yWQIOjbXeCjRrdcowZwlNIiOWDMwGXpFbNHWMFLpwEotngsnGyumEAGXeusujpcsBLqVBubduqjvGTvkqmINRiAsCbgHlvpPRVwhb.pkg
+PCSC00034	JP	When Vikings Attack!	http://ares.dl.playstation.net/cdn/JP9000/PCSC00034_00/leruMXafSSdRmTPfmzyYkfTmHZMXUwpVIAOSfMWsWSPQLAPafRTofAOfqYVjieknaczusyVyiTWsUeLPWbPMfKoIDbDiTXcCeuarP.pkg
+PCSC00044	JP	Flower	http://ares.dl.playstation.net/cdn/JP9000/PCSC00044_00/uZyAVyVklIlEccLzmJsbcLaUkrbFGUfecaFEwkjOJBEkIAOnxgAQuxhIlhrIGXqdlgLyjqMqJBYvqjAXZzlwqNSohgpSUbLgaAKiG.pkg
+PCSC00064	JP	Tearaway	http://ares.dl.playstation.net/cdn/JP9000/PCSC00064_00/zSJsjIGLbBBDNwvAqgpVCRqthrwzwniGlMXkiJpwRhwokXTdpRAKEEMSaREpyRreakrtvxyBfDdytTnaJUTksvoqCylqRBDxaAtbn.pkg
+PCSC00084	JP	Murasaki Baby	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00084_00/AHGLYrBQIGlfqAinchRopHmPTvcBHXOQrqqFoRrosYhrqMpxWDLSTnNnocnFkKPCesWKmenQCrNkSuucmFjWncyJcDtrjOhEIiOfk.pkg
+PCSC00088	JP	Resogun	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00088_00/JP9000-PCSC00088_00-RESOGUN000000003_bg_1_5f5152fd4d5b7f38623f0ee4701fd52aa53b5109.pkg
+PCSC80002	JP	LiveTweet For Playstation Vita	http://zeus.dl.playstation.net/cdn/JA0003/PCSC80002_00/VBiLrvpsZyzQkiwWEUZUPBZuWZCxYYefCHLlUSjJyQSpEQDqRlpnfKycoylNexQFvvfEXAjkomrWfeoomVKUCXpLsKmDTxoZhOVEw.pkg
+PCSD00011	JP	Hustle Kings	http://ares.dl.playstation.net/cdn/HP9000/PCSD00011_00/iRbNDIBnqNkNddiRGOXHZrPOuBTCNZLdqdgmSfCrfWOYqOGvIbnQhYxkKwxOZxlmdMCaftGbcfYTwUdRxIeVtkBTGmOvAZvxDWmKr.pkg
+PCSE00086	JP	Pure Chess	http://ares.dl.playstation.net/cdn/UP2070/PCSE00086_00/sBaMdIwMaCFCstDDfffEVtPFmtDUwrhDSTqmzTBhOATHwIOWVovLmqesNPUELREb.pkg
+PCSE00090	US	Sine Mora	http://ares.dl.playstation.net/cdn/UP4175/PCSE00090_00/MtsJGFatwpcaDnJLSMUYkCQjckAQadDSiPaGvDJEVcFXzHDUqFZxBGxPcxaxpheD.pkg
+PCSE00091	US	Big Sky: Infinity	http://ares.dl.playstation.net/cdn/UP2070/PCSE00091_00/iYFluWthQaKAJjKXXSYQDbEJYzRPCQjohbsEooYwCkBGnyZnEttCHsyvVotUmHck.pkg
+PCSE00247	US	LUFTRAUSERS	http://zeus.dl.playstation.net/cdn/UP3643/PCSE00247_00/TIsoAoofECsctZSleQVhexEstAxrBNHQgxxuGfcJUuTgRtaLOCwkctGKfYvzniqM.pkg
+PCSE00317	US	Terraria	http://ares.dl.playstation.net/cdn/UP4040/PCSE00317_00/uqaYeKNfuJJVADLNTTuIVZtOWhwtbHfmNvvutCilXFkSkyOkIJypwJVaNRFMlVnr.pkg
+PCSE00406	US	Metrico	http://ares.dl.playstation.net/cdn/UP2116/PCSE00406_00/FfZEtNKBjXJwjdQdAGwFbmOMiSdxPygjgmaPqzFpdtokuzEPFwCrHqqvIwfqlfvG.pkg
+PCSE00479	US	OlliOlli2: Welcome to Olliwood	http://zeus.dl.playstation.net/cdn/UP4409/PCSE00479_00/UP4409-PCSE00479_00-OLLIOLLIOLLITWO2_bg_1_08bf37512b62067d8d1d746aa82c3735329f58af.pkg
+PCSE00519	US	Woah Dave!	http://zeus.dl.playstation.net/cdn/UP2148/PCSE00519_00/UP2148-PCSE00519_00-WOAHDAVE20000000_bg_1_d20cc3d8b7a8d4be02f309de4dc0176388469b76.pkg
+PCSE00630	US	Retro City Rampage DX	CART ONLY
+PCSE00676	US	Squares	http://zeus.dl.playstation.net/cdn/UP0409/PCSE00676_00/UP0409-PCSE00676_00-SQUARES20155LEAP_bg_1_3c4820fd35d9b35d4235f767afbe543cc971b71d.pkg
+PCSE00873	US	Downwell	http://zeus.dl.playstation.net/cdn/UP3643/PCSE00873_00/UP3643-PCSE00873_00-DOWNWELLUSPV0001_bg_1_a3b1161c7d8f50cf602ca06327216d0e3dafc7e3.pkg
+PCSE00965	US	KILLALLZOMBIES (3.60+!)	http://zeus.dl.playstation.net/cdn/UP4235/PCSE00965_00/UP4235-PCSE00965_00-KAZPSV000000000U_bg_1_b87b4bee0766672dae3db358ff9035b65e58d043.pkg
+PCSF00251	EU	Bentley's Hackpack	MISSING
+PCSG00015	JP	Rayman Origins	http://zeus.dl.playstation.net/cdn/JP0001/PCSG00015_00/YwsXAVzpUepWCyRpAXjpMeUBkiDgPOFJPPFeGtqPXwrGedEBGarQvvvLbvxLSJIvHxPezuRppgmeliLSQUASlergfcVeYFrmleQac.pkg
+PCSG00131	JP	Guilty Gear XX Accent Core Plus R	http://zeus.dl.playstation.net/cdn/JP0036/PCSG00131_00/jJwCflhtfRMJfJOUVnzLSHsjiFieEMgrOHXeNBkEEVdNsfiVBAIRlpYfTBAhLHEICbOLMlIBzhZQnXHtYdDmLRUjMTInDVYonrIKr.pkg
+PCSG00145	JP	Spelunker Collection	http://zeus.dl.playstation.net/cdn/JP0045/PCSG00145_00/uLfHQEJWectENgPNFwIQJZPJenXsROOTlProDnWmtcdmlIzWlIdiWofXMVPgLlPsTWreQEsFxFLhSGKpzLHbZjAucZSxeRllwPDSu.pkg
+PCSG00167	JP	Dead or Alive 5 Plus	http://ares.dl.playstation.net/cdn/JP0106/PCSG00167_00/wAKwgUzILDhouXrJwSyNXfMMIjMtZTUcQWAMMCwhVktDtHDAipCRONcGFYIMxCRuXcSQVFtJMlEnCNhAQDNkbzWzoKyWPSXiwUDIF.pkg
+PCSG00208	JP	Limbo	http://ares.dl.playstation.net/cdn/JP0023/PCSG00208_00/mkLERlpfgCilntUbnllAeiAXgWdWyIxGNpoXVMGXaGOqbEGwwOwpBvGQpYRCzyrYKsfqzAOMJzFtDqOyKIYhLdHZixyPdCESrYTjY.pkg
+PCSG00221	JP	Magical Beat	http://zeus.dl.playstation.net/cdn/JP0036/PCSG00221_00/vgzceKoCgzdozzpsvPmqMawvVbVIyXsfaqaQTKUCRSXrzqpqSjExQSSsVYesRLpZTniRTeDgutVsbMyZGNDKJubdVUjyhmRJcdDth.pkg
+PCSG00231	JP	Urban Trial Freestyle	http://zeus.dl.playstation.net/cdn/JP0087/PCSG00231_00/afccQzpBKbIliJHcPGUOqaemQEsxEdSgUUOApUzEKWvKiXZRVgUeaPbGdHGkRSBbSOfJhhPjhxxOvcuSZuVjEyVCqPMcjTrCfJDFm.pkg
+PCSG00266	JP	Rainbow Moon	http://ares.dl.playstation.net/cdn/JP0078/PCSG00266_00/AttQkKzjvNyYAsRAjlnkQgOMyxUqVhklhmvqMrpwHkhUMauWIpvsEnlzfHYRsOxasfAIjNMzrlZNUdIGvBEpyCoeWtzXOqnMLavvv.pkg
+PCSG00277	JP	Phantom Breaker: Battle Grounds	http://zeus.dl.playstation.net/cdn/JP0745/PCSG00277_00/mfSVfBZWulFnOuHDCCGKJWkHVaVJyYlXsRyjpDkDABwkRErezabKashiHXLSyyguWTduOnvQGHNDFZqYZSAzNArPiovYRkieMOeKi.pkg
+PCSG00280	JP	Fantasy Hero: Unsigned Legacy	MISSING
+PCSG00286	JP	Terraria	http://ares.dl.playstation.net/cdn/JP0365/PCSG00286_00/PFRbxXigsLJwRlZGvBFTXfXAjeWBlCLrEwQTmRoFoADSvxvJGNzGMwmheZEQiaoTrHMjtEkbVjlOZoVBRnUrVxXzJHymYrydtjpho.pkg
+PCSG00303	JP	Escape Vector	http://zeus.dl.playstation.net/cdn/JP0036/PCSG00303_00/QvzZyzOxJScJOFblZEcwEotIPCCcmDDxqfkAbrvNzeSfMvWnXlVGsgrAtsXzupVjyntPZsWMzBpFJNSEeuuVNynQtitgyEGSyZSQp.pkg
+PCSG00329	JP	Simple V Series: The Tousou Highway Full Boost	http://zeus.dl.playstation.net/cdn/JP0367/PCSG00329_00/CdSLGonnaQyapgacEMkqvrEtjjduAirRfCzgmTHBkTrrAkcPfoiIjTECmbhMHWYyYYjYqBbVMOpbDHdlhUFAfsjIUxrOeHrxWsXkz.pkg
+PCSG00363	JP	Rayman Legends	http://zeus.dl.playstation.net/cdn/JP0001/PCSG00363_00/faxBeIBTqLkrVxNXPwZAlANKedACEnxRTmNGgfoNzPqqwBnBVKyTBzwfLCUMkTPNZUEbXwiuZOVdlcpqNiGjRrNUqlQCBPZdoiHMZ.pkg
+PCSG00384	JP	PixelJunk Shooter Ultimate	http://zeus.dl.playstation.net/cdn/JP0115/PCSG00384_00/GSbhSEuJInTnaQQAkGfJZSpKeZQiqqEHiLAClNNfSRFeDgbrMDBrssvqUmKSCSeSgqjVrdblrLVwEnMHudiRMnLczimVShjiUdJoH.pkg
+PCSG00408	JP	Child of Light	http://ares.dl.playstation.net/cdn/JP0001/PCSG00408_00/DDYNHARfUhyknwLPonUmSHMdCiQIRQREobaTnwEoHnYPAGbqrpoYuisThilUuCHEaSRsgVPcioccyljsjYKMMCRTfLWETAgKlNlrK.pkg
+PCSG00473	JP	Frozen Synapse Prime	http://zeus.dl.playstation.net/cdn/JP0115/PCSG00473_00/HKlpgTjOFEVFYVOBQrdlbppwNvSuIJukvUCCehEwEfasqJJxVjwDhPeVWNxTjviBRYjEMrJjzXCutiIvygIVZDxAlzgClJyMVxYHz.pkg
+PCSG00474	JP	Grand Kingdom	http://zeus.dl.playstation.net/cdn/JP0365/PCSG00474_00/JP0365-PCSG00474_00-0000000000000000_bg_1_108e83584b8b25c59f5a50cf1581c2940f7a7955.pkg
+PCSG00479	JP	Shiren The Wanderer: The Tower of Fortune and Dice	http://zeus.dl.playstation.net/cdn/JP0365/PCSG00479_00/JP0365-PCSG00479_00-SHIREN5PLUS00000_bg_1_c72fe13612a68ace95357737869ecf3fe9872faa.pkg
+PCSG00484	JP	La-Mulana EX	http://zeus.dl.playstation.net/cdn/JP0060/PCSG00484_00/gMXoWliKvVYPJIJfCFFNCMUnqaTOnkiPsyOKQLRXtgTcxdLwxKwWIabPwInappRRGLUoobtZVcjsHtIlolbGLtJGbeLvYtvGFoUiG.pkg
+PCSG00511	JP	Wizardry: Torawareshi Bourei no Gai	http://zeus.dl.playstation.net/cdn/JP0048/PCSG00511_00/JP0048-PCSG00511_00-WIZARDRYPOLC0000_bg_1_ad5d37137ff8907c1a9ec0116222d0b751150643.pkg
+PCSG00512	JP	Wizardry: Torawareshi Tomashii no Meikyuu	http://zeus.dl.playstation.net/cdn/JP0048/PCSG00512_00/JP0048-PCSG00512_00-WIZARDRYLOLS0000_bg_1_9ecbe43711ceb57178bb759d0b1b29d66ee816e0.pkg
+PCSG00513	JP	SteamWorld Dig	http://zeus.dl.playstation.net/cdn/JP0075/PCSG00513_00/HZLyZLhXGMTLLhMYPBHEIuWxUEhGxoSDlKzdTNfluGRuTigSsQODVFroryFmWYnGjDmDYAKuwXdmWHqUvCpmaFmUeRLThMgHDyZDA.pkg
+PCSG00558	JP	CastleStorm	http://zeus.dl.playstation.net/cdn/JP0365/PCSG00558_00/JP0365-PCSG00558_00-CASTLESTORM00001_bg_1_8e50393f0e9fd588891c970954ed8f7e111603ab.pkg
+PCSG00601	JP	Hotline Miami	CART ONLY
+PCSG00616	JP	Rollers of the Realm	http://zeus.dl.playstation.net/cdn/JP0036/PCSG00616_00/JP0036-PCSG00616_00-ROTR20150528VITA_bg_1_ce5e67bbde1b2fad694449f08924293b3ba07009.pkg
+PCSG00633	JP	UPPERS	MISSING
+PCSG00652	JP	The Legend of Dark Witch	http://zeus.dl.playstation.net/cdn/JP1178/PCSG00652_00/JP1178-PCSG00652_00-MAJINSYOUJYO0000_bg_1_c45a891efbd63aee619edc7efcf4ffecad0142bf.pkg
+PCSG00656	JP	Net High	http://zeus.dl.playstation.net/cdn/JP0507/PCSG00656_00/JP0507-PCSG00656_00-MARVELOUSNETHIGH_bg_1_82e9d110eab26237b9ec10d2375097fd7fb5391b.pkg
+PCSG00659	JP	Hotline Miami 2 Wrong Number	http://zeus.dl.playstation.net/cdn/JP0365/PCSG00659_00/JP0365-PCSG00659_00-HOTLINEMIAMI2000_bg_1_8d4d2d584269de3840a401020515972e2ab93302.pkg
+PCSG00672	JP	Polara	http://zeus.dl.playstation.net/cdn/JP1178/PCSG00672_00/JP1178-PCSG00672_00-POLARAPSVJP00000_bg_1_f0eda69d93f63ea80d27e9f7879c8c2f22588123.pkg
+PCSG00673	JP	"Steins;Gate 0"	http://zeus.dl.playstation.net/cdn/JP0745/PCSG00673_00/JP0745-PCSG00673_00-STEINSGATEZEROPV_bg_1_778ac80f5854fcf3843b1f0210cc18a539dfbf7d.pkg
+PCSG00687	JP	The Caligula Effect	MISSING
+PCSG00704	JP	Gal Gunbolt	http://zeus.dl.playstation.net/cdn/JP1368/PCSG00704_00/JP1368-PCSG00704_00-GALGUNVOLT000000_bg_1_2b98b55680074c3108e7d174e3a91d0aa0250563.pkg
+PCSG00711	JP	Baboon!	http://zeus.dl.playstation.net/cdn/JP1178/PCSG00711_00/JP1178-PCSG00711_00-BABOONJP00000000_bg_1_ddfdc1c1c3ef3c2135e1ae81b9ffb783b8a7c085.pkg
+PCSG00740	JP	The Binding Of Isaac: Rebirth	http://zeus.dl.playstation.net/cdn/JP1392/PCSG00740_00/JP1392-PCSG00740_00-BINDINGOFISAACPV_bg_1_43fad1d637d9f9e22a38800d0d4833dfb016e7bf.pkg
+PCSG00759	JP	Adventures of Mana	http://zeus.dl.playstation.net/cdn/JP0082/PCSG00759_00/JP0082-PCSG00759_00-SEIKENFFGAIDENRM_bg_1_27a4a7f068dce57b2363ed4691ac0865a94cca15.pkg
+PCSG00778	JP	Aban Hawkings & the 1001 spikes: The temple of the Dead mourns	http://zeus.dl.playstation.net/cdn/JP1392/PCSG00778_00/JP1392-PCSG00778_00-1001SPIKESPSVITA_bg_1_ae1d0fcac9ee4501f3115f9d343aeea57b7cb0a4.pkg
+PCSG00788	JP	Crypt of the Necrodancer	http://zeus.dl.playstation.net/cdn/JP0365/PCSG00788_00/JP0365-PCSG00788_00-CRYPTNECRODANCER_bg_1_125f3e30050f996a6cabb715fb7efbdfe441ff02.pkg
+PCSG00797	JP	Boku wa Mori Sekai no Kami Tonaru	http://zeus.dl.playstation.net/cdn/JP0060/PCSG00797_00/JP0060-PCSG00797_00-FOREVOLUTION0000_bg_1_fd180ea881595ec6304a28e2e2d777d1dc8012c9.pkg
+PCSG00798	JP	Fairune	http://zeus.dl.playstation.net/cdn/JP1178/PCSG00798_00/JP1178-PCSG00798_00-FAIRUNE000000000_bg_1_d82e462df7e72787d459d392291d1a1ae364c2e1.pkg
+PCSG00799	JP	Mr. Pumpkin Adventure	http://zeus.dl.playstation.net/cdn/JP1178/PCSG00799_00/JP1178-PCSG00799_00-VITAMRPUMPKIN000_bg_1_92ee4829d4b4c85ee999198a584951f91ffd7997.pkg
+PCSG00800	JP	Yaken no Reodem	http://zeus.dl.playstation.net/cdn/JP0060/PCSG00800_00/JP0060-PCSG00800_00-COCOSRODEMWILDAL_bg_1_acd04f691d08b60d4348bfbed716e8d4e8971914.pkg
+PCSG00813	JP	Touhou Double Focus	http://zeus.dl.playstation.net/cdn/JP0704/PCSG00813_00/JP0704-PCSG00813_00-DFFPSVITAEDITION_bg_1_dd1a200a3330b6b91935a2ab32e04fcfaeb42fd7.pkg
+PCSG00814	JP	Bentou no Subarashisa o Ano 2-Tabi 3-Tabi	http://zeus.dl.playstation.net/cdn/JP0060/PCSG00814_00/JP0060-PCSG00814_00-COCOSBENTOXXXXAL_bg_2_7995d4d20d6795b74c507ede344e19456ef727da.pkg
+PCSG00837	JP	Bunny Must Die: Chelsea and the 7Devils	http://zeus.dl.playstation.net/cdn/JP0704/PCSG00837_00/JP0704-PCSG00837_00-BUNNYMUSTDIE0000_bg_1_5e238674c366a0838ad872314af3fd1907b6b6dc.pkg
+PCSG00848	JP	Aqua Kitty DX	http://zeus.dl.playstation.net/cdn/JP0122/PCSG00848_00/JP0122-PCSG00848_00-0000000000000000_bg_1_33cd87119449ecedfeccceddb240ced4fcfa17d1.pkg
+PCSG00856	JP	Maiso de Maou	http://zeus.dl.playstation.net/cdn/JP0188/PCSG00856_00/JP0188-PCSG00856_00-MAISONDEMAOU0001_bg_1_5074ad7db1f3449617847e08406259084f225c34.pkg
+PCSG00870	JP	Romancing SaGa 2	http://zeus.dl.playstation.net/cdn/JP0082/PCSG00870_00/JP0082-PCSG00870_00-ROMANCINGSAGA200_bg_1_8e661b0456123e3e92ebe969ba33b2da6e1e62bc.pkg
+PCSG00881	JP	Ys VIII: Lacrimosa of Dana	http://zeus.dl.playstation.net/cdn/JP0425/PCSG00881_00/JP0425-PCSG00881_00-YS08JPGAME000000_bg_1_c8256e26eff3c4f8bd6860a30b3acf38e5636415.pkg
+PCSG00899	JP	Tokyo Tattoo Girls (3.60+!)	http://zeus.dl.playstation.net/cdn/JP1664/PCSG00899_00/JP1664-PCSG00899_00-NIKKATSUSUSHI001_bg_1_cb044b7dd95cbfb928a83a65099413b2bbf8e2ac.pkg
+PCSG00996	JP	Kono Yo no Hate de Koi o Utau Shoujo YU-NO (3.60+?)	http://zeus.dl.playstation.net/cdn/JP0745/PCSG00996_00/JP0745-PCSG00996_00-PC98000000000PSV_bg_1_6359c7e8096b0638204a00ecab143a9003fafff5.pkg
+PCSG80001	JP	NicoNico	http://ares.dl.playstation.net/cdn/JP0028/PCSG80001_00/dfWsQKnFcfeRRBfLqVgEFPurGpyCnfRdIxGoodUgwfQjcbAYNjCIbQpLoVGcGrixQUmLVpyVeEhxVEWfHhhIpwdlFoKGwMaOKXeRS.pkg
+PCSF00006	EU	Everybody's Golf	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00006_00/uQDigjjFLKMwqGYFvWxFlaHtGNtGVJDzCVrvoCUzmQHGOQjzATAqfyJOwLctjdDH.pkg
+PCSB00115	EU	Silent Hill Book of Memories	http://zeus.dl.playstation.net/cdn/EP0101/PCSB00115_00/CCzAgJSpFCBMTlcNwtVoIABUBZSXJZSftFGeqQtBllabWjahzDwDVJcgFPwaKfKC.pkg
+PCSB00497	EU	Ys: Memories of Calceta	http://zeus.dl.playstation.net/cdn/EP1063/PCSB00497_00/uxlMMToPXaVrxedXVRfSKmRvKtZXNAtBNrNoJzHaGpaENLVsCBMIjqrSSZsJkyzJ.pkg
+PCSG00249	JP	WHITE ALBUM2: Shiawase no Mukougawa	http://zeus.dl.playstation.net/cdn/JP0761/PCSG00249_00/YzGzdTscozkPCMwxslpcTODjiYmwRLNaEtkdriyFjCkqzVzxrjpxkxcPSvVgByIIOAilAhJDnBsBqGdIWYmkmBlfFsMvEAPWIxgzM.pkg
+PCSE00651	US	Axiom Verge	http://zeus.dl.playstation.net/cdn/UP2149/PCSE00651_00/UP2149-PCSE00651_00-AXIOMVERGE000000_bg_1_21f6ee6c73957e46464d20092e5d2a5580fe8dd7.pkg
+PCSE00399	US	Danganronpa 2: Goodbye Despair	http://zeus.dl.playstation.net/cdn/UP1063/PCSE00399_00/OHhOMkOOKGWwJyaoJcfrRBkwoDmnQMuLqadbYByjjHEepSUZUhJQAJKOHJEuTOEd.pkg
+PCSE00850	US	Risk of Rain	http://zeus.dl.playstation.net/cdn/UP0341/PCSE00850_00/UP0341-PCSE00850_00-RISKOFRAIN000000_bg_1_99b5e38477913c767349ba78e597f2dac8e461d8.pkg
+PCSA00003	US	Sound Shapes	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00003_00/lLvrgcPSOXLoqIoRjZKLmNjuNVwWSmwiOVXSqXWfZoHsRgBxUHnqBlBmdWLzcGpIoutOzzLAThgGCEDtyJDeYuvjEqnohMnXAIdWS.pkg
+PCSA00123	US	Hohokum	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00123_00/ltHCOzZPkEcFoDJLQiaWipafxXXTFatsTcvndBzJMgcFhLQnufBKQmCciPBaBjXC.pkg
+PCSB00449	EU	OlliOlli	http://zeus.dl.playstation.net/cdn/EP4409/PCSB00449_00/fKWZRppFCdrwLCKZFCFFfNbfmBzZrjQSBbJVDpxNRgUYtGgknHOriqjRhtVrSwQk.pkg
+PCSE00332	US	Dustforce	http://zeus.dl.playstation.net/cdn/UP0102/PCSE00332_00/jzwgFXqLjaniZtAcolVGnRajcKbPZwvxeZscAHZhPnylZAKzYmOZuQsIiKEIakzX.pkg
+PCSF00046	EU	MotoStorm RC	http://ares.dl.playstation.net/cdn/EP9000/PCSF00046_00/pEDwDMdBdKTPBtKZrfZCGnbsLTZEQKzLBiUisusMAwZWNqSDTrlrWGOjEAmBmKwz.pkg
+PCSG00714	JP	Star Ocean Second Evolution	http://zeus.dl.playstation.net/cdn/JP0082/PCSG00714_00/JP0082-PCSG00714_00-0000000000000000_bg_1_e7c2aab8344dc8e57dc142d596c6b9defe0ce94f.pkg
+PCSA00152	US	Soul Sacrifice Delta	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00152_00/AXlcJHQLivxLPWDZQovijJptyBkEOazJXkRYcCdNxgKLCZvqnCcOhLrDCqrGnIyW.pkg
+PCSE00787	US	Senran Kagura: Estival Versus	MISSING
+PCSH00208	AS	Gundam Breaker 3	MISSING
+PCSF00536	AS	Oreshika: Tainted Bloodlines (ENGLISH)	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00536_00/EP9000-PCSF00536_00-ORESHIKA2EUUS000_bg_1_90c74741d5678245c735dc79a0aebf4edd77d953.pkg
+PCSE00316	US	The Walking Dead: A Telltale Games Series - The Complete First Season	http://zeus.dl.playstation.net/cdn/UP2026/PCSE00316_00/TQECkEbHGXBcEAnBaQBkmgZfQVUtMNaKjyZUXlCUfcKbgvXyOEbLaQrHtmBcyvUL.pkg
+PCSE00899	US	Odin Sphere: Leifdrasir	MISSING
+PCSE00240	US	Muramasa Rebirth	http://zeus.dl.playstation.net/cdn/UP1024/PCSE00240_00/ZKFZLNrSBKJFZoxtOHUuJzITCwTDyHiGkosysEWbegnJondsxSoCrbrejEhAvYCD.pkg
+PCSH00148	AS	Moe Chronicle (ENGLISH)	MISSING
+PCSE00527	US	htoL#NiQ The Firefly Diary	http://zeus.dl.playstation.net/cdn/UP1063/PCSE00527_00/nMQpbiMbIBHVuWDXuBkreTjsFOMKEGJoFssSkPYbgoUnMvWublPnUIcYPJdZnSVg.pkg
+PCSE00912	US	Dragon Quest Builders	http://zeus.dl.playstation.net/cdn/UP0082/PCSE00912_00/UP0082-PCSE00912_00-BUILDERS00000000_bg_1_56919a515978bcc51be16116b19d115d35611c1c.pkg
+PCSE00608	US	Resident Evil Revelations 2	http://zeus.dl.playstation.net/cdn/UP9012/PCSE00608_00/UP9012-PCSE00608_00-RESIDEVILREVELS2_bg_1_35cb473c3c8d9682f54edec8e1188e82448ad2a4.pkg
+PCSB00168	EU	Big Sky: Infinity	http://ares.dl.playstation.net/cdn/EP4337/PCSB00168_00/ezxstHqrjGkjkHDnBcPNzzGnpNTEqzlfTYRUFsRKDkixcLrtIJGhLJWWICIwJQgl.pkg
+PCSB00102	EU	Chronovolt	http://zeus.dl.playstation.net/cdn/EP4093/PCSB00102_00/hQEpFIbfjvVHRzANpwMrZaznaFNJUwTEQzMcctrtYUOPTiVoWZqiOGLrmqDIdYcW.pkg
+PCSG00294	JP	Sword Art Online Hollow Fragment	MISSING
+PCSG00613	JP	METAL SLUG 3	http://zeus.dl.playstation.net/cdn/JP0576/PCSG00613_00/JP0576-PCSG00613_00-METALSLUG3000000_bg_1_9fba4d6b546c57d6c9da7ee3610ba6e26bacc69e.pkg
+PCSB00291	EU	Atelier Totori Plus: The Adventurer of Arland	http://zeus.dl.playstation.net/cdn/EP4108/PCSB00291_00/lgKfHFNnEeIIyDUjpLQiDYVtCFpEXopKKkdxiLqJnXnFGqBwzYMecrKNtLfxEXCs.pkg
+PCSE00547	US	Grim Fandango Remastered	http://zeus.dl.playstation.net/cdn/UP2154/PCSE00547_00/VPRBLVNpmPShXnlRgzcyyTEdwxXpuFynZEkQQduImhyVYpguWAdCcvGIlwDbqxmbDnPFBIyemeQoCdKvnxwyAonaSmzdpdoqRQCar.pkg
+PCSE00271	US	Injustice: Gods Among Us Ultimate Edition PS Vita	http://zeus.dl.playstation.net/cdn/UP1018/PCSE00271_00/lCgtkJzBGQXMRPjCrdHIrtjVLQiLcGwezLcqMsLeOSJxWRhvgnKpwolzoriDqlpU.pkg
+PCSF00309	EU	Epic Mickey 2 The Power of Two	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00309_00/NLPyTkXiiMpHkthEWLMdLwfIxEgdwvSbZJsvlnZaYpHLtNynWsYnwStPSupWNQiq.pkg
+PCSF00021	EU	LittleBigPlanet™ PS Vita	http://ares.dl.playstation.net/cdn/EP9000/PCSF00021_00/RAYSIGKiXCIiIrFkGSpaFUHwGjAIsMVaurmiIdIFwPeECSwzuToLRNlDItyfyCYK.pkg
+PCSG00550	JP	Omega Labyrinth	http://zeus.dl.playstation.net/cdn/JP0367/PCSG00550_00/JP0367-PCSG00550_00-0000000000000001_bg_1_f7b4e92f8cd0bd4cb61ee16093f8893952dead1f.pkg
+PCSB00106	EU	Mortal Kombat (Vita)	http://zeus.dl.playstation.net/cdn/EP1018/PCSB00106_00/oICdKQWfOWNqexqChCNPCFAFCcMedjeHMvMyTfjvKWYAJZctLvjwDfKLwBnmPIDp.pkg?country=za
+PCSE00890	US	10 Second Ninja X	http://zeus.dl.playstation.net/cdn/UP4395/PCSE00890_00/UP4395-PCSE00890_00-10SECNINJAVITAUS_bg_1_97017d2fc8def61a2dbca9151ae7091b31242bf1.pkg
+PCSE00501	US	A Virus Named TOM	http://zeus.dl.playstation.net/cdn/UP2137/PCSE00501_00/UP2137-PCSE00501_00-AVNTGAMEBYMISFIT_bg_1_08dad5a59771dd86a6116bbf7d16802325ae82ab.pkg
+PCSE00695	US	Actual Sunlight	http://zeus.dl.playstation.net/cdn/UP0763/PCSE00695_00/UP0763-PCSE00695_00-1234567812345678_bg_1_e91a6b823e8f38c705db38576c74f48c00b3f412.pkg
+PCSF00570	EU	Borderlands 2	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00570_00/ymeXVYERQBVzUriXDABJwdunFwNrqfJAvNXSvNPWgPbyYZoFwGHqZnXqjhzatLAe.pkg
+PCSE00383	US	Borderlands 2	http://zeus.dl.playstation.net/cdn/UP9012/PCSE00383_00/URJJOXqhezLMkDMCeaiFAOxJtJKNlIRqXxPceHUAJgDHYWUMlZyynbMdfqtdtpDZ.pkg
+PCSB00213	EU	Call of Duty Black Ops: Declassified	http://zeus.dl.playstation.net/cdn/EP0002/PCSB00213_00/VtOyqhMkfJIlPNEPFmtoGhTpTPxLTHIzcqWkbXOMlXaLOqGeksitlBBpMDQQfdBr.pkg
+PCSF00033	EU	Cliff Diving	http://ares.dl.playstation.net/cdn/EP9000/PCSF00033_00/IAuMWpYjIYOKyHgdULeCJhARbrCXhofHowxjAokmLUNUPQcuTuapYYVCExrZqcdw.pkg
+PCSF00062	EU	Table Football	http://ares.dl.playstation.net/cdn/EP9000/PCSF00062_00/WyKHFFkPfttnukLzzpdKAwSZsthpoxltwwZjBDniAfURsOTFjXNYCKMluhYfIuEZ.pkg
+PCSB00254	EU	Star Wars Pinball	http://ares.dl.playstation.net/cdn/EP4042/PCSB00254_00/MWYWYBihBGhwUJGYJafQpOuvLyZsMvxApkXVkEIZUscQDhjkxYCAZbJMYOEYSZAf.pkg
+PCSF00210	EU	Imaginstruments™	http://ares.dl.playstation.net/cdn/EP9000/PCSF00210_00/RkUKrdsicdLEyAthyRNCUoKXcQVSGdRFhSAiZgMthvdeyphXYPCESoNsrvLEWyyN.pkg
+PCSB00336	EU	LIMBO	http://ares.dl.playstation.net/cdn/EP2054/PCSB00336_00/PmhbfKMLqUqpOjDxelaxzibMaZfAyMmFBriIdokpiNMqTaBttArJSykXXqmXEguU.pkg
+PCSF00035	EU	Fireworks	http://ares.dl.playstation.net/cdn/EP9000/PCSF00035_00/yxXBjYKIlqbezLFXdFBUdiTgULqfZlMRzCNKMvmvimXTSucPHAgkhHngOHApUMgt.pkg
+PCSE00268	US	LIMBO	http://ares.dl.playstation.net/cdn/UP2054/PCSE00268_00/trgIstMxIlcUYLFmvhCwRbYgOHEpdPZCwxGVudRJzuXBZnEZUdJLexACJnsfbiDy.pkg
+PCSA00009	US	Hot Shots Golf: World Invitational	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00009_00/CiUACAwRsEVybrCgexyCyyAapxJUEBouIiBqlkxrNOfrreqvhPWuIblhAfYnICzzuYrKfjyekgHYKqtfPgVFQcKgdbrczakrTmJYs.pkg
+PCSE00053	US	Assassin's Creed III: Liberation	http://zeus.dl.playstation.net/cdn/UP0001/PCSE00053_00/QeXFmnmeDtGgGDMCxQEjLdpSArQkhFNVySoriQDvdzDlqdXCGZBijtDskpwAlarE.pkg
+PCSA00080	US	Jak and Daxter Collection	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00080_00/BxwBUWJDsRDOTHBvDbTAEVsoEXQzBdjHgnMIGVBIfvpUCNWeNHCcyhrHBQDIwTnQSbWDJBqImUCUFiGLCsYNVYjXgFiomTAcLkbUE.pkg 
+PCSA00127	US	Malicous Rebirth	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00127_00/lSVyQpOPIDeZFOfCqVTTflmpcePRmmHbvvqBbZKLSadIhpjCxRYAGnARByHrxcPw.pkg 
+PCSA00149	US	MonsterBag	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00149_00/UP9000-PCSA00149_00-MONSTERBAG000000_bg_1_8423589a5a2bd4d537888fa257280aec2616f3d1.pkg 
+PCSA00155	US	Oreshika Tainted Bloodlines	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00155_00/UP9000-PCSA00155_00-ORESHIKA2EUUS000_bg_1_61dd0e7f14cdbab07d8c185591a62e4d5743dd3e.pkg 
+PCSE00004	US	Ultimate Marvel vs. Capcom 3	http://zeus.dl.playstation.net/cdn/UP0102/PCSE00004_00/xMXMPjsCDJpCGfhrJMoVuteVNdzkXCAumkJDtJdjNLsXefnTEgWAokAvcdhtSiMOxuGptJfDeJFhfodrZQaGKKnIqKQeaUiLEznal.pkg 
+PCSE00016	US	Touch my Katamari	http://zeus.dl.playstation.net/cdn/UP0700/PCSE00016_00/GZyxHexCBXbnjcCMuEaybgXSpslJWSJxetXAbOVRdNznRtEdSUncHvQvFJAkiAUfbwYbAYPHlEHEcwdardrDmzUZeyHIXcXxuipXc.pkg
+PCSE00066	US	New Little King's Story	http://zeus.dl.playstation.net/cdn/UP0101/PCSE00066_00/EdJqmujbMmZLZVdfunexcFTnYalOcWBSsjAbZDtXZFmwQPBmdsMqGTKgOiUNyfLk.pkg
+PCSE00249	US	Hotline Miami	http://zeus.dl.playstation.net/cdn/UP3643/PCSE00249_00/vCQXVKouRZJZhrSusPvJXPRmiqUZQowdDcIOIugNGfSNNsSKkYtvkBFALXeWaDzM.pkg
+PCSE00373	US	Monster Monpiece	http://zeus.dl.playstation.net/cdn/UP0031/PCSE00373_00/uDPNazUOErIoSMuoXqfIrNdQnRkxDYNCgVpYNRvdyYtVgtvycWgtitxcElcYsBDh.pkg
+PCSE00450	US	Don't Starve: Giant Edition	http://zeus.dl.playstation.net/cdn/UP2107/PCSE00450_00/hNgZxfWWtQCavVsavigBVjAiGEonMiuOafsWneFzMAoAgNQeMmfIlKLSEnTsKxMH.pkg
+PCSE00467	US	Toukiden: Kiwami	http://zeus.dl.playstation.net/cdn/UP4108/PCSE00467_00/UP4108-PCSE00467_00-PKGTOUKIDEN00000_bg_1_f3b5ff06954836360132411e9f2724a882d65117.pkg
+PCSE00491	US	Minecraft: PlayStation Vita Edition	http://ares.dl.playstation.net/cdn/UP4433/PCSE00491_00/uIgiwZciOGwMEffpjDebxvpBmbBAwYUSGaUDcyUThuccIOQPhNhfIyFWDrUTSBhG.pkg
+PCSE00639	US	Dengeki Bunko: Fighting Climax	http://zeus.dl.playstation.net/cdn/UP0177/PCSE00639_00/UP0177-PCSE00639_00-FIGHTINGCLIMAX00_bg_1_f1af3b10f32ccfe1305ea99e9572d8872d6e1095.pkg
+PCSE00640	US	Shovel Knight	http://zeus.dl.playstation.net/cdn/UP2200/PCSE00640_00/UP2200-PCSE00640_00-SHOVELKNIGHT0001_bg_2_aa870b69e3a54ca3e468a77ff179a9c364725083.pkg
+PCSE00692	US	Danganronpa Another Episode: Ultra Despair Girls	http://zeus.dl.playstation.net/cdn/UP1063/PCSE00692_00/UP1063-PCSE00692_00-DESPAIRGIRLSNA01_bg_2_1a57996cdc41f9caf527b931907cce413b48baa6.pkg
+PCSE00743	US	Deception IV: The Nightmare Princess	http://zeus.dl.playstation.net/cdn/UP4108/PCSE00743_00/UP4108-PCSE00743_00-DECEPTIONNP00000_bg_1_cf6368b325e50c7038a7096df1cf22d72ae7c6ac.pkg
+PCSE00747	US	TowerFall Ascension	http://zeus.dl.playstation.net/cdn/UP2120/PCSE00747_00/UP2120-PCSE00747_00-TOWERFALLVITA000_bg_1_afaeb06f5d5a81c1a74b7e944e5a8aa2353f6a37.pkg
+PCSE00755	US	Digimon Story Cyber Sleuth	http://zeus.dl.playstation.net/cdn/UP0700/PCSE00755_00/UP0700-PCSE00755_00-DSCYBERSLEUTH001_bg_1_78f24d1690be6fa91bed5fd553336d40b2e8e76f.pkg
+PCSE00789	US	God Eater 2: Rage Burst	http://zeus.dl.playstation.net/cdn/UP0700/PCSE00789_00/UP0700-PCSE00789_00-DOWNLOADABLEGAME_bg_1_27229843f0e7ad6824005fb21de94803f7416b6c.pkg
+PCSE00801	US	God Eater Resurrection	http://zeus.dl.playstation.net/cdn/UP0700/PCSE00801_00/UP0700-PCSE00801_00-DOWNLOADABLEGAME_bg_1_3f24a8e7dbf2b1b351b08b4b212ec8b3de3e280c.pkg
+PCSE00813	US	Trillion: God of Destruction	MISSING
+PCSE00844	US	Aegis of Earth: Protonovus Assault	http://zeus.dl.playstation.net/cdn/UP1024/PCSE00844_00/UP1024-PCSE00844_00-ACQUIRESTIIM0001_bg_1_1e864d212385e6232e2e25f5153fc0836f69bb5f.pkg
+PCSE00916	US	Criminal Girls 2: Party Favors	MISSING
+PCSB00395	EU	Final Fantasy X HD Remaster	http://zeus.dl.playstation.net/cdn/EP0082/PCSB00395_00/TDLwXWfdEmMHXGMVeGZjFSlavGzYUvwhpXAbonKvvqmGktMRFylVWcGAwqNZKFSb.pkg
+PCSB00136	EU	Jet Set Radio	http://zeus.dl.playstation.net/cdn/EP0177/PCSB00136_00/ZyPkPUAyHNSJINZTCXHIrVMyaHLwCaGqLeNgsusYygJfUIhaLqhhnoGKaCBQAejj.pkg
+PCSB00240	EU	Flying Hamster HD	http://zeus.dl.playstation.net/cdn/EP4178/PCSB00240_00/fPSmooIqifvLuczeeZDGcxACIMsHhblXVHVvStodlHXwRTRHQmXZQRCSCEuYZLLJ.pkg
+PCSB00244	EU	Jetpack Joyride	http://zeus.dl.playstation.net/cdn/EP4249/PCSB00244_00/EqUEeVMYQeTjhzANjmShJLydqgLbtVpJpGxhtalMEObUvPgJgdMFREclMnMAETif.pkg
+PCSB00265	EU	BreakQuest: Extra Evolution	http://zeus.dl.playstation.net/cdn/EP4101/PCSB00265_00/QimJBmFPUFQGMQEJEIDETgumcSTxIzuZtWBizRVYpKAVxlSPLNlyxgyAZPncFVjK.pkg
+PCSB00272	EU	Thomas Was Alone	http://zeus.dl.playstation.net/cdn/EP4395/PCSB00272_00/ylQafnXjmSuEsKmohwMQmlNXDyRlSunYBJzvVogtoolHTBeIRAJfqDGSnmotFOUX.pkg
+PCSG00684	JP	KanColle Kai	http://zeus.dl.playstation.net/cdn/JP0117/PCSG00684_00/JP0117-PCSG00684_00-KANCOLLEKAI20162_bg_1_bd3002efbb786d32013e2b9c0c5745e6dc138bd8.pkg
+PCSG00563	JP	Persona 4: The Golden (PlayStation Vita the Best)	http://zeus.dl.playstation.net/cdn/JP0005/PCSG00563_00/JP0005-PCSG00563_00-PERSONA4GOLDEN01_bg_1_058b4725abec7eaee6310260cfe1b2f4b89ab279.pkg
+PCSB00184	EU	Burn the Rope	http://zeus.dl.playstation.net/cdn/EP4271/PCSB00184_00/RsaOabDiWMvhCzrSkjoNNhugAgYCtjuttdUAecNCmIsfqPkzinZVIkqFQFGvxrwY.pkg?product=0085&country=za
+PCSB00273	EU	Fruit Ninja	http://zeus.dl.playstation.net/cdn/EP4249/PCSB00273_00/bqGZlaJhppRdLNrpEAfcmjanWxmPRXoSAfMhByCWdRbVvlhYeiYpfLYMLnmZxUyE.pkg?product=0085&country=za
+PCSA00126	US	God of War Collection	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00126_00/gqhlCrNaBmLERhXWcbphzQCCpUfwWEXPRdBZCFyveydmhbwvQhHnPCauJuVWAOnUcrcRfhIfbkELwWuiNpqyrspmAkIfcwsGqwLQq.pkg
+PCSD00014	JP	Flickr	http://zeus.dl.playstation.net/cdn/HP9010/PCSD00014_00/OARIlIvRuEghgZtIlZNuWGzcmBUeEZscKjYlKgUOsFdPNwjHxGXzBTQxOjhwKknFNzNcnEVzMVqOzsxccnTtSxMbloCIgusAaxvld.pkg
+PCSD00015	JP/TW	Wake-up Club	http://zeus.dl.playstation.net/cdn/HP9010/PCSD00015_00/pLbEIIoGxXlGdjhjZonstPwhhtublwiuOWtOZYftdMWpJKSUeOWhUAoMOEGSpQNgdxslDyXduYMJUjWoxMNMJeLiRjRwYKVXtCQFm.pkg
+PCSD00031	JP/TW	YouTube	http://zeus.dl.playstation.net/cdn/HP9010/PCSD00031_00/lrjiKazEzTfDURgwAcaLZsoccnVdVFhSHbCWvNfpINDMfbpEBHAkFRURIyvJzsbNYpomtiTDYJtLkbsTCldYAmgHLWlRABHfCzlKM.pkg
+PCSE00803	US	DYNASTY WARRIORS 8 Empires Free Alliances Version	http://zeus.dl.playstation.net/cdn/UP4108/PCSE00803_00/UP4108-PCSE00803_00-DW8EMP0000000000_bg_1_4a281fa94f55e8db96ded42d44268f87a88e8767.pkg
+PCSD00037	JP	TORO's Friendly Network	http://zeus.dl.playstation.net/cdn/HP9000/PCSD00037_00/vifTwHpYEgzSFyreNPdiBembeDdgXQudpMKJBBqVHkHDbSpusXfbltBoRZkyRgzQqCoqXwmelaKohfgowNegXIFZFibRDpDnDtnqA.pkg
+PCSA00490	US	Run Sackboy! Run!	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00490_00/UP9000-PCSA00490_00-1234567891234567_bg_1_fdebaf43cce0348778b6a62501aa6f30c85ab78a.pkg
+PCSI00013	US	Playstation™Now	http://zeus.dl.playstation.net/cdn/IP9100/PCSI00013_00/hCJmHpTyJUTuZYYDEbLzFAocxvNRjXKHWWfWtrLftXmgVrsclpLlOBZpJjefqUel.pkg
+PCSE00007	US	Asphalt: Injection	http://zeus.dl.playstation.net/cdn/UP0001/PCSE00007_00/TRVKxSuNkucKZiGgHBAgYyPvYYOPhSGdQQlEtcVJfLngdEhiJTdsNKNTWhrNxQCCSMgkbnXEyMmXkusolujYKFXwgAMkYNKexqrmZ.pkg
+PCSE00653	US	Hatoful Boyfriend	http://zeus.dl.playstation.net/cdn/UP3643/PCSE00653_00/UP3643-PCSE00653_00-HATOFULBOYFNDPSV_bg_1_888d91163e6b41924eeeef24de8a9f8af8164bd5.pkg
+PCSG00557	JP	Nights of Azure / Yoru no Nai Kuni	http://zeus.dl.playstation.net/cdn/JP0106/PCSG00557_00/JP0106-PCSG00557_00-DARK000MASTER000_bg_1_dfc290fc7f952178bd489345ac60d314022d57d9.pkg
+PCSE00250	US	LEGO Marvel Super Heroes	http://zeus.dl.playstation.net/cdn/UP1018/PCSE00250_00/odYGKqmTsdIsceGlriEBFqVkAmArXQTYLfqqwkHOSwsaHddnNXYUYrmFkcyOVbwX.pkg
+PCSF00612	EU	Fat Princess: Piece of Cake	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00612_00/EP9000-PCSF00612_00-FATPRINCESSPOC00_bg_1_43b3196aeb5694349f0298571bbc87072fb6d30c.pkg
+PCSE00402	US	Hotline Miami 2 Wrong Number	http://zeus.dl.playstation.net/cdn/UP3643/PCSE00402_00/UP3643-PCSE00402_00-HOTLINEMIAMI2000_bg_1_9427b6f726bb51a5ec1850902b772122638bf613.pkg
+PCSE00595	US	J-STARS Victory VS+	MISSING
+PCSF00153	EU	Playstation All Stars: Battle Royale	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00153_00/XiFtzRuIEfgZfsbjrHswbxtsXFRawwzqAomjKewLyFSDwiVkfRLzloRixPeOhrUjwAOdjxDiNCCGPLgbjXnGZafRJXRvwsTidSJqr.pkg
+PCSF00178	EU	Soul Sacrifice	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00178_00/poCRRuXqdLgjIamQzxPZolnHDhFyDWSabTidVqyQLzSbATvEfWmyFrqezVHEKGTAfSMldEuVMgoIiocvOpgjAlEYXeLmuCRNvytsj.pkg
+PCSF00191	EU	Ratchet and Clank: Qforce	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00191_00/CyEXeafyrzVOFoBuJBOCcSKCNDVglkXqYnkEIMFyotALlcpVCLBsTHJUSZBDevcJ.pkg
+PCSB00302	EU	Velocity®Ultra	http://ares.dl.playstation.net/cdn/EP4143/PCSB00302_00/hHRfaQcrLsVIzyJzbgjvfifljSvDJvFjMBDebHKfktEFahEPljCRInttMWQVVjYP.pkg
+PCSB00304	EU	LEGO - Legends of Chima Lavals Journey	http://zeus.dl.playstation.net/cdn/EP1018/PCSB00304_00/XLAKHojkuGAcDrMfBzLsjbmnidPXyFCSIdDMxIlbVFqHRIBdiwGFuNnuKelERIbJ.pkg
+PCSB00305	EU	Superfrog HD	http://zeus.dl.playstation.net/cdn/EP4064/PCSB00305_00/GBRXuYLXiwCcCIYXXsFcXmcoUasvoUfLAioZixHXFFhhEBKHFMITpKSuamDixrvK.pkg
+PCSB00047	EU	Touch my Katamari	http://zeus.dl.playstation.net/cdn/EP0700/PCSB00047_00/lUTgwQlAazHzLFFDSwMJUkkygLyLWVWwjQgEwBRbmwayEFNlGQMeDgNYuEQDDVaK.pkg?product=0085&country=za
+PCSB00061	EU	Lumines: Electronic Symphony	http://zeus.dl.playstation.net/cdn/EP0001/PCSB00061_00/wcfCcaQpAebIWzeggFFIxBExVXYJtTWtICZALebydtvCfPmuUiHKPXKSvcmNtIZF.pkg?product=0085&country=za
+PCSB00125	EU	LEGO - Lord of the Rings	http://zeus.dl.playstation.net/cdn/EP1018/PCSB00125_00/vWHoSTzujqMsClKDboloEjgajgNutZkZInTqhNyOuGOAJLnOIKRXkkLEnzOrKeXV.pkg?product=0085&country=za
+PCSB00367	EU	MS. Germinator	http://zeus.dl.playstation.net/cdn/EP4073/PCSB00367_00/WRqjEMRpkUHVTYcUUqJgZBdKQvGeaWqoLCRSwslPYGGHRyySfKvUqRQRafDdRBqn.pkg?product=0085&country=za
+PCSB00421	EU	Furmins	http://zeus.dl.playstation.net/cdn/EP4101/PCSB00421_00/OzKAlfoDJChelIAZjYJVVgcrPYOsdCQGDEzwrpWOMRfKvIbOnNBRoCBYJWTJgpOu.pkg
+PCSB00439	EU	Surge Deluxe	http://zeus.dl.playstation.net/cdn/EP4143/PCSB00439_00/auoKBYderYYxjLfPrDLyJkYPRxMdrfPxGHUASfiOHZTfUPrSIwVIieFMwGIrtYRO.pkg?product=0085&country=za
+PCSB00616	EU	Metrico	http://ares.dl.playstation.net/cdn/EP2116/PCSB00616_00/MdwDjewfCaCCmYVAVpMmiMaSDHQGNcTzjQdTRUnxhEevXFrAoGDmaGpzxjJatyHQ.pkg?product=0085&country=za
+PCSF00034	EU	Unit 13	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00034_00/bqyYZUSoDKotuvhrbEHblOIKQLEjxsWJVODdVHxDtQhpxnMnnTiFpMdibdgpuXMt.pkg?product=0085&country=za
+PCSF00248	EU	Jak and Daxter Trilogy : The Precursor Legacy	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00248_00/RBVSejXITslavbTwqtlDWKheDRRPZIGnEwGmRKxRVHJUKazrtVepAANFNFBlNZWK.pkg?product=0085&country=za
+PCSF00249	EU	Jak and Daxter Trilogy : Jak 2 - Renegade	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00249_00/cqisQgGkyAjJuqBueTCTEYIXFnHzCPsRRlhWrwiLKBlEqHLnpmCdWujrmnKJbFeM.pkg?product=0085&country=za
+PCSF00250	EU	Jak and Daxter Trilogy : Jak 3	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00250_00/RxXUbKQbcaYEepMfZrdLvkQKUfWoLofRsQPYMLlyEoDFLgJZJylvHsKBcNfEywTI.pkg?product=0085&country=za
+PCSB00038	EU	Urban Trial Freestyle	http://zeus.dl.playstation.net/cdn/EP4385/PCSB00038_00/yfMvEghDPHuLuMunEzTTtpmxgAulhqTFBkBPPXlCbfXNNBnoUHjRWfayghccThBQ.pkg?product=0085&country=za
+PCSB00097	EU	Ninja Gaiden Sigma Plus	http://zeus.dl.playstation.net/cdn/EP4108/PCSB00097_00/ZLaBViMIDAaYEMRrIQrulgILrLRZOYhdGCnncKqsLHPUMKHjhkfPFULkNrBWrlMG.pkg?product=0085&country=za
+PCSB00144	EU	Streetfighter X Tekken	http://zeus.dl.playstation.net/cdn/EP0102/PCSB00144_00/wZgRqNJKEJbNEWdGXqDHkjBpgvNujShcesAAImTmuHjbAYigsRfMjrkBcudatnTm.pkg?product=0085&country=za
+PCSF00010	EU	Hustle Kings	http://ares.dl.playstation.net/cdn/EP9000/PCSF00010_00/JoyrLsEByrZeYtVYLWgRWxPSILYLUVVIGfbsiEIuOXPjTbgLxjwywfoBiVPjrUpy.pkg?product=0085&country=za
+PCSF00076	EU	Sound Shapes	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00076_00/UoaYbDvjtYWcRyuzAcCpfLsKaxacQUYbSoNuaXYkcKvPrXqnPSCiZYUjfqkXjriF.pkg?product=0085&country=za
+PCSF00092	EU	Ecolibrium™	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00092_00/pRXXogdXdrpmIlRbikUvJDxcYIsbyBLRCVlxQYJjHmfoUsUpLDrFawqixUyGMJDD.pkg
+PCSF00093	EU	When Vikings Attack!	http://ares.dl.playstation.net/cdn/EP9000/PCSF00093_00/EnqbqZWRxzxCfEHNtCeMwfkBTvNuetPwkkmeQvVQaPLHqMYpKpcxglKEUQdszfQtiwegXTsbCuBcIFdxBcQRuNnmPdwnrWwywRbCs.pkg
+PCSF00137	EU	Mal-Center	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00137_00/SWCCzlJOARzadFVbsQrXDNFoSRQybCWUrphlmkPjHpNGnBVUcHHHAfqYyRWVVKed.pkg
+PCSE00802	US	SUPER STAR WARS	http://zeus.dl.playstation.net/cdn/UP1082/PCSE00802_00/UP1082-PCSE00802_00-SUPERSTARWARSVIT_bg_1_2fad4e0ba8077f2ed49767cea562db1df0961c2c.pkg
+PCSE00589	US	Severed	http://zeus.dl.playstation.net/cdn/UP2045/PCSE00589_00/UP2045-PCSE00589_00-SEVERED000000000_bg_1_416b0bb5ec5ae9988d01b1fa95370b4eeb8a57eb.pkg
+PCSA00144	US	Tearaway	http://ares.dl.playstation.net/cdn/UP9000/PCSA00144_00/YvEsMLXOZCDQLvDnTvvhdRHJCKIKRKwuvdvcAPMlQmQFfIvqGbAIrnbgHcsUESnt.pkg
+PCSE00815	US	Claire: Extended Cut	http://zeus.dl.playstation.net/cdn/UP0312/PCSE00815_00/UP0312-PCSE00815_00-CLAIREEXTENDEDCU_bg_1_10343c710b03799d835d2334dda4a6ba89e46c64.pkg
+PCSE00677	US	BlazBlue: Chrono Phantasma EXTEND	http://zeus.dl.playstation.net/cdn/UP1024/PCSE00677_00/UP1024-PCSE00677_00-BBCPPSV000001000_bg_1_1506078005a062682902981189df79b937a0af1e.pkg
+PCSG00219	JP	Final Fantasy X HD Remaster	http://zeus.dl.playstation.net/cdn/JP0082/PCSG00219_00/KIrhjAJXMswYeTkdLRRVWIWrslmAEMxNdZZXYZHqtXzxVUdPjJsFRWrtMROmSHWYdUgePcNUQqphZtTQPqJUVmSgfjLFAdKKzviqj.pkg
+PCSG00220	JP	Final Fantasy X-2 HD Remaster	http://zeus.dl.playstation.net/cdn/JP0082/PCSG00220_00/yFadqXOURulOQQrzMhGLRbgbUspTyACohbKFtrVHxKvCfzUrIzDygmOxSfBpLbBFTuajMPibOQhQhGSrQVqqofeGLznsfNBrMgoiQ.pkg
+PCSG00707	EU	Octodad The Deadliest Catch	MISSING
+PCSH00098	AS	Hyperdevotion Noire Goddess Black Heart	MISSING
+PCSH00069	AS	Hyperdimension Neptunia Producing Perfection	MISSING
+PCSH00078	AS	"Hyperdimension Neptunia Re;Birth1"	MISSING
+PCSH00097	AS	"Hyperdimension Neptunia Re;Birth2 Sisters Generation"	MISSING
+PCSH00140	AS	"Hyperdimension Neptunia Re;Birth3 V Century"	MISSING
+PCSH00107	AS	Hyperdimension Neptunia U Action Unleashed	MISSING
+PCSH00213	AS/KO	MegaTagmension Blanc + Neptune VS Zombies	MISSING
+PCSH00236	AS/CN	MegaTagmension Blanc + Neptune VS Zombies	MISSING
+PCSH00252	AS	Superdimension Neptune VS Sega Hard Girls	MISSING
+PCSH00297	AS	Ys VIII - Lacrimosa of Dana	MISSING
+PCSF00427	EU	Dead Nation	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00427_00/gvqiIzGQfDokeuYxPHcqzWUIzlxYbOjESISeGkzDumVguvmpbuoCktpLtqOZUFnp.pkg
+PCSB00499	EU	Deception IV - Blood Ties	MISSING
+PCSB00041	EU	Dungeon Hunter Alliance	http://zeus.dl.playstation.net/cdn/EP0001/PCSB00041_00/AmfomuvUzSOIgbjfVoEIsNtmEEPhkuqfzDiVXkKxhyrsTKhlBvqajkxJRsTonzJF.pkg
+PCSB00170	EU	FIFA 13	MISSING
+PCSB00339	EU	FIFA 14	http://zeus.dl.playstation.net/cdn/EP0006/PCSB00339_00/mBoHKNgrRqTZRhyKBtGHAanAlSGhjOSJzWkltJnAMoWnoUqoHISrPAtPBJmDputl.pkg
+PCSB00051	EU	FIFA Football	MISSING
+PCSF00465	EU	Helldivers	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00465_00/EP9000-PCSF00465_00-HELLDIVERSSCEE00_bg_1_d39af229f40ad60691ac86ea87626264c8042c9e.pkg
+PCSB00515	EU	Hyperdimension Neptunia Producing Perfection	MISSING
+PCSB00751	EU	"Hyperdimension Neptunia Re;Birth3 V Generation"	http://zeus.dl.playstation.net/cdn/EP0031/PCSB00751_00/EP0031-PCSB00751_00-NEPTUNEREBIRTH03_bg_1_98678d1b2e3405ebafed3a88e95b221c9eed64a9.pkg
+PCSB00713	EU	J-STARS Victory VS+	http://zeus.dl.playstation.net/cdn/EP0700/PCSB00713_00/EP0700-PCSB00713_00-WJ45JSVVSPSV0000_bg_1_a5805ecdb8b45a6f1523220545327765984e1b52.pkg
+PCSB00071	EU	Michael Jackson The Experience HD	MISSING
+PCSF00002	EU	ModNation Racers Roadtrip	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00002_00/YjOczWFPxJEFIGjzZAZeKzNbYrKraRIfMXHHMcGAMQZFuttZlPweLMFohABmhDIM.pkg
+PCSF00531	EU	No Heroes Allowed No Puzzles Either!	http://ares.dl.playstation.net/cdn/EP9000/PCSF00531_00/AEfHlLejCgOSxcglCkDlKXOSvohfUUGmyefygJImFCHAyBARWZMoCytLWazLAHBa.pkg
+PCSB00717	EU	One Piece - Pirate Warriors 3	MISSING
+PCSB00048	EU	Ridge Racer	MISSING
+PCSB00161	EU	Sine Mora	http://ares.dl.playstation.net/cdn/EP4175/PCSB00161_00/rxHzpcadZEaoIeFoGocMIChLNAxgzRDguwriloOYcxxoteqnWyJWheUEVMilhomd.pkg
+PCSB00166	EU	SpyHunter	MISSING
+PCSB00977	EU	Superdimension Neptune VS Sega Hard Girls	MISSING
+PCSB00866	EU	The Legend of Heroes - Trails of Cold Steel	MISSING
+PCSB00574	EU	Toukiden Kiwami	MISSING
+PCSB00204	EU	WRC 3 - FIA World Rally Championship	MISSING
+PCSB00762	EU	WRC 5	MISSING
+PCSG00461	JP	Airship Q	http://zeus.dl.playstation.net/cdn/JP0178/PCSG00461_00/JP0178-PCSG00461_00-1000000000000000_bg_1_f87e885ef5ef9f6f7bd4b8df19b7da41b1a22b2a.pkg
+PCSG00234	JP	Hyperdevotion Noire Goddess Black Heart	MISSING
+PCSG00181	JP	Hyperdimension Neptunia Producing Perfection	MISSING
+PCSG00226	JP	"Hyperdimension Neptunia Re;Birth1"	http://zeus.dl.playstation.net/cdn/JP0031/PCSG00226_00/mhkvKVpTCYauYEoRzqSIFOQoBnOPjsvtidiCDthmcyKWvlrlfGPObtkCcWryzwaiGwFDUnmmTPUZGmEfRsVouhkNlurvgzhsCoCaM.pkg
+PCSG00335	JP	"Hyperdimension Neptunia Re;Birth2 Sisters Generation"	MISSING
+PCSG00486	JP	"Hyperdimension Neptunia Re;Birth3 V Century"	MISSING
+PCSG00394	JP	Hyperdimension Neptunia U Action Unleashed	MISSING
+PCSG00270	JP	Infinite Stratos 2 - Ignition Hearts	http://zeus.dl.playstation.net/cdn/JP0745/PCSG00270_00/IrNoBAtgSPkvQGizoxlWZrPPGWFiIKuunCEJBCuFiFJzofaIsayGRVWIuhPUHpTSJtzqdmKrJNFpJZvyzSwKypOEpBHWZaMyFuCbi.pkg
+PCSG00040	JP	Kidou Senshi Gundam Seed Battle Destiny	MISSING
+PCSG00578	JP	MegaTagmension Blanc + Neptune VS Zombies	MISSING
+PCSG00214	JP	Puella Magi Madoka Magica - The Battle Pentagram	MISSING
+PCSG00278	JP	Shin Gundam Musou	MISSING
+PCSG00583	JP	Skullgirls 2nd Encore	http://zeus.dl.playstation.net/cdn/JP0036/PCSG00583_00/JP0036-PCSG00583_00-SKULLGIRLS000000_bg_1_f9ba78eed0bf9858bd8b93b92b97c68f5942d605.pkg
+PCSG00190	JP	Super Robot Taisen OG Saga - Pride of Justice	MISSING
+PCSG00264	JP	Super Robot Wars Z Jigoku Hen	MISSING
+PCSG00644	JP	Superdimension Neptune VS Sega Hard Girls	MISSING
+PCSG00009	JP	Tales of Innocence R	http://zeus.dl.playstation.net/cdn/JP0700/PCSG00009_00/sWwTVvTGrSNhMHlLvqSvFmVcSFLiwvRRdzRYKXXwsSNKsuGKNYYcHqADrgPqRsZRxKRVhDUovibvJifSUJhilWifsqJdnqGioXBES.pkg
+PCSE00427	US	Arcana Heart 3 LOVEMAX!!!!!	http://zeus.dl.playstation.net/cdn/UP1024/PCSE00427_00/rSbVCiVdSBLisVHuvRUPkNMBIWiqqlPpLdpKJHAlHzZNCzyxxCbFCmchYrrEKeKS.pkg
+PCSE00790	US	Bastion	http://zeus.dl.playstation.net/cdn/UP2125/PCSE00790_00/UP2125-PCSE00790_00-BASTIONGAME00000_bg_1_02acf3321f8d81b1b9e6f971ed5e4d5b36545a80.pkg
+PCSE00305	US	Dragon Ball Z - Battle of Z	http://zeus.dl.playstation.net/cdn/UP0700/PCSE00305_00/bFHwXGqTUvaohJBHkCqHYUwKXyQfHDQyblQdaDVGVTBOxkLlENcCTbqzOuaFNtpu.pkg
+PCSE00800	US	Dynasty Warriors 8 - Empires	MISSING
+PCSE00405	US	Dynasty Warriors 8 - Xtreme Legends Complete Edition	MISSING
+PCSE00404	US	FEZ	http://zeus.dl.playstation.net/cdn/UP4427/PCSE00404_00/YxHkhfCeNdvSTZFTQyrKkoSSneHWDoaMFvmbMcTtynunDQrUhNhTjiBRlaWVojYH.pkg
+PCSA00114	US	Flower	http://ares.dl.playstation.net/cdn/UP9000/PCSA00114_00/ITBUoNLubckWaaReXdDAGiTeDflyefkqSINlrQEqLpoCOBmiQCXmqgWPIJmoqRXW.pkg
+PCSE00257	US	Flying Hamster HD	http://zeus.dl.playstation.net/cdn/UP4178/PCSE00257_00/fUCdeaHIYkeMAZSGzDtiPwQaXZmHQlhMPIlRiLvHytYQpxfOQbYwWUSEHeVeFTkH.pkg
+PCSE00879	US	Grand Kingdom	http://zeus.dl.playstation.net/cdn/UP1063/PCSE00879_00/UP1063-PCSE00879_00-0000000000000000_bg_1_69f60a569d962ba51a3a23291fd536b5def57539.pkg
+PCSE00568	US	Hyperdevotion Noire Goddess Black Heart	http://zeus.dl.playstation.net/cdn/UP0031/PCSE00568_00/UP0031-PCSE00568_00-NORBLACKHEART000_bg_1_f7539bc8c59d546cbeda932fb791a2c63b6c2186.pkg
+PCSE00400	US	HYPERDIMENSION NEPTUNIA: PRODUCING PERFECTION	http://zeus.dl.playstation.net/cdn/UP1063/PCSE00400_00/nRBCTzAfJsfNNruGPUhbBnsTlHCkaERYIpsZveixizVsvxplmAdrgVaaBERdLgMo.pkg
+PCSE00508	US	"Hyperdimension Neptunia Re;Birth2 Sisters Generation"	http://zeus.dl.playstation.net/cdn/UP0031/PCSE00508_00/IIyiAQCsHbSHyRgvGJxKQGijjciBZbIEqqqEwQiliTwWblCSaLHqWMOrayNJQvIp.pkg
+PCSE00661	US	"Hyperdimension Neptunia Re;Birth3 V Generation"	http://zeus.dl.playstation.net/cdn/UP0031/PCSE00661_00/UP0031-PCSE00661_00-NEPTUNEREBIRTH03_bg_1_a3700dd0665858b25d3975127bc614d068a4866a.pkg
+PCSE00588	US	Hyperdimension Netpunia U Action Unleashed	http://zeus.dl.playstation.net/cdn/UP0031/PCSE00588_00/UP0031-PCSE00588_00-ULTIMATECLASHNEP_bg_1_23f9ea10d180e3141167fc3613ca47192bec86a7.pkg
+PCSE00256	US	Kung Fu Rabbit	http://zeus.dl.playstation.net/cdn/UP4115/PCSE00256_00/sALXkKgUwxiTiWrsJsvWWvKbfSVNbByUyCKEyLNHhvQzWxqwyCwgbyCtkSUlLvME.pkg
+PCSE00061	US	LEGO Batman 2 - DC Super Heroes	http://zeus.dl.playstation.net/cdn/UP1018/PCSE00061_00/jgCJPEuraupZZtLNCSsEQsrLOqcutwZCzJsTYktDbuglEQvlruzgLTivSRgHZeWZRttfBMKeNActSfFOqjIcXqoMKxWNZyqyFDywP.pkg
+PCSE00442	US	LEGO Batman 3 - Beyond Gotham	http://zeus.dl.playstation.net/cdn/UP1018/PCSE00442_00/PuAlJwyfeYniCoMAyQAvJIOTRgXYZVftMfOSmVNCGfaIEAHoBxDGKZsmBEEUPymm.pkg
+PCSE00009	US	Lumines Electronic Symphony	http://zeus.dl.playstation.net/cdn/UP0001/PCSE00009_00/sfmmZuPLCkxEkLShBUpqnagpmblbnBOnhRmxxxfAgXwISvPENjuSxBiEqBFyPGwHeNJDnnzSECVLoIeXjOTOPmXjMGgVnayaHgVXI.pkg
+PCSE00832	US	MegaTagmension Blanc + Neptune VS Zombies	MISSING
+PCSE00078	US	Metal Gear Solid 2 HD Collection	MISSING
+PCSE00915	US	Mobile Suit Gundam Extreme VS Force	MISSING
+PCSE00023	US	Mortal Kombat	http://zeus.dl.playstation.net/cdn/UP1018/PCSE00023_00/fnOUmkSfSVuqLeIQutoVrbJwKWqMCuGWJdBOGCMHAGJyujzovnMgrwKkvKDJJhJeEkwMZVJztnrkCyjYpUKyMsrzkMHdmiNIgFfVq.pkg
+PCSE00089	US	Need for Speed - Most Wanted	http://zeus.dl.playstation.net/cdn/UP0006/PCSE00089_00/HckXXBzHErmBiPSrwLOYrKZrqnQPTVPOKRItqvjakUhNdvVbBQvyYhADkUbMLvXX.pkg
+PCSE00423	US	ONE PIECE Unlimited World Red	http://zeus.dl.playstation.net/cdn/UP0700/PCSE00423_00/IYDIFhSCqrHKPrUkpxZnGYdWOLHMNukRWwfHNXSpaZOtyyMCKBaHtubsLUDPgsES.pkg
+PCSE00579	US	Operation Abyss	http://zeus.dl.playstation.net/cdn/UP1063/PCSE00579_00/UP1063-PCSE00579_00-OPERATIONABYSS01_bg_2_8282d1b3f4e85c1e252fdd5c292d8280775ea0e9.pkg
+PCSE00553	US	Pix the Cat	http://zeus.dl.playstation.net/cdn/UP4518/PCSE00553_00/IFDkKtQpXzgtMJFZQNqRZNGKPtwCVGvWSAvDBAOgYTPwdYBCfNKmiEZOJbIrSMfm.pkg
+PCSE00119	US	Ragnarok Odyssey	http://zeus.dl.playstation.net/cdn/UP1023/PCSE00119_00/WkhGblCuTjgTfcjxLpQpDEQSIHHNAEOplnoqWCoXmuiTshXggpLSBIvROZjFevHb.pkg
+PCSE00908	EU	Rainbow Moon	MISSING
+PCSE00052	US	Rayman Origins	http://zeus.dl.playstation.net/cdn/UP0001/PCSE00052_00/dejrYPpFpBIXwxeUJsditWBxLotgACPyuAnMIqOOxgLkfcCvWeiumoYUZzsFFltNwWwuCIPOeiEwjOspSwyVkjxUdamIaNQijezmj.pkg
+PCSE00449	US	Rogue Legacy	http://zeus.dl.playstation.net/cdn/UP4488/PCSE00449_00/ZIoclHEohpaKvgFZkWKxbtPYDNrtbDzQCVSMwmVHsahRRuRjXZMKZmXmQxMumhos.pkg
+PCSE00845	US	Shiren the Wanderer	http://zeus.dl.playstation.net/cdn/UP1024/PCSE00845_00/UP1024-PCSE00845_00-SHIREN5PLUS0000E_bg_1_aefc0826759fd49997ca177e2eeb74828c092d8b.pkg
+PCSA00096	US	Sly Cooper and the Thievius Raccoonus	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00096_00/nhOWwMQcvxcGbKjmLDcabVSTPLDDAlofLWxRQrTSDBInOyFkuMKzlTXsBZterjfR.pkg
+PCSE00288	US	Spelunky	http://zeus.dl.playstation.net/cdn/UP4407/PCSE00288_00/GPrwaBPacrQAWgkHiFQuZVWQhDqPhNwIFWQRvjEUsKzsgJwrqGGLuCxUNNhnSISC.pkg
+PCSE00644	US	"Steins;Gate"	http://zeus.dl.playstation.net/cdn/UP4293/PCSE00644_00/UP4293-PCSE00644_00-STEINSGATE00000A_bg_1_47ef04c45331699cebfccb614b3739318fdf091d.pkg
+PCSE00818	US	Stranger of Sword City	MISSING
+PCSA00006	US	Super Stardust Delta	http://ares.dl.playstation.net/cdn/UP9000/PCSA00006_00/ZRauJqGJBXVAZMJLUmWtxBewgbjIpudpYpdpvOnacOylERCSVSIunlMGPUqOlSlToehCTNboYzviAZDJvUJtGLfZCyRGkdzdoeuzK.pkg
+PCSE00717	US	Superbeat Xonic	MISSING
+PCSE00898	US	Superdimension Neptune VS Sega Hard Girls	MISSING
+PCSE00370	US	Surge Deluxe	http://zeus.dl.playstation.net/cdn/UP4143/PCSE00370_00/IynvijHJkTaSoPDRbYKjASIlRtDlOjxZKCGrxdXEyKqQkldngbsnZOIQAlqDhUBe.pkg
+PCSE00521	US	Tetris Ultimate	http://zeus.dl.playstation.net/cdn/UP0001/PCSE00521_00/UP0001-PCSE00521_00-TETRISGAME000000_bg_2_0ec6d3f4a8687d08d7590d9db62a11c68fc099e9.pkg
+PCSE00507	US	The Binding of Isaac - Rebirth	http://zeus.dl.playstation.net/cdn/UP2103/PCSE00507_00/NAtdsMvwADUXxOLclvfhBWMdZAldpvLsfBqOWDBQBxMfhCMHTnEUxhNOclEDvZIS.pkg
+PCSE00735	US	THE BIT.TRIP	MISSING
+PCSE00353	US	The LEGO Movie - Videogame	http://zeus.dl.playstation.net/cdn/UP1018/PCSE00353_00/pQKGfTIcyzNbGfrFDtkTQveYvPbKOAPXpcQfXjYaNjQGUwMOTLglBmibffpgmYaT.pkg
+PCSE00387	US	The Swapper	http://zeus.dl.playstation.net/cdn/UP4395/PCSE00387_00/LpQkIzXJTdHcpHtiyXEaGwOwxdMbIZUPVqbvjCDsGVoqeqAcKsMjtYrvpNVuDIPL.pkg
+PCSE00397	US	TxK	http://zeus.dl.playstation.net/cdn/UP4461/PCSE00397_00/nbTiRdQRPLQAbsUQsaLyuhLmBPSlFBjsGTIZOicPMCuxVpnHxMALMUmqtByBAjsh.pkg
+PCSA00029	US	Uncharted - Golden Abyss	MISSING
+PCSA00014	US	Unit 13	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00014_00/ZavpMEQMoGFVSTHqHRYJFHKOreZUYdNGekooAtLKusofFVLDiOkbXBuaJbbabarJGfnSUNkeMOLghGogLFcVeJdBudjTSLkvEgVpT.pkg
+PCSE00244	US	Vahalla Knights 3	MISSING
+PCSE00492	US	VVVVVV	http://zeus.dl.playstation.net/cdn/UP2103/PCSE00492_00/CtddebUsBDppMOXZFxAcHKfCjxsNLKcCMXGsYkWbZxEnrGLUENDEiNRqhWNVVUze.pkg
+PCSA00015	US	WipEout 2048	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00015_00/NYEoaBGfiWymSEVZKxoyrKyBFsZNoFqxdyAIpZayZYuLLbCAArYrYXjPNhKCfXcONmhIZzZEeArycSrjiJOuNMWuWsDONUxMIQtMk.pkg
+PCSE00880	US	World of Final Fantasy	http://zeus.dl.playstation.net/cdn/UP0082/PCSE00880_00/UP0082-PCSE00880_00-WORLDOFFFPSVITA0_bg_1_464e952be26ee7e0b227ad2d5003f018d7bb479c.pkg
+PCSE00853	US	Xeodrifter Cartridge	CART ONLY
+PCSA00001	US	Modnation Racers Roadtrip	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00001_00/eMylfKGUWSacpFJvIunKkOGpgWquRbkHqLWcmOYGwNNkBwOUOnybfIUNNKgsnWliuAEopLbxEHCtkNgAvbstqnMOdxlvvQTFbOKnC.pkg
+PCSA00079	US	Smart as	http://ares.dl.playstation.net/cdn/UP9000/PCSA00079_00/XcfFbrPGwbfuyKPgZYciBxDXwHOXVFzrxoeQJYTxagNhlRJfxyuWyEuKXrPKmZSGwOfRQjOROESuvCKmiuMwhUuYsGbFKGEPzLkIr.pkg
+PCSF00216	EU	Smart as	http://ares.dl.playstation.net/cdn/EP9000/PCSF00216_00/sQSNZiDeaUiwfUENJwVPILhVBMrOvjzpLwWWJTEipmOSpGBuPUYJFbOicMqIWyVW.pkg
+PCSE00010	US	Michael Jackson The Experience HD	MISSING
+PCSE00416	US	Putty Squad	MISSING
+PCSF00441	EU	Looney Tunes: Galactic Sports	MISSING
+PCSF00516	EU	LittleBigPlanet PS Vita (Marvel Super Hero Edition)	MISSING
+PCSG00004	JP	Persona 4 Golden	http://zeus.dl.playstation.net/cdn/JP0005/PCSG00004_00/loNvcjfTmtXjcWsYMPziQCGuGHPfeydEErCpfoxvxtKysGnDGEFDALEbCwzodinNlLrgZIBfqWofNMqJzmNCBrjtdcRLSuBxKxAXD.pkg
+PCSG00023	JP	Army Corps of Hell	MISSING
+PCSG00038	JP	Sumioni: Demon Arts	http://zeus.dl.playstation.net/cdn/JP0048/PCSG00038_00/NALJmZRxLLWgRssqFSERsZMtpInaxYFQxJIClusJwNfZLAHXgqPutbNWMiipWkEkchoXHDOjGDrvmfRFtgVzDLsrGvkOhnYKyPThL.pkg
+PCSG00062	JP	Time Travelers	MISSING
+PCSG00202	JP	Danganronpa 1-2 Reload	http://zeus.dl.playstation.net/cdn/JP0365/PCSG00202_00/RoXutVcoedstOLLgbdmHnQOMSTWpMFKcyQbRiQuwwkklMpWaxDoWgBZUxOuKlbqRzypQNHXaBqgOsvWHRCpIPDzMuJSOeEQCpBZmA.pkg
+PCSG00328	JP	Arcana Heart 3: LOVEMAX!!!!!	http://zeus.dl.playstation.net/cdn/JP0036/PCSG00328_00/qxratBJgWwMuruMnRLSRSQDfvBprJwABjQdwrQrGMvKibeJhgwETYcrYtzzOVcNkiRgAyzGbBbGTwyCyNqwRyPsoVVKBXpzOJpGXC.pkg
+PCSG00480	JP	Ukiyo no Roushi	MISSING
+PCSG00554	JP	Sayonara UmiharaKawase	http://zeus.dl.playstation.net/cdn/JP0199/PCSG00554_00/JP0199-PCSG00554_00-UMIHARAKAWASE000_bg_1_fea0d10d7596a5634546958e5a711e3007835fa1.pkg
+PCSG00693	JP	Yuusha Shisu.	http://zeus.dl.playstation.net/cdn/JP0404/PCSG00693_00/JP0404-PCSG00693_00-YUSHASHISUVITA00_bg_1_9835e0249ba66f55c0862c62d75dfdeeda29f891.pkg
+PCSG00756	JP	I am Setsuna	MISSING
+PCSG00817	JP	EVE Burst Error R	http://zeus.dl.playstation.net/cdn/JP0072/PCSG00817_00/JP0072-PCSG00817_00-EVEBURSTERRORR01_bg_1_1315665f52d6ca8b7fba42db2a603e6f370fe72c.pkg
+PCSF00022	EU	Reality Fighters	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00022_00/SzDcMyartglNRcrxHMBrqxJfzwUNbiJzSDRghNZUMtcYbvOSrqJlNryMvXiEpHDt.pkg
+PCSE00781	US	Zero Escape: Zero Time Dilemma	http://zeus.dl.playstation.net/cdn/UP1024/PCSE00781_00/UP1024-PCSE00781_00-ZEROESCAPE000000_bg_1_eba1bf216d42aff69c447f6259cf7ebf09949119.pkg
+PCSG00289	JP	Ore ni Hatarakette Iwaretemo Otsu HD	http://zeus.dl.playstation.net/cdn/JP0016/PCSG00289_00/HEQMdmzzxpttMrdQbyaRELnkrfFnvZGOQqtKZWdJHBkjGLojzMLcOxTatvNiwJughUgmsuhTkygdMAOVzCnTlmWWeazrRqpOpMgWr.pkg
+PCSG00147	JP	"STEINS;GATE"	http://zeus.dl.playstation.net/cdn/JP0745/PCSG00147_00/KXIzJgHnmhfKviukaYhjHgrFALzEBRQfOgmWuyBzNkHjjcuiWXIIkDaIvRVgjCfOdtWHvyIbTtwUFlzeyaHHIiQJQkxfcjrcOOtuh.pkg
+PCSG00246	JP	Eiyuu Densetsu: Ao no Kiseki Evolution	http://zeus.dl.playstation.net/cdn/JP0117/PCSG00246_00/fAhXecyRcDghtCAjQckognPjrKvCwqVfNpbUPdsGUQWRoYtnAurlTvabQUJmtIqcLmBopyexsWqjjfoNzFXuGCRJGzSFDsEQGtpOO.pkg
+PCSG00042	JP	Eiyuu Densetsu: Zero no Kiseki Evolution	http://zeus.dl.playstation.net/cdn/JP0117/PCSG00042_00/JgLTOxfiKkGrfmjWmKFFLXNZbWCVjexagYTCusHekRGcBIMYHHHBgnUimygNrSTAIjAksHpRGTAoCMvduoPIGmjjPAchIumcOtBqz.pkg
+PCSG00694	JP	Sophie no Atelier: Fushigi na Hon no Renkinjutsushi	http://zeus.dl.playstation.net/cdn/JP0106/PCSG00694_00/JP0106-PCSG00694_00-SOPHIE00MASTER00_bg_1_6426eedfd4485e9c2da33526ea914d293d3ecd5c.pkg
+PCSG00250	JP	"STEINS;GATE Senkei Kousoku no Phenogram"	http://zeus.dl.playstation.net/cdn/JP0745/PCSG00250_00/JrobDzrbvxWXNglyuUbwsLomMvfRAxhhbgvPystOfbcHbBzpoUrzeiWKMDMgfIexoSWGWlmvbihnkLPVDnuRKkbutSgclegYLqmso.pkg
+PCSG00007	JP	Little Busters! Converted Edition	http://zeus.dl.playstation.net/cdn/JP0548/PCSG00007_00/EgWAShENrLrRwenqeVZFpBjyTJqmLJZdozPKWKhzyjpKlukZgsDdTVxeAObIfetEKChQVlDthBvOlYyhHcdTmNhDgWsGIRGqwEmAL.pkg
+PCSF00011	EU	Top Darts	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00011_00/GqroSfgyzPVFeOgROxvwvtbTTRLuJIZotNppcEbmuaHKvdCjpnaoNAHUlZraBBIP.pkg
+PCSG00105	JP	Ys: Celceta no Jukai	http://zeus.dl.playstation.net/cdn/JP0425/PCSG00105_00/zncVhrUsCJNXKHoSNHgtmDHNpDQzPDEcEtMTeoWxtcpVqedYUxmWQMsecQlPBYZmaeNFBgscrfgceFDaosenKfrcHyjjNgMkFPpqn.pkg
+PCSG00020	JP	Kyokugen Dasshutsu ADV: Zennin Shiboudesu	http://zeus.dl.playstation.net/cdn/JP0365/PCSG00020_00/fAREUmIgLtRvGdSjrOvCZoYeVmnHCSrjANZHEavyGZIvhruYikDWrypBneaiYvVEMEnfqAeZcbVKlouoCKiLqIWjgfjcWwrEYypTl.pkg
+PCSG00074	JP	Hatsune Miku -Project DIVA- f	http://zeus.dl.playstation.net/cdn/JP0177/PCSG00074_00/YilrDSWlBxUxbWlyiDkMCIwdAMNUvqRJRVHbocCPZLVTXEowqIpQbIUkWxfabEtQiiwGINdxEBIHlXnuLnnOTiPHNVstMgtgTMbmq.pkg
+PCSG00205	JP	Hatsune Miku -Project DIVA- F 2nd	http://zeus.dl.playstation.net/cdn/JP0177/PCSG00205_00/DCxAwmdqmhffIIzKWgTURHUFUicUTJfJhcBBpvnjxCZVEulYQgdxIPTaAYoXVsOsiUeaIALXcPuLYILIzmmwlXRqHAHpuklOgkoDg.pkg
+PCSG00150	JP	Oboro Muramasa PlayStation®Vita the Best	http://zeus.dl.playstation.net/cdn/JP0507/PCSG00150_00/QuQmWCflgOAFrWaIwBHwBNQqKvalSKzlngKrpvgWKQhlShSexbfEdajfSDEkerSyRZDAYokvXeKGoLanbElDJPVrGbUYaldQjvjDH.pkg
+PCSG00133	JP	Senran Kagura SHINOVI VERSUS	http://zeus.dl.playstation.net/cdn/JP0507/PCSG00133_00/TTovzUrquVkBJSFhBJooThSLpvOGvoNHJczLogcxBMAOUQBqYtzLQifitXXWmzsRpZFTfGBwyOvlWgsdUReELxUQWkAfMtVBbNQGs.pkg
+PCSG00005	JP	Makai Senki Disgaea 3 Return	http://zeus.dl.playstation.net/cdn/JP0404/PCSG00005_00/RQfAzUSxvcRfORFEsdQBHOZFFDFzErnAjPCbukhsDZnxqQFglKbAiByQerDNMXZiMKkRcgRclwpmXQKJfvuhdqZrsuYQXjRvgcDAA.pkg
+PCSG00225	JP	Makai Senki Disgaea 4 Return	http://zeus.dl.playstation.net/cdn/JP0404/PCSG00225_00/uaTzNtAofjClMMroFthYtoTZfUFLWstExwnimgGMvmZzlZztrTRXEXcBfxljVrOmmGxxQCXlPrGIGDcoQitkSUlfJaNXHasBBkRZf.pkg
+PCSG00037	JP	Dokuro	http://zeus.dl.playstation.net/cdn/JP0747/PCSG00037_00/BhnIMeauJMhxvDpGZbTNBOpLaJPuprrXZWnmLiwhkoBInIUsvqqwwiDCWoZFVLBZzUNVLpejLVADTMGzOCMhiiiVlMLawhSZvdbvo.pkg
+PCSE00647	US	Amnesia: Memories	http://zeus.dl.playstation.net/cdn/UP0031/PCSE00647_00/UP0031-PCSE00647_00-AMNESIAMEMORIES1_bg_1_e1fb17c47f909228070be6420624410ae09421e0.pkg
+PCSE00573	US	BADLAND: Game of the Year Edition	http://zeus.dl.playstation.net/cdn/UP4530/PCSE00573_00/UP4530-PCSE00573_00-GAMEOFTHEYEAREDI_bg_1_d07294de17796f003328e63ff2990d7f9ca6703e.pkg
+PCSE00689	US	Croixleur Sigma	http://zeus.dl.playstation.net/cdn/UP0969/PCSE00689_00/UP0969-PCSE00689_00-CROIXLEUR0000000_bg_1_eb709b0811f601082ef47f59ff484c887dc8912a.pkg
+PCSE00716	US	Curses 'N Chaos	http://zeus.dl.playstation.net/cdn/UP2114/PCSE00716_00/UP2114-PCSE00716_00-0000000000000001_bg_1_c732a40b77b1972c1b42c8381d1e70475b2c3508.pkg
+PCSE00248	US	Deathmatch Village	http://zeus.dl.playstation.net/cdn/UP4176/PCSE00248_00/dWcxSfxnBAzzNJGhGAgWpClDnHDRnpMorNrjHrYLGQokFscRVDbpuGhnBSIVPRCs.pkg
+PCSE00559	US	Don't Die, Mr. Robot!	http://zeus.dl.playstation.net/cdn/UP4514/PCSE00559_00/KSfewbWvxteiiQxOcZpnxuygenLGUvxGCundRmcoLDoJoxXsLFNytjApxijqpEWv.pkg
+PCSE00008	US	Dungeon Hunter Alliance	http://zeus.dl.playstation.net/cdn/UP0001/PCSE00008_00/ItkTSZdCVyVaKFYcSSiBVnxwNRAIZsewudmEDLTISDWdAjDjFXfglpUfBvrShFYKowkRndFCddXSeGckRYPQXiACBeLObsRQSKfKp.pkg
+PCSE00610	US	Element4l	http://zeus.dl.playstation.net/cdn/UP4528/PCSE00610_00/UP4528-PCSE00610_00-ELEMENT4L10APACK_bg_2_b1517f0d261b51aada9f30059f03ebdee0b6d938.pkg
+PCSF00023	EU	Escape Plan	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00023_00/ELJKhuELxBMGfGNtwoSGjOoJREBaJGSavxyxwqAmYENKDooHspeoKRYQhHNEsZWk.pkg
+PCSF00044 (APP)	EU	Facebook	http://ares.dl.playstation.net/cdn/EP9000/PCSF00044_00/jXBPpLvXuwPtxelFMVbkrIyimWtfoCoWmyNwbHLfJPzvTCWMOiShCCylQxVkKEaI.pkg
+PCSA00037	US	Fireworks	http://ares.dl.playstation.net/cdn/UP9000/PCSA00037_00/bbBqaQxizYtwJOzkgpZvJQauvbQQgJyklrAseSYMioUmDvlfQQGSdQkrRoSuPqYSolYXWiHFpyHKDfcTnYNvpscpqobZDSCpswqXu.pkg
+PCSE00566	US	Flame Over	http://zeus.dl.playstation.net/cdn/UP4132/PCSE00566_00/UP4132-PCSE00566_00-FLAMEOVERLLJ2014_bg_1_f647a22bbd8d222012c7abbf7a5e451faf6fee71.pkg
+PCSE00039	US	FoosBall 2012	http://ares.dl.playstation.net/cdn/UP4151/PCSE00039_00/NjkpcviGUYkBGgPBKwDkGillqonlmyrZfCKmemDjEjtOEjKlvLXVkJiykpGccZdtYbgGZXIyYmtARFqWeapvoLIrThSPZCdEhkBDY.pkg
+PCSA00134	US	Helldivers	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00134_00/UP9000-PCSA00134_00-HELLDIVERSSCEA00_bg_1_88f43f8b5a81a58cce589934bce30818bd0d8cd4.pkg
+PCSE00254	US	HISTORY: Legends of War: Patton	http://zeus.dl.playstation.net/cdn/UP4136/PCSE00254_00/gWnxSHLGVFCAigdNJJhuQOsBeOUtNPoTkkUtDjqUrmswAOubgVMiYEIoGyJPjDlG.pkg
+PCSA00137	US	inviZimals: The Alliance	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00137_00/klxnAhZJvKucfAhbylHOKuxKjTTkxNAeLZPwVvOwdqrYCcwhWwpYhFBhVFxQUKOC.pkg
+PCSE00213	US	Jet Pack Joyride	http://zeus.dl.playstation.net/cdn/UP4249/PCSE00213_00/BdFcGUhAsPWlBxcoQAMTmbVfTvslopAkcWgEZkgpwHVtjRneLRjBRFbYOeemyUlh.pkg
+PCSA00138	US	Lemmings Touch	http://ares.dl.playstation.net/cdn/UP9000/PCSA00138_00/plVVQjdhuWUIWLVJnUEZEUTqBiOLIhGUIakRBixWfASdzukAXZQecuATjLeUVFGB.pkg
+PCSE00825	US	Letter Quest Remastered	http://zeus.dl.playstation.net/cdn/UP2187/PCSE00825_00/UP2187-PCSE00825_00-LETTERQUESTPSV0U_bg_2_ec16385e49098582fed6c21f4befa073f8e66fd8.pkg
+PCSE00766	US	Level 22	http://zeus.dl.playstation.net/cdn/UP4540/PCSE00766_00/UP4540-PCSE00766_00-LEVEL22GAME00000_bg_1_440c958f96a886e031ace72445bf0c78bb5400ce.pkg
+PCSA00010	US	Little Deviants	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00010_00/DyvxCwhktARZPhonFtfEzMDVEJZcbPqEsAqBsDPtOYzdNHFNKmoeTYDryxVFEWgosVzntwdXrtjBnBqdsLnByrsnuxgWcRmyZbRHO.pkg
+PCSA00017	US	LittleBigPlanet PS Vita	http://ares.dl.playstation.net/cdn/UP9000/PCSA00017_00/aQQgwqthqmqefGAQrrnLoBtPDhZuqbLLilSjmhDQGZUGqDWosiyZkktzrIXWQYdjcFrtPeteHLOLMRjZeWifQVpRRjoTFUwDpwaVZ.pkg
+PCSE00857	US	Lumo	http://zeus.dl.playstation.net/cdn/UP4034/PCSE00857_00/UP4034-PCSE00857_00-LUMO000000000000_bg_1_99b9858167f5e9c8021c7cf5799050198834341a.pkg
+PCSB00560	EU	Minecraft Playstation Vita Edition	http://ares.dl.playstation.net/cdn/EP4433/PCSB00560_00/ZKlYCQbMrRogaHfKkPQRtoyOKOLDRsmQyZRgFkqMOkkxcyyPAeWxFGWbVjziCeZg.pkg
+PCSE00835	US	Neon Chrome (3.60+)	http://zeus.dl.playstation.net/cdn/UP4403/PCSE00835_00/UP4403-PCSE00835_00-NEONCHROME000000_bg_1_b1ee2b0e7bf890703670515bf256fafb86a4531a.pkg
+PCSE00620	US	Nihilumbra	http://zeus.dl.playstation.net/cdn/UP4542/PCSE00620_00/UP4542-PCSE00620_00-000000NIHILUMBRA_bg_1_35b6a4203839330fb03e1d9b2a8ab0b71c929b87.pkg
+PCSE00686	US	Nova-111	http://zeus.dl.playstation.net/cdn/UP4395/PCSE00686_00/UP4395-PCSE00686_00-NOVA111VITAUS000_bg_1_4c03c1e0ae8034f1960c6e639a2daad6661434c4.pkg
+PCSF00312	EU	Open Me!	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00312_00/qBmFYuAkFUUKtwjMMaZwySQlPVuYVLMeLvnCgmihFOKBJfZYNbhTHhAzemSSyhrF.pkg
+PCSF00314 (APP)	EU	Paint Park Plus	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00314_00/eayXuLTDuosokrEOnsXMlXTkEDKkrTDxjffOiahFoWacJCfIkhbVhxZsuMammlGm.pkg
+PCSE00065	US	Pinball Arcade	http://zeus.dl.playstation.net/cdn/UP2058/PCSE00065_00/YgjZfMoPEBAburcWVPDhrugUzgOZoUNETvKkCfdUrttPEovfAtXPJhTbxLQyiOozmDBdQbrvVIsuVbTQrfUaSdJJkPJCzvBTaMLVX.pkg
+PCSE00064	US	Plants vs Zombies	http://zeus.dl.playstation.net/cdn/UP0017/PCSE00064_00/zWnMayGtiLPHPkSWosJhwyLTKbQKeTDVZfNIIPSiaKgMExpducEhkqZqOECRWSAjVZrhiiVEXVNUxmiUXeAsYMkBFTjtgOWwORqJp.pkg
+PCSF00228	EU	PlayStation Home Arcade	http://ares.dl.playstation.net/cdn/EP9000/PCSF00228_00/gEBnRveKPJfkGSwMfkOIriLXUKgLKFSibAvUEEiKXdDJuxbkNGksWysofhHqMMNC.pkg
+PCSE00702	US	Pumped BMX +	http://zeus.dl.playstation.net/cdn/UP4395/PCSE00702_00/UP4395-PCSE00702_00-PUMPED2SCEAVITA0_bg_1_019ba0c51fb4540823fbe0a4fb5157be24fa6286.pkg
+PCSA00012	US	Reality Fighters	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00012_00/zomoSLYJfplGJPDQevszBRZlUcvByQTTRIHOkdJlmPrPrsLbObDAqFOdekuHjIlXJgXCEloQadLIdpLjztSgHRgFHnJCnKUtSRiYP.pkg
+PCSF00043	EU	Forbisher Says!	http://ares.dl.playstation.net/cdn/EP9000/PCSF00043_00/cPUzhwemushCNcXzHQvDDTWcHFhuZmWKTpLKnIHNGOjaipvTuApuNKHCQQpkBmSp.pkg
+PCSF00064	EU	t@g	http://ares.dl.playstation.net/cdn/EP9000/PCSF00064_00/PexVoPFjfgsdXRtMHNIhlQSDjoZesxUDxuTtTlhYRoeSEqfOTUdBOmlBLRoLLTSZ.pkg
+PCSF00090	EU	foursquare	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00090_00/TDOhWWmqRKHcptjTRGZzpRHmMFTjujlOPjpejpJGMyfXcvyLwHLqPPRWEmgsrEGh.pkg
+PCSF00141	EU	Resistance: Burning Skies	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00141_00/BiTksqMWiskuXlouuFTJrYsqXYoKOzbMYzHeaVjTYUbxwmSKEUIZApoTnVqGjtRU.pkg
+PCSE00112	US	Rocketbirds: Hardboiled Chicken	http://zeus.dl.playstation.net/cdn/UP5015/PCSE00112_00/YobEWIlyScXXjsudxzUaZWWIhmdWgUaiiZltewaVtbAKmZfkKUxzLfziTKAFEYHh.pkg
+PCSE00705	US	Shütshimi	http://zeus.dl.playstation.net/cdn/UP2148/PCSE00705_00/UP2148-PCSE00705_00-SHUTSHIMI0000000_bg_1_3667dd818642c4ee5178641cac5b210c52281019.pkg
+PCSE00606	US	Skullgirls 2nd Encore	http://zeus.dl.playstation.net/cdn/UP2032/PCSE00606_00/UP2032-PCSE00606_00-SKULLGIRLS000000_bg_1_69ba06650de0833ce181087b688a4a80c359905a.pkg
+PCSE00933	US	Spy Chameleon	http://zeus.dl.playstation.net/cdn/UP2632/PCSE00933_00/UP2632-PCSE00933_00-UPSPYCHAMELEON01_bg_1_fd25931b8a991a363637f4cae71c8060bb178232.pkg
+PCSE00029	EU	StarDrone Extreme	http://ares.dl.playstation.net/cdn/UP4101/PCSE00029_00/LpyRlPaAxhVOclQFuuAFONaLfLhRHMYeqAxbPCWPRlUHYhGngPmApSrvtaCctfmtwikGkGJkqLpHGPoEIdMRuXaNVnucGXzBbLfUT.pkg
+PCSF00019	EU	Super Stardust Delta	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00019_00/IBaXXDdMKwvlxdzHDupAHHpEtsNsRwnmcXdaoBNYSwURzYfrogJMolgJBpCiiNzf.pkg
+PCSE00493	US	Switch Galaxy Ultra	http://zeus.dl.playstation.net/cdn/UP4460/PCSE00493_00/UP4460-PCSE00493_00-SWITCHGULTRA0000_bg_1_4da12e9fdf8381c762c4af039e3495922ed7a801.pkg
+PCSB00411	EU	The Walking Dead: The Complete First Season	http://zeus.dl.playstation.net/cdn/EP2026/PCSB00411_00/OjZDMsawjyxGRXKjJPrlLVQvnqLIqAsAsvfxSuRiadYkPNMNghfrIOyzbZhFtJcT.pkg
+PCSE00671	US	TorqueL	http://zeus.dl.playstation.net/cdn/UP0969/PCSE00671_00/UP0969-PCSE00671_00-0000000000000000_bg_2_401b63d66233de790f8339e877bfe82eace84ed7.pkg
+PCSF00113	EU	Travel Bug	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00113_00/YbjRaCRDDFSjvnHqrbbEzjGcZfvXTtfMMzzvZdpUujNMnREtVEJWRAoINYowNeGK.pkg
+PCSE00414	US	Ultratron	http://zeus.dl.playstation.net/cdn/UP4395/PCSE00414_00/UP4395-PCSE00414_00-DROIDPACKVITAUSA_bg_1_7eb642186cb0a59a6954c7d28d29a5ee957345be.pkg
+PCSE00506	US	Vitamin Z	http://zeus.dl.playstation.net/cdn/UP2140/PCSE00506_00/UP2140-PCSE00506_00-VITAMINZ00000001_bg_1_b3055e86fcd5d5b206590260f07415bf2ecce4a2.pkg
+PCSB00873	EU	WE ARE DOOMED	http://zeus.dl.playstation.net/cdn/EP8902/PCSB00873_00/EP8902-PCSB00873_00-WEAREDOOMED00000_bg_1_43da6a50da799dcdfa2d956f3d91ceb464d217c9.pkg
+PCSE00793	US	We Are Doomed	http://zeus.dl.playstation.net/cdn/UP2195/PCSE00793_00/UP2195-PCSE00793_00-WEAREDOOMED00000_bg_1_d22a783b6bf41d5b4dcb40eb755fe615dd5fb2c5.pkg
+PCSH00034	TW	ONE PIECE ???? 2 ???	http://zeus.dl.playstation.net/cdn/HP0700/PCSH00034_00/sStSoKgVksFKCoouIWmzQPRCwNYGHlcDwuPoRmcZgAdgenHEDClEsQAfCybzElQemnrnxAebZsFnjScymlTEmUfsAuDtcGGREufSb.pkg
+PCSA00008	US	Resistance: Burning Skies	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00008_00/AScNCYDwalymxlROOfQhixfjHTdYeIPlWLBSEQkeqfWvKqOzLKyknKHQIvnatIxLdyOAOOZJudKYuJczhcitXiYZGSjwBZIhMFGEQ.pkg
+PCSI00007	US	PlayStation®Mobile Development Assistant	http://zeus.dl.playstation.net/cdn/IP9100/PCSI00007_00/qwZoCfFyssmRqfKnOiacJTKWhBPUvoZjoDSgwmudFAtjGrwZeMkWIIjPpypHROcDMPVgGsMKYrrnMRpiWOeAFuTmOuoLHjgcAGmpQ.pkg
+PCSC00013	JP	LittleBigPlanet PS Vita	http://ares.dl.playstation.net/cdn/JP9000/PCSC00013_00/BWFfCuqidqoFaQqItJiCbSwUjWLnXFejxHhWpKKhCfCFeubRWCknNuMYjOvNfLJnMEWHbdtXCxmQlPPswlejwJbRBmDBUmbAGwhli.pkg
+PCSC00005	JP	Uncharted -Chizu naki Bouken no Hajimari-	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00005_00/mzfRVWcxELQKSUyfJghvkItmTTlbmRPduLhkzIxUQowqBayzaSxtVFGdtTApdFxlCMibjJmDqNOADEojRazVCzZLuIRMkRAJAskcM.pkg
+PCSC00002	JP	GRAVITY DAZE	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00002_00/GLaUvpkPzcIkbXFPObBCvLzFyUOcTrPpDFdNZOClPkuEgWWVDJDmcHZTfUhAaxfZwUHrrBjcukWQwdWUbyXkeSCSMoFTzMDHEgrlT.pkg
+PCSG00579	JP	MOBILE SUIT GUNDAM BATTLE FORTRESS	http://zeus.dl.playstation.net/cdn/JP0700/PCSG00579_00/JP0700-PCSG00579_00-BATTLEFORTRESS00_bg_1_56fb6e90800ba0a785a387b3f545fa3e9d1ff843.pkg
+PCSG00157	JP	NINJA GAIDEN ?2 PLUS ???	http://zeus.dl.playstation.net/cdn/JP0106/PCSG00157_00/yhcSwPVroZEMzDFskEokcwgSDYyxVpAdoEdcjzTepBXxHdzJIqzPYqKbIsddhRIrOXkzEnftgGFCISEQHjKaFRpLMQQiIEVYnntAO.pkg
+PCSB00735	EU	Hatoful Boyfriend	http://zeus.dl.playstation.net/cdn/EP3643/PCSB00735_00/EP3643-PCSB00735_00-HATOFULBOYFNDPSV_bg_1_983cef2b9d5adf847fe76c6ea63803125500f1ca.pkg
+PCSB00845	EU	Level 22	http://zeus.dl.playstation.net/cdn/EP4540/PCSB00845_00/EP4540-PCSB00845_00-LEVEL22GAME00000_bg_1_acf10336f43c3ee952bd8a56945cbd2fbd7b9dcf.pkg
+PCSF00376	EU	Lemmings™ Touch	http://ares.dl.playstation.net/cdn/EP9000/PCSF00376_00/AQYFoiSQOALrvuKpmhbMkZJGLjXigYAoaYzRVWUMNLYGFBBYlFEcAlCnLbkHVNlF.pkg
+PCSF00262	EU	RESOGUN	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00262_00/EP9000-PCSF00262_00-RESOGUN000000001_bg_1_58076095a0caa5bba09fd858e688419862846fbe.pkg
+PCSB00306	EU	Deathmatch Village ???	http://zeus.dl.playstation.net/cdn/EP4176/PCSB00306_00/emceukufJrEnSQTKvpgsVAFMfCBmiZDjsFPjZTppYcxNiBEQuDvDVsOAbeaZhJrH.pkg
+PCSH00193	TW	???????? Empires????	http://zeus.dl.playstation.net/cdn/HP0106/PCSH00193_00/HP0106-PCSH00193_00-SM7EMPCOOPTW0000_bg_1_6c1c9f2f6ab1252b433d98efb2a453155a76dacb.pkg
+PCSH00281	TW	DEAD OR ALIVE Xtreme ???? 3 Venus ?????	http://zeus.dl.playstation.net/cdn/HP0106/PCSH00281_00/HP0106-PCSH00281_00-DOAX300000000000_bg_1_1fef0294acbc384a66eed10f44a896e7cab1ad2a.pkg
+PCSD00092	TW	Fat Princess: Piece of Cake ???	http://zeus.dl.playstation.net/cdn/HP9000/PCSD00092_00/HP9000-PCSD00092_00-FATPRINCESSPOC00_bg_1_9c950a09319d9b7bd98e998c8fc20c66f5a93e41.pkg
+PCSD00086	TW	HELLDIVERS™ ???	http://zeus.dl.playstation.net/cdn/HP9000/PCSD00086_00/HP9000-PCSD00086_00-HELLDIVERSSCEAS0_bg_1_28ab2c4d8a0cec0030afa852cc8dfa905fcbb072.pkg
+PCSH00064	TW	niconico	http://zeus.dl.playstation.net/cdn/HP0028/PCSH00064_00/fHoiNVExdAYqOGaUYKFAXvCZrOfRrOmQdxbZoOUbyjKQmylOJqRcmCjJrigRfaQKKJbBAPdDGQStHSqenWJOgvKYMUrwthRWKVojb.pkg
+PCSD00096	TW	PlayStation® 20th Anniversary ??	http://zeus.dl.playstation.net/cdn/HP9008/PCSD00096_00/HP9008-PCSD00096_00-20THANNITHEME001_bg_1_87fea5eab6b8a18653dd74a8e925c20246636ec1.pkg
+PCSD00040	TW	PlayStation® All-Stars Battle Royale	http://zeus.dl.playstation.net/cdn/HP9000/PCSD00040_00/fsYBSldeLpliidrbVBfVGGIAShmazBJjMdMoPKpugSMGHjoqSNetdmWsJKGDzfeoMzdZwGHvMyLOrvhAxorLbMqzUMKMBnDMdKgAc.pkg
+PCSD00045	TW	PlayStation®Home??	http://ares.dl.playstation.net/cdn/HP9011/PCSD00045_00/KhdIckpOdXkcNgOqxTnEcYDbMjcXzeHhUwyDFBeEmtUKUaYaJjSjaogdTrYFKBpEeGIQRyFZcjfJCtDQpimckvrDLcnNdgwaVEfQv.pkg
+PCSG90187	TW	Ray Gigant ???	http://zeus.dl.playstation.net/cdn/JP0700/PCSG90187_00/JP0700-PCSG90187_00-RAYGIGANTTRIAL00_bg_1_e6d5845873c929c97c29f22d844b0600edd3d48f.pkg
+PCSD00017	TW	Reality Fighters™	http://zeus.dl.playstation.net/cdn/HP9000/PCSD00017_00/DcnmIGqsGWFjhdpQtQvetXHhRwWMuPEzgpNscMWHPDTuHASmQunnohSfqwmFNlQTrpcjQOltLQcSaUtSWCFTLkHCwnqyXoiVpSbGA.pkg
+PCSD00090	TW	Run Sackboy! Run!	http://zeus.dl.playstation.net/cdn/HP9000/PCSD00090_00/HP9000-PCSD00090_00-1234567891234567_bg_1_9adcde121e398460aa817787ec44438e87308efd.pkg
+PCSE00272	TW	Shake Spears! ???	http://zeus.dl.playstation.net/cdn/UP4173/PCSE00272_00/UP4173-PCSE00272_00-SHAKESPEARS00001_bg_1_002b0f2d3181be7b91eca934db36f6feb4bdcc17.pkg
+PCSD00025	TW	Skype	http://ares.dl.playstation.net/cdn/HP9010/PCSD00025_00/BuCLXhilrGfqXmpZeiqJjZpkMlQSlClRINeAcvwbTSWjsfNKlqpJzjZsfFqjNOPswnDHmOYQEYwtfnxnBWsipVRRUriQelwlPuiNW.pkg
+PCSE00027	TW	Treasures of Montezuma Blitz ???	http://ares.dl.playstation.net/cdn/UP4173/PCSE00027_00/iDVMhakVHlNnWeEsEmEqTaRsKaJJXEfmIAurUbefVrWhhlUSIWfNDsgmTnvcNymgOPgXfWaXtslCiTtaymNDcuPopnlrAmarVtlqX.pkg
+PCSH00200	TW	Twitch	http://zeus.dl.playstation.net/cdn/HP8901/PCSH00200_00/HP8901-PCSH00200_00-TWITCHPSVAPPASIA_bg_1_27061ff1b05b85b1d91c3436735a0ed6fd9e2121.pkg
+PCSE00050	US	Zen Pinball 2	http://ares.dl.playstation.net/cdn/UP4042/PCSE00050_00/UIVjmLNYhrKTXEfozVoEldJsXVgtXwPYYnmsWgJfKPFcDXtMyoqRqvHbnbmFYWYwjKkMoUYlOzyCeXIJUCSZojLIYiqhTOoMJOHlk.pkg
+PCSE00258	US	Thomas Was Alone PS Vita	http://zeus.dl.playstation.net/cdn/UP4395/PCSE00258_00/wktCAOFjBTHVDhbTVhIeRiLeIJStHxwRAwoMIrjSkfWfEKtdxmrUWWdFXLvRVJWE.pkg
+PCSG00569	JP	Fushigi no Chronicle: Furikaerimasen Katsu Madewa	http://zeus.dl.playstation.net/cdn/JP0365/PCSG00569_00/JP0365-PCSG00569_00-FURIKATSU0000000_bg_1_1a12221e4c446ec9f7909d15e7fd6328db58fa95.pkg
+PCSH00075	TW	???? ????II ???	http://zeus.dl.playstation.net/cdn/HP0425/PCSH00075_00/cjcEozObUuFPvqQCILsgxHSBsjfEATYmfZJXrdfnRDjbBvyGHNNIksjeDiAxSpMneAXxyyOCHAgtLtvJgMmaObcrFwVdsaUeZfdvN.pkg
+PCSD00079	TW	????DELTA ???	http://zeus.dl.playstation.net/cdn/HP9000/PCSD00079_00/YVSZrvAMCYqKRAZMmPmkSpjfooXPrSYwGmnYZhSySOAqDaQwFCDQNwgNjTznOVasKaOTMxLEhLtFHVAdxMxWfetMzGLPuaGnqtiEW.pkg
+PCSH00109	TW	????FRONTIER Z	http://zeus.dl.playstation.net/cdn/HP5034/PCSH00109_00/HP5034-PCSH00109_00-MHFGHDDCONTENTID_bg_2_7db94dcc8bfdbab717d85b39368809296ccc14a1.pkg
+PCSD00085	TW	No Heroes Allowed: No Puzzles Either!	http://ares.dl.playstation.net/cdn/HP9000/PCSD00085_00/izCdXbnODleJKbhkSPPFhbULtTPMIvnmmtGFEbMvoQWtkjAoyBExeXjvqOVnwkUwAXfHcWfprZkFzdtNzDRYRxeEwksVsoKaGcHlR.pkg
+PCSF00209	EU	Sly Cooper: Thieves in Time	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00209_00/kloDgEDbMthJkCGLfLjALxFjeNTZpLUWLTTeYZdXZuCcmUWapJmIuHmHdnewnTBZ.pkg
+PCSA00068	US	Sly Cooper: Thieves in Time	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00068_00/OSTySHQMhGQTXtddicQVeXEOxHRuEAwmsdMfkxNyySXoMZhLuifqupTDxCFSzBGssoydoWhRJhKycMDwfTgzdCBQhBkulUwpXsvJW.pkg
+PCSB00478	EU	Toukiden: The Age of Demons	http://zeus.dl.playstation.net/cdn/EP4108/PCSB00478_00/sFwpUzyVaLwltzMXHxTlGEBtSvSygDDlqbgtwZMXUXOUlScTUMONZZvwanvmNSpb.pkg
+PCSG00215	JP	Yahari Game demo Ore no Seishun Love Come wa Machigatteiru.	http://zeus.dl.playstation.net/cdn/JP0745/PCSG00215_00/syYmzstglritVebNFwlMSrzIUdMMyAbxYvxLvhCBJlYPuABdLxbOcdUVKDCWdESpmnhoLEMARbBSjRkFWxpbuBQzrTcePzATUjNJb.pkg
+PCSB00598	EU	Child of Light	http://zeus.dl.playstation.net/cdn/EP0001/PCSB00598_00/EAMfBniHkRQwZbeAuhzZyiJwNGnfVOejcaQnlLGRwUKvHTFrQoNqDVcoIdLwRkHA.pkg
+PCSB00074	EU	Assassin's Creed III Liberation	http://zeus.dl.playstation.net/cdn/EP0001/PCSB00074_00/LVaHhMFjvqpTnhiMnzpDjMfHQaxXEQEzEJhRPRQAliNWHhSlBjbEJuvWVbAiHlTTzAaFbyMtOUlflQIgSkvrfpUrozTbiofnHKOOm.pkg
+PCSB00553	EU	The LEGO Movie Videogame	http://zeus.dl.playstation.net/cdn/EP1018/PCSB00553_00/dKVifzLTJdSGobvsjpRxEAcKdLwsrrWCjmGwkBIvDYEqaliTNZnuuZwnrcDzQbpb.pkg
+PCSB00830	EU	Sword Art Online: Lost Song	http://zeus.dl.playstation.net/cdn/EP0700/PCSB00830_00/EP0700-PCSB00830_00-PRODUCTPACKAGE01_bg_1_1c11d9f5cd23afbc75dd9b72514fa3fdf6447900.pkg
+PCSB00662	EU	Woah Dave!	http://zeus.dl.playstation.net/cdn/EP2148/PCSB00662_00/EP2148-PCSB00662_00-WOAHDAVE20000000_bg_1_dcf6acd4832592130557d580c295197dc3e20a86.pkg
+PCSB00858	EU	Actual Sunlight	http://zeus.dl.playstation.net/cdn/EP0760/PCSB00858_00/EP0760-PCSB00858_00-1234567812345678_bg_1_7cfbddc06539702b74cc7e6e6d2f64820f0a8716.pkg
+PCSE00582	US	Adventure Time: The Secret of the Nameless Kingdom	http://zeus.dl.playstation.net/cdn/UP2089/PCSE00582_00/IiactKOOoeCnUEhJCvraQejtJGShzvOCzIXGhIyIQuimbEGiWBUhxmdCTPoCIWMF.pkg
+PCSB00955	EU	A Virus Named TOM	http://zeus.dl.playstation.net/cdn/EP1920/PCSB00955_00/EP1920-PCSB00955_00-G000000000000877_bg_1_9a0c05b45b2ec138e94ff684250f17cabf9e9d19.pkg
+PCSB00231	EU	Alien Breed	http://zeus.dl.playstation.net/cdn/EP4064/PCSB00231_00/MeBfAjsnwAiHYwfPQTAIfiNENYsclZztsmUlqHHvXObPDMSsTTpqTtCWTKlzANrh.pkg
+PCSB00568	EU	Another World - 20th Anniversary Edition	http://zeus.dl.playstation.net/cdn/EP4489/PCSB00568_00/GMcRCEhkTQAUCjNFtRSfLZaWxyUyaSnTKRDKrlQiFYJjUfvSBUZpALiPjMKUKPri.pkg
+PCSB00274	EU	Atomic Ninjas	http://ares.dl.playstation.net/cdn/EP4151/PCSB00274_00/SxbfRVnJkJMqohJgnXkSEReYqdtRlacSTWVYfuzGzsfSVDcbmPFcIeinkDpKWJwq.pkg
+PCSB00399	EU	Azkend 2: The World Beneath	http://zeus.dl.playstation.net/cdn/EP4403/PCSB00399_00/EP4403-PCSB00399_00-AZKEND2000000000_bg_1_304242cfbb288334e06f99174be26c4753c6bc06.pkg
+PCSE00706	US	Back to Bed PS Vita	http://zeus.dl.playstation.net/cdn/UP2135/PCSE00706_00/UP2135-PCSE00706_00-BACKTOBEDLOOTPSV_bg_1_0428e4f372f4a38927a4354f29eb007eed27f26f.pkg
+PCSB00094	EU	Zen Pinball 2	http://ares.dl.playstation.net/cdn/EP4042/PCSB00094_00/BxEUSSryFmLcRBXazpnrMCdUZHehVqyAmPOfyJUJuOoPGVKgcZAZtFejdQYpIycf.pkg
+PCSE00712	US	Velocibox PS Vita	http://zeus.dl.playstation.net/cdn/UP2135/PCSE00712_00/UP2135-PCSE00712_00-VELOCIBOXPSVLOOT_bg_1_6a2c37934e6a2fdb259537d6609c9e53a7bc3190.pkg
+PCSB00410	EU	Velocity 2X	http://zeus.dl.playstation.net/cdn/EP4143/PCSB00410_00/jTquhXPsfbpASdjIRLDBNqJWvTvBMrzVpAwjcIpNUmkaJSQnEqJoBnLXNJTIFqtB.pkg
+PCSB00810	EU	VVVVVV	http://zeus.dl.playstation.net/cdn/EP2103/PCSB00810_00/EP2103-PCSB00810_00-VVVVVVGAMEPSVITA_bg_1_f2c39162e57388f5443a241de3bac13a67ff1bc8.pkg
+PCSF00181	EU	Wake-up Club	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00181_00/FgVQzpHgbwXsFbfuPZyCIaalvPaEmfnciriIlNWyqfisvdePcGfPgcddqdrHVtfQ.pkg
+PCSB00575	EU	WARRIORS OROCHI 3 Ultimate	http://zeus.dl.playstation.net/cdn/EP4108/PCSB00575_00/BaEFfkEskBKIPoTCEmjvokXVRQsjltQUlmukuvysUzUpnPMjflQMFGmufjNBmbJZ.pkg
+PCSE00633	US	Whispering Willows	http://zeus.dl.playstation.net/cdn/UP2135/PCSE00633_00/UP2135-PCSE00633_00-WHISPERINGWILLOW_bg_1_28594e12ec5d77c18460b7e327979b5c470f3d8c.pkg
+PCSF00036	EU	PulzAR	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00036_00/bzdANoiryorGMquRosJYFYcLkaUEGaUIvaJBoBYAQzVACFmXtwDVhIxgYuTdXeFY.pkg
+PCSB00803	EU	Pumped BMX +	http://zeus.dl.playstation.net/cdn/EP4395/PCSB00803_00/EP4395-PCSB00803_00-G000000000000730_bg_1_3b99e738a4fe1332ab7971ccad9b48c4827a6caf.pkg
+PCSB00080	EU	Pure Chess	http://ares.dl.playstation.net/cdn/EP4337/PCSB00080_00/JbOvFBFvcKacUtcNWhBtMAsyDpmKDoFhaezGdFFbpMXqKkoYUgVyrWUmnuwmTHkL.pkg
+PCSE00561	US	Q*Bert Rebooted	http://zeus.dl.playstation.net/cdn/UP2135/PCSE00561_00/UP2135-PCSE00561_00-QBERTREBOOTEDPSV_bg_1_a674120931afde9135f68b5ab02407222758c92b.pkg
+PCSB00643	EU	RACE THE SUN	http://zeus.dl.playstation.net/cdn/EP2127/PCSB00643_00/PVmmvTlUKCcbBgsZYGphoDgZhrenAJMiiRksFExwefceHzuVEAvVzGzPEJKAiFlp.pkg
+PCSB00471	EU	Ragnarok Odyssey ACE	http://zeus.dl.playstation.net/cdn/EP0747/PCSB00471_00/epcHXnalzIlPiYTGXySrrFiqROjZCmYzeDMHTKdJBdUBqiVjhudyWHGxxRiXjUSb.pkg
+PCSB00370	EU	Rainbow Moon	http://ares.dl.playstation.net/cdn/EP2005/PCSB00370_00/yCNPFEHhvjwLDkQHsICZGQNulVYzqRVpqeFXcHlrzzDKJfufaFmDqYLuwuUCLdAm.pkg
+PCSB00365	EU	Real Boxing	http://zeus.dl.playstation.net/cdn/EP4417/PCSB00365_00/QFipKPQmgVMhSHbLWdJwfdXwnHUzARpUyMaJmGClqsuBfqYcphWmWvIlIUgdYWZg.pkg
+PCSF00003	EU	Resistance: Burning Skies	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00003_00/BTAnoDmFdjPocqqMAbqnGerlKWFgbmdwodzGwBrpRnkCRzXfPTmpFceTZoCbjRBz.pkg
+PCSA00103	US	RESOGUN	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00103_00/IrPmHAesdoMowYVCloAomYhWusQqsOqLfRCuBcaVDvLNCZELDncQpFrFanFkdsTE.pkg
+PCSB00571	EU	Rogue Legacy	http://zeus.dl.playstation.net/cdn/EP4488/PCSB00571_00/hceccrmJBkbpQhlzvRjbRsIFcLGoovLZxXqHwmGbtMiHXDZXwlqgPVAHcVjFpUMc.pkg
+PCSF00562	EU	Run Sackboy! Run!	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00562_00/EP9000-PCSF00562_00-1234567891234567_bg_1_c34fc79a29007669cfaab39756a8f2e99feb19f1.pkg
+PCSB00882	EU	SENRAN KAGURA ESTIVAL VERSUS	http://zeus.dl.playstation.net/cdn/EP4492/PCSB00882_00/EP4492-PCSB00882_00-0000000000000000_bg_1_46efb3473ec2a2ad9e4a469833ed6c9540c914d5.pkg
+PCSB00601	EU	SENRAN KAGURA SHINOVI VERSUS	http://zeus.dl.playstation.net/cdn/EP4492/PCSB00601_00/gcTkHnZiJblJEPxBsjzAgUspFhiEHchqPCikNmAHGLjhFslqxLsAugWDFCzCABWc.pkg
+PCSB00702	EU	Severed	http://zeus.dl.playstation.net/cdn/EP2145/PCSB00702_00/EP2145-PCSB00702_00-SEVERED000000000_bg_1_4e1ad1818c311c90859f9fe9fe640b62666a01b9.pkg
+PCSB00364	EU	Shake Spears!	http://zeus.dl.playstation.net/cdn/EP4173/PCSB00364_00/TPnSgQpVPQbpJKIpQooGFpaFZZrbuZxPefDDpCGLKpvYrLYfVTQgCwzaleBDTHvw.pkg
+PCSB00743	EU	Shovel Knight	http://zeus.dl.playstation.net/cdn/EP8903/PCSB00743_00/EP8903-PCSB00743_00-SHOVELKNIGHT0001_bg_1_78d3794b6b037a8898302a4fb3b96b729076c7cc.pkg
+PCSB00807	EU	Shutshimi	http://zeus.dl.playstation.net/cdn/EP2148/PCSB00807_00/EP2148-PCSB00807_00-SHUTSHIMI0000000_bg_1_952c7c67412960023b23930786d26a7fca7d5c17.pkg
+PCSE00773	US	Siralim	http://zeus.dl.playstation.net/cdn/UP1161/PCSE00773_00/UP1161-PCSE00773_00-VITASIRALIM00000_bg_2_fb74840a51843d5e0ef0a09e7f0e0eb64d7abac4.pkg
+PCSF00270	EU	Sly 2: Band of Thieves	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00270_00/LgnkEMMcQXcRVDUYPzYgHChTeePxwDCMygJCCdpEOtzzCAdooKGONWydMKnxJBdo.pkg
+PCSB00918	EU	TowerFall Ascension	http://zeus.dl.playstation.net/cdn/EP2120/PCSB00918_00/EP2120-PCSB00918_00-TOWERFALLVITA000_bg_1_7b231ba14bf47af42e8b9c4c61518d787967a468.pkg
+PCSB00901	EU	Three Fourths Home: Extended Edition	http://zeus.dl.playstation.net/cdn/EP8925/PCSB00901_00/EP8925-PCSB00901_00-THREEFOURVITSCEE_bg_1_2a0cbf058e99276df8efb25ba89ae38fa8a2e40c.pkg
+PCSB00552	EU	Tiny Troopers Joint Ops	http://zeus.dl.playstation.net/cdn/EP4382/PCSB00552_00/FFPMIUFpdnWSDiJgqdRwgeokFdTysyiiykRLpsYcnwyuZYdoodzBaexVaLhuieeq.pkg
+PCSE00432	US	Tiny Troopers Joint Ops	http://zeus.dl.playstation.net/cdn/UP4382/PCSE00432_00/cTfZXuEBoobeQzSmQvOApYjIKcpEwhUNRbUDVuzngTQCTIqzNBTjfmFzyrJWhIdN.pkg
+PCSB00778	EU	The Swindle	http://zeus.dl.playstation.net/cdn/EP4395/PCSB00778_00/EP4395-PCSB00778_00-G000000000000705_bg_1_a95f9d0804be857ecb1c39ce033506ee83a2ba91.pkg
+PCSF00613	EU	The Unfinished Swan	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00613_00/SACXiQvdPutCEmrqTJqBWvMlGtBFaufiWjWSKalxBtBSmOsteIHnbCILpZQKCSvT.pkg
+PCSA00158	US	The Unfinished Swan PS Vita	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00158_00/dMykgvOWjKSAJsTJZoOqHhBnDZRApcZolmTjFuUggmdHGtXFRvzNWwTPNAxrByPv.pkg
+PCSB00453	EU	Best of Arcade Games	http://zeus.dl.playstation.net/cdn/EP4008/PCSB00453_00/qBNPmjqpnmvmluMGRYGodevsKDKuDSsorADJDnTCZSMpMDghOZlaqCoHixbVtHtc.pkg
+PCSB00452	EU	Best of Board Games	http://zeus.dl.playstation.net/cdn/EP4008/PCSB00452_00/wSPcYtUeZHXsmqksMstPUAQJnUNBqRrJtkcnjmrzzgKAUvfuoCkqYATwSdTMUsUr.pkg
+PCSE00018	US	BlazBlue: Continuum Shift EXTEND	http://zeus.dl.playstation.net/cdn/UP1024/PCSE00018_00/WTrrIigOiFZvmohXCDbyHDnQQeIeqBgujLkrobAzShXEsDmaQJamuVrNFKURMIwbvIggBBhDCscNDREyYhNWfNcrrUdBNZYQHcGqG.pkg
+PCSB00748	EU	Broken Age	http://zeus.dl.playstation.net/cdn/EP2154/PCSB00748_00/EP2154-PCSB00748_00-BROKENAGEPLAYSVI_bg_1_78ca1e8118e2071495364ab4a177484961eb75a7.pkg
+PCSE00657	US	Broken Age	http://zeus.dl.playstation.net/cdn/UP2154/PCSE00657_00/UP2154-PCSE00657_00-BROKENAGEPLAYSVI_bg_1_e86a1a3b1f03e81782d67e00904e626cefad7a21.pkg
+PCSB00573	EU	Cel Damage HD	http://zeus.dl.playstation.net/cdn/EP2119/PCSB00573_00/siuwPKzbucPkRTNPQlLhzhXGxMnlSHcLqOItbDLmxqdCEIVSeAjgvWPhbxkwhpuN.pkg
+PCSE01017	US	Cladun Returns: This Is Sengoku! Demo	http://zeus.dl.playstation.net/cdn/UP1063/PCSE01017_00/UP1063-PCSE01017_00-CLASSICDUNGEON03_bg_1_b4037377fdfe5a453ae4fe6287c86495d2d5ee9b.pkg
+PCSB00848	EU	Code: Realize ~Guardian of Rebirth~	http://zeus.dl.playstation.net/cdn/EP1024/PCSB00848_00/EP1024-PCSB00848_00-CODEREALIZE00000_bg_1_338af0d07f2dd39a4be41a90de571af0d2e25947.pkg
+PCSE00612	US	Color Guardians	http://zeus.dl.playstation.net/cdn/UP2183/PCSE00612_00/UP2183-PCSE00612_00-FPLCGMAINGAME001_bg_1_b83f26aab624f8f70fa18f71feb1d30b65cd0a84.pkg
+PCSB00768	EU	COLOUR GUARDIANS	http://zeus.dl.playstation.net/cdn/EP0836/PCSB00768_00/EP0836-PCSB00768_00-FPLCGMAINGAME101_bg_1_94a0c59ac6a18879082221215746316458a5a112.pkg
+PCSE00222 (APP)	US	CRACKLE	http://ares.dl.playstation.net/cdn/US0007/PCSE00222_00/bEesqvVejRDlPmMvFLPVHKxUmHAiSXnnptPtToCgpwHurWkwUvSgrumdDnOqFbNM.pkg
+PCSB00374	EU	Crazy Market	http://zeus.dl.playstation.net/cdn/EP4178/PCSB00374_00/NyOQmblTzJVdTeKsezSqTAvmDxVsxfWpKEKDjPCegDSYltvqmQjSrtJniQTlWZak.pkg
+PCSB00853	EU	Curses 'N Chaos	http://zeus.dl.playstation.net/cdn/EP2114/PCSB00853_00/EP2114-PCSB00853_00-0000000000000001_bg_1_4efeee55419c93a1caa39992ba8f400778ffdfe6.pkg
+PCSE00261	US	Danganronpa: Trigger Happy Havoc	http://zeus.dl.playstation.net/cdn/UP1063/PCSE00261_00/ubZQuuAdEWfKOqUDDxqRlVITExxVAnlkehLggtGTEJkQZZLRSOJKByZyWZNCaWCy.pkg
+PCSB00296	EU	DEAD OR ALIVE 5 PLUS	http://ares.dl.playstation.net/cdn/EP4108/PCSB00296_00/EcKaGeobTzUyqGCDXqFOtisJrdAflyhAFLoxlVwcTuoHxELpFUJFadCfJBgspKmW.pkg
+PCSB00229	EU	Draw Slasher	http://zeus.dl.playstation.net/cdn/EP4396/PCSB00229_00/scXiOPGuvWvGEeyaaQPzsmDQyhhVOeZaYKuuVSvWGSekENowNPcyaebiMngXjUCJ.pkg
+PCSB00639	EU	Don't Die, Mr. Robot!	http://zeus.dl.playstation.net/cdn/EP4514/PCSB00639_00/PmEDLQDoddYQiVAuFrkxJFQtVSiPOeMkXBjNgLnkjErIqFJKbpchgdIjroPtHsom.pkg
+PCSB00551	EU	Don't Starve: Giant Edition	http://zeus.dl.playstation.net/cdn/EP2107/PCSB00551_00/lCUKaWQSCMEBJieNpCzjpqYWPDyvJRDlutuZBNwCHpgWCImjPOtCQghrMMBYdkjY.pkg
+PCSB01010	EU	Dungeon Punks	http://zeus.dl.playstation.net/cdn/EP0873/PCSB01010_00/EP0873-PCSB01010_00-DUNGEONPUNKS0004_bg_1_50167413425989368532c4259d4914b71bb8ee22.pkg
+PCSB00186	EU	escapeVektor	http://zeus.dl.playstation.net/cdn/EP4352/PCSB00186_00/dhjsuGXERoUOMYMuaVARCihZNHpksMbLRfehgeEyIjEkIAWXNXwSwCnVVOurrShD.pkg
+PCSA00004	US	Escape Plan	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00004_00/auQpFRPFjlUVWQbTphOChyhTXxATshUYicqXbPlOiKydHYKXJSShQjbfULYGLDqunJfubTZgigvGTxHniGFGnJabaZykEwBEBGWEn.pkg
+PCSB00656	EU	Flame Over	http://zeus.dl.playstation.net/cdn/EP4132/PCSB00656_00/EP4132-PCSB00656_00-FLAMEOVERLLJ2014_bg_1_48eef338d0b4e6ac90d919d8275161174854ad72.pkg
+PCSA00135	US	flOw PS Vita	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00135_00/JMBCCLscQwQLCoFHLjwYsDLmgSteSRfwYIpROkGZirFcaocuqMLGePlKJuYnlZfW.pkg
+PCSE00484	US	Foul Play	http://zeus.dl.playstation.net/cdn/UP3643/PCSE00484_00/UP3643-PCSE00484_00-FOULPLAYSCEA0001_bg_1_3a6346757639f3c6f98fc006d534183ac77c164a.pkg
+PCSB00295	EU	Germinator	http://ares.dl.playstation.net/cdn/EP4073/PCSB00295_00/BuEeNGVPBMbKKOHEbdoQBtbsfHBiclpqfNahrmLqKVfPWscNxFOSeBkwhsZWHkSo.pkg
+PCSB00610	EU	Get Off My Lawn!	http://zeus.dl.playstation.net/cdn/EP2043/PCSB00610_00/SHYTIWPAmqKffLDYELIGuBQNhaEZVssJESENPqhDVlppZSUjQrdFWWqMQaTYbmvX.pkg
+PCSB00959	EU	Grand Kingdom	http://zeus.dl.playstation.net/cdn/EP1063/PCSB00959_00/EP1063-PCSB00959_00-0000000000000000_bg_1_552a85d15a7853e3680cb3fa27aaf89d669912c7.pkg
+PCSE00348	US	Grand Theft Auto: iFruit	http://zeus.dl.playstation.net/cdn/UP1004/PCSE00348_00/jvMQyfnabAQQwZUOQAtsHLstEcuLnHpZEqboeASdIJWEOAUnqMqwkDPMaCNPizsb.pkg
+PCSB00525	EU	Gravity Crash Ultra	http://zeus.dl.playstation.net/cdn/EP4470/PCSB00525_00/vYbuWxqFnHJORUwXgdrgavQZJLrdOsPbsukBTwWvJnfRLCaobuTUnVFeQFklgDGM.pkg
+PCSB00731	EU	Grim Fandango Remastered	http://zeus.dl.playstation.net/cdn/EP2154/PCSB00731_00/EP2154-PCSB00731_00-GRIMFANDANGOPSVI_bg_1_5c5fb0b2ad4257c46fe2a47144248b548a185b70.pkg
+PCSB00419	EU	Hatsune Miku Project Diva F	http://zeus.dl.playstation.net/cdn/EP0177/PCSB00419_00/YSfEUDVeZmIRuYbZhmxtcGiAaKlGhwBVrXSqTyVkaikngSHJnfmiczYnNLlwzIFz.pkg
+PCSB01007	EU	Hatsune Miku: Project DIVA X	http://zeus.dl.playstation.net/cdn/EP0177/PCSB01007_00/EP0177-PCSB01007_00-PJDX393MAJITENSI_bg_1_ba5d4bd63b2ddaef6ce35401881596f33aabe0ac.pkg
+PCSB00646	EU	Heroes of Loot	http://zeus.dl.playstation.net/cdn/EP4126/PCSB00646_00/EP4126-PCSB00646_00-HEROESOFLOOTPVEU_bg_1_a1374ccb70620a0bccd04bf636257a17d37bc25d.pkg
+PCSB00198	EU	HISTORY® Legends of War	http://zeus.dl.playstation.net/cdn/EP4136/PCSB00198_00/hEMfYtiAIGELTwljQvsQDAZZCrjLPneTijaThtUvxhoqskRiRBUstnKSptCqUtlp.pkg
+PCSF00430	EU	Hohokum	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00430_00/wnJSMTAIqvbBLZTfYFFDMwSXGIhPpNdiiFSxNfuDYBniqCAhZfLzoEDuoruMfQbA.pkg
+PCSA00038	US	PlayStation®Vita Cliff Diving	http://ares.dl.playstation.net/cdn/UP9000/PCSA00038_00/VntIbVDHiyCXgGuykgblxuLmzEapKMOaOooorOIMaGZlVURlIrQIncvCeQNKUVvpOKyOvDFbdlLIDaHFNLePAqjVWqvnanPvJrqow.pkg
+PCSA00035	US	PlayStation®Vita Table Soccer	http://ares.dl.playstation.net/cdn/UP9000/PCSA00035_00/LQwFfOZQqsuSnLXTzuQYdqvsrekHQRrbEXbpXPRbjTsmgrrUNTcNQkstyvZTmxnWRiYfahtgXWmcLvjrwjpideOxvbYsZdXjLSOcn.pkg
+PCSB00107	EU	SunFlowers	http://zeus.dl.playstation.net/cdn/EP4178/PCSB00107_00/ejMXaAvdZwXwcIDhdSahOcRqLLXpqBjUbgqNJgqNkzQjlFNJsSvNOXTnZTDJTpjO.pkg
+PCSB00237	EU	Machinarium	http://zeus.dl.playstation.net/cdn/EP4360/PCSB00237_00/WoewWonrXOSllZOzPZzNkIvRoDKfRomcuytgGwzSZUIQhKMnQYwcCzukGstezijA.pkg
+PCSB00429	EU	Sorcery Saga: Curse of the Great Curry God	http://zeus.dl.playstation.net/cdn/EP4034/PCSB00429_00/VTjCZvyHeVYVuOzicArUdtbtJpIemDqBVbDptAZONbBuPKVsiXFWFfRSmxkjrzoe.pkg
+PCSB00469	EU	The Walking Dead: Season 2 Ep.1, All That Remains	http://zeus.dl.playstation.net/cdn/EP2026/PCSB00469_00/cHTFXHpbzYXpyORvCJLEznQNeYGkqqLUvKjHFdFuTuzZrJRjWIvfrDJudMrPYCHx.pkg
+PCSF00635 (APP)	EU	Network Media Player	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00635_00/VTXgiSAPiRkiRGYEShqfBDtjjmwoOKtEbCMHBMBsWRmgmyiPsCNMTzwEpguevtUj.pkg
+PCSF00651	EU	MonsterBag	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00651_00/EP9000-PCSF00651_00-MONSTERBAG000000_bg_1_abdf857c284113f5fb264031b6f8eb6fc1290ef7.pkg
+PCSF00718	EU	Phineas & Ferb: Day of Doofenshmirtz	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00718_00/EP9000-PCSF00718_00-PHINEASNFERBAGAL_bg_1_6c84bc731d1b36a681f488a4ef10c913a17505f6.pkg
+PCSF00269	EU	Sly Raccoon	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00269_00/WBmsUecmwRqivIZIHaWWehWefOVZpGLXuiCkiCoqmAwuFlzVZsOhKtumePvMoRmY.pkg
+PCSF00403	EU	Killzone Mercenary	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00403_00/oPPOIpVIdcXvlMKmYPjHFRxunnVxQoFocoWPmCINxgaRDcsDVqPIQpefOFSlQLIk.pkg
+PCSE00769	US	Super Meat Boy	http://zeus.dl.playstation.net/cdn/UP1055/PCSE00769_00/UP1055-PCSE00769_00-SUPERMEATBOY0000_bg_1_81c80171995fa002e1590b7824657175b2e081c5.pkg
+PCSE01052	US	STRANGER OF SWORD CITY REVISITED	http://zeus.dl.playstation.net/cdn/UP3489/PCSE01052_00/UP3489-PCSE01052_00-SOSCBLACKPALACEA_bg_1_991384c5ce65ff4d573af889e073e4ed3e8ec680.pkg
+PCSF00020	EU	Smart as	http://ares.dl.playstation.net/cdn/EP9000/PCSF00020_00/UVeinUIYiQOxznCEljyvhlguDPalVzlSlOEMPICdHDvvwZiEenafCsydisUKbkSn.pkg
+PCSF00105	EU	Plants vs. Zombies	http://zeus.dl.playstation.net/cdn/EP0017/PCSF00105_00/peMABLgWNMKkHjWSJaCtSZffANuGClEiPPYaLcQPsWwVRHmCWkUfZsXVxOfcEykh.pkg
+PCSF00149	EU	Jacob Jones and the Bigfoot Mystery	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00149_00/KfUtnOwwLcmTDMqigowtVrvDjYJYYsayjhpwrDNObmdjfKiBiISEbhSqLcEcYGSb.pkg
+PCSE00463	US	Söldner-X 2: Final Prototype	http://zeus.dl.playstation.net/cdn/UP2005/PCSE00463_00/UP2005-PCSE00463_00-SOLDNERX2FINALPR_bg_1_daf3de755faacfb8a382b5425dd4eb45b8994646.pkg
+PCSB00475	EU	Joe Danger	http://zeus.dl.playstation.net/cdn/EP2034/PCSB00475_00/BBlikFHLekMXeBshllZbbmewEPTjPlDhDJEATSlJNGIwrOXSgDlOoSGphuuXZZaX.pkg
+PCSB00503	EU	LEGO The Hobbit	http://zeus.dl.playstation.net/cdn/EP1018/PCSB00503_00/OYCPPTAuMMFauJkJNVjmJgKufGwkFFaBvKmibclzPchKfIWWjEcmLHoDtgJLcLmr.pkg
+PCSB00528	EU	Futuridium EP Deluxe	http://zeus.dl.playstation.net/cdn/EP4487/PCSB00528_00/KvuRUhXbzfvRdbSLjNwMdKShEKpKZGjNAPspziiccSlzIJiXJpoGrcAbhWOtxMCz.pkg
+PCSB00530	EU	MouseCraft	http://zeus.dl.playstation.net/cdn/EP4395/PCSB00530_00/zeXWLLwxDrGLEhjnUowayQIBdaXWwXNWDwRFWOWBNKgSQPJmoTqMhJFgRopvRJCB.pkg
+PCSB00541	EU	Mind Zero	http://zeus.dl.playstation.net/cdn/EP1024/PCSB00541_00/WxXuRTyZQglAVLxHcnGDLsmpnCKhRxTJHSBZhEfXXwCZyaOeEzCCTYMQfysmVdwu.pkg
+PCSB00542	EU	SteamWorld Dig	http://zeus.dl.playstation.net/cdn/EP4473/PCSB00542_00/cCtBdbQenoJYCLbIydTBcyUPMTZwettBelJECoEFlVNSaDQDVRJpgucbhjdYWBvE.pkg
+PCSB00563	EU	LEGO BATMAN 3: BEYOND GOTHAM	http://zeus.dl.playstation.net/cdn/EP1018/PCSB00563_00/rfhiGPriuTGfBPzoaxVRVKOpkVptKdATrQPqYbbkEhOfGvZEKEsJcnqRJABYJHDM.pkg
+PCSB00580	EU	Sparkle 2	http://ares.dl.playstation.net/cdn/EP4403/PCSB00580_00/gsVLQPvrFMuCzLcNKWhrJdfilKHsHdmgHUymeBoCWKuTMHlgcnHIsJYSzBYKZEBb.pkg
+PCSB00595	EU	Invokers Tournament	http://zeus.dl.playstation.net/cdn/EP4128/PCSB00595_00/shtYwIYqlUCuFBbfFanYAVtGelPNQRtIbZIbYaJuafEvwPDljIxCCWslpAaWIBMF.pkg
+PCSB00611	EU	Kick & Fennick	http://zeus.dl.playstation.net/cdn/EP4499/PCSB00611_00/EP4499-PCSB00611_00-KICKANDFENNICKEU_bg_1_e22c0661e226dde49a3f676691b1ce05b5513e9f.pkg
+PCSB00705	EU	Nihilumbra	http://zeus.dl.playstation.net/cdn/EP4542/PCSB00705_00/EP4542-PCSB00705_00-000000NIHILUMBRA_bg_1_5c5ba6a76c16339a04c1455fcb4d44a09aa00a7a.pkg
+PCSB00783	EU	Nova-111	http://zeus.dl.playstation.net/cdn/EP4395/PCSB00783_00/EP4395-PCSB00783_00-NOVA111VITAEU000_bg_1_7d5fbf78d3cdcbe1a8ee828f61e0fe914d78dfc6.pkg
+PCSB00879	EU	Letter Quest Remastered	http://zeus.dl.playstation.net/cdn/EP8925/PCSB00879_00/EP8925-PCSB00879_00-LETTERQUESTPSV0E_bg_1_1d78f865be140f8b9e7d12aea9c0fca7a4ba7240.pkg
+PCSB00881	EU	Super Meat Boy	http://zeus.dl.playstation.net/cdn/EP1051/PCSB00881_00/EP1051-PCSB00881_00-SUPERMEATBOY0000_bg_1_b1c458c64a0d5dc3531d7617780758238a8f98f4.pkg
+PCSB00921	EU	MegaTagmension Blanc + Neptune VS Zombies	http://zeus.dl.playstation.net/cdn/EP0031/PCSB00921_00/EP0031-PCSB00921_00-GEKIBLANCNEP0000_bg_1_458997e4dd9d987094893cc211b1afefbae544ee.pkg
+PCSB00958	EU	Mystery Chronicle: One Way Heroics	http://zeus.dl.playstation.net/cdn/EP1465/PCSB00958_00/EP1465-PCSB00958_00-ONEWAY0000000000_bg_1_462909a0ec7681df2795c677b034a762f37ee6fe.pkg
+PCSB00978	EU	Spy Chameleon	http://zeus.dl.playstation.net/cdn/EP1070/PCSB00978_00/EP1070-PCSB00978_00-UPSPYCHAMELEON01_bg_1_72e747f3861589365a3fa3abbc47acb6fdde774f.pkg
+PCSE00212	US	Machinarium	http://zeus.dl.playstation.net/cdn/UP4360/PCSE00212_00/qWBMPkYaARcIpjaDnfZIvKkcXKwgBcEvuOkEVcynbSJWZPMCbzFXkbQMPffvsEeY.pkg
+PCSE00238	US	Superfrog HD PS Vita	http://zeus.dl.playstation.net/cdn/UP4064/PCSE00238_00/eQVvLVlBYpfSYwppVZqGoqFCggvGyKPiweebtYOCFAygnQmrvWuvEAKsgVnoBvuW.pkg
+PCSE00394	US	Oddworld: New 'n' Tasty	http://zeus.dl.playstation.net/cdn/UP4134/PCSE00394_00/UP4134-PCSE00394_00-ODDWORLDNEWTASTY_bg_1_6ae12606532dba696e897eb074f126c75b32590a.pkg
+PCSE00459	US	My Singing Monsters	http://zeus.dl.playstation.net/cdn/UP2128/PCSE00459_00/hDVlYBxWaRbeeLSGqrUUCMLJRsGaGLvaZcnYvToOaXYWXsPZFOxmxfWlyFVAyHbAWnonqmVNDzmqanCemstOcRbWAYslXLtdxZoel.pkg
+PCSE00062	US	Sumioni: Demon Arts	http://zeus.dl.playstation.net/cdn/UP1023/PCSE00062_00/tPtYZQMPnhYyrAzRqOLzMibSCgHIaOdXWMoZJPTXiaECBFxdCKdDRKOiXhTrAFMsyUsHlpUGUiQEFNDAfMlDnfFaBWYuoryDANfPM.pkg
+PCSE00043	US	Oddworld: Stranger's Wrath HD	http://zeus.dl.playstation.net/cdn/UP4134/PCSE00043_00/CjdRazvVGbXHmGTawtnmjBpJucEkSTwhffsVNtmWCJafAIcfDJdMvLGqYxRjmWgV.pkg
+PCSB00974	EU	LASER DISCO DEFENDERS	http://zeus.dl.playstation.net/cdn/EP0806/PCSB00974_00/EP0806-PCSB00974_00-LASERDISCODEFEND_bg_1_21ff2c47a27658cd83cf1951db56e28c47d570e2.pkg
+PCSB00620	EU	Element4l	http://zeus.dl.playstation.net/cdn/EP4528/PCSB00620_00/EP4528-PCSB00620_00-ELEMENT4L100PACK_bg_1_500c3b1ba70b176cc69c2733a3a88b12ba3894e6.pkg
+PCSF00207	EU	Sly Cooper: Thieves in Time (CZE,POL,RUS,TUR)	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00207_00/HafNwyeYyDKEDiZxuJhjbJJqtvFXcqrnNwnjNJONGAWoytSiMArWkDBpveYhnDgj.pkg
+PCSF00217	EU	Smart as (PL,RUS)	http://ares.dl.playstation.net/cdn/EP9000/PCSF00217_00/cmscyodxiLMQXWMTomQtyQTwcbbnkSoPNxIoCbxygDJouoTyWpWYbVHBEdMQKpCO.pkg
+PCSB00422	EU	Treasures of Montezuma: Arena	http://ares.dl.playstation.net/cdn/EP4173/PCSB00422_00/yFXgHVGnbPlcBvULUaKIbnhOZAxuqfvYTwIamNjFyxEaIvxIMmKQalLzLaKdxLhn.pkg
+PCSF00434	EU	Killzone Mercenary Digital Art Book	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00434_00/EfSuwKbLTadYvVtftOvVwyEkucGjkBthvvPCYJtiIFSdDQTqDQrStHoPSSKMUMOA.pkg
+PCSD00077	TW	Tearaway / ?????	MISSING
+PCSB00056	EU	A-men	http://zeus.dl.playstation.net/cdn/EP4176/PCSB00056_00/kFTORXDZfgcoWkerJsVFzmMLxqHOWDhwjfUILRfvALxZPDRGruZncCPAJIoipXjj.pkg
+PCSD00009	TW	Little Deviants (English Ver.)	http://zeus.dl.playstation.net/cdn/HP9000/PCSD00009_00/jMPjfajgWuRWvwSRtbVlmUMGUiHzovDgtzbUifUHRmUlOyKbyJYzxbLEWfldCVHJVWhbiBldcAGHtLNxlZTqTiirsaeqTiKuvBxph.pkg
+PCSD00093	TW	Live from PlayStation (English/Chinese/Korean/Japanese Ver.)	http://zeus.dl.playstation.net/cdn/HP9010/PCSD00093_00/VCEspIXPLhippfCEOzguuykltclLsTOHeEtwjXqGdRItzjfKvPGthaBLqyvMxnDaJLiMIyPHAkQkMWDxzMwhWBXLjlVbWdSktEEqy.pkg
+PCSD00033	TW	Resistance: Burning Skies (English/Chinese/Korean Ver.)	http://zeus.dl.playstation.net/cdn/HP9000/PCSD00033_00/vbfAFzucPHjxkVkVaBgBtSfVyAjoBtsJTavBeOWSJeSFBDRseYKKZcjgcglPdgbdMhTjXLkmaEVqPNiLMpYdyiAzjODfmRiAJfQHM.pkg
+PCSH00278	TW	Infinita Strada Hana (English/Chinese/Japanese Ver.)	http://zeus.dl.playstation.net/cdn/HP2395/PCSH00278_00/HP2395-PCSH00278_00-0000000000000000_bg_1_951cf160d23631712ec15340344de441551cdebb.pkg
+PCSH00156	TW	CastleStorm: Complete Edition (English/Chinese/Korean Ver.)	http://zeus.dl.playstation.net/cdn/HP0365/PCSH00156_00/HP0365-PCSH00156_00-CASTLESTORM00001_bg_1_73adf40cb9679a8d0788fa5f8bada86634a251d1.pkg
+PCSH00270	TW	DRAGON QUEST BUILDERS (Chinese Ver.)	http://zeus.dl.playstation.net/cdn/HP0082/PCSH00270_00/HP0082-PCSH00270_00-BUILDERS00000000_bg_1_42891e4ad325b48d70d91022576832540f001f82.pkg
+PCSE00067	US	LEGO The Lord of The Rings	MISSING
+PCSB00315	EU	LEGO Marvel Super Heroes	MISSING
+PCSE00237	US	LEGO Legends of Chima Laval's Journey	MISSING
+PCSB00031	EU	Virtua Tennis™ 4: World Tour Edition	http://zeus.dl.playstation.net/cdn/EP0177/PCSB00031_00/yoNAxcGxemZfuSkPykcnZnIZkBbcgkrqHLNqeqRZxqNPshQgzhAVmOCVthRvAcQa.pkg
+PCSF00069	EU	Unit 13	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00069_00/LhlgSrkGPDUDZDpaeFGnxyqablJIeIjHQRhUeMSCfpXRzmNsBQxzyRDINmuQRYFc.pkg
+PCSB00407	EU	TuneIn Radio	http://ares.dl.playstation.net/cdn/EP4423/PCSB00407_00/ZeTxMsJDzRmOEezPvFVhYKEnevGOecTRrfOOcgsEoljZlLKvvEqeumgukYCAlEZG.pkg
+PCSE00401	US	Deception IV: Blood Ties	http://zeus.dl.playstation.net/cdn/UP4108/PCSE00401_00/buqBotSYWnsuRGNToLGhfezxWKdalNlZPoNBqLhfjDNzBVbVoFUegRMAlVusLSLr.pkg
+PCSB00360	EU	Rayman Legends	http://zeus.dl.playstation.net/cdn/EP0001/PCSB00360_00/bzxjporRcBREKhctGKwutvCHzQnagnMJQTFgqEAZkxnqdASqrLYmrAbqjvhHnipMjeRsZwCRtBccjNLuvDYXvtHmLxQXsFfSxCDMW.pkg
+PCSA00089	US	Bentley's Hackpack	http://ares.dl.playstation.net/cdn/UP9000/PCSA00089_00/TYFjCIUlWADgfgFvikgwxYbsKjpxxCoDilSOBpJAHInCzPaMzvIPgJDQFxprQSZCVuCOmjCfMoeaPvCyuoCAQyytAwWdswNGYUlSV.pkg
+PCSE00536	US	FANTASY HERO unsigned legacy	http://ares.dl.playstation.net/cdn/UP0036/PCSE00536_00/pUxNebjyUMPMavABMpraAgDUHNMUpFgdznMPxoWoNnuyjCsuCzNWfsJgBWzaargC.pkg
+PCSA00063	US	Resistance Burning Skies (with language PT-BR)	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00063_00/HCKuClatxfvgsowonXWbdTPumGMNNBYtcYXfvnqGcuXjhTieahOMUaZlPxWghMtIIZVEplIillkqDVRchKZSOqHRiTzunkoqNwjRw.pkg
+PCSG00013	JP	[AR COMBAT DigiQ -???????-]	http://zeus.dl.playstation.net/cdn/JP0101/PCSG00013_00/XiubWxMmkFVOlEmCKfwqpWUqhVrjztFmlSJhglrUukCyNHRtfypcZxdHvuJyLykESDiQEmQBTuBcWZPrtUAfxpGGXzzsBjGmnYceW.pkg
+PCSG00784	JP	Squares	http://zeus.dl.playstation.net/cdn/JP0186/PCSG00784_00/JP0186-PCSG00784_00-SQUARESJAPANCF00_bg_1_a611744eec86e58192c48fb941782db92542681a.pkg
+PCSC00058	JP	Doki-Doki Universe	http://ares.dl.playstation.net/cdn/JP9000/PCSC00058_00/ikLfdktvwVjqGwEXSgyFcLbVfoGIYhOqfmxOXzJWrSjhApdgheMsAwHgqKOYJODVpMJSpvwhdeOjhaNJltAUIkZPkKhuMLAWkgZPl.pkg
+PCSC00047	JP	Yuusha no Kuse ni Konamaikida. G [?????????????G]	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00047_00/vxLvzpnWrqEEBnkiyEhesEacHVCAqYlLRdGVIECgzMnCewpHPRWWIbUMiYTbNURusdAxiqjRxCJulxfAkBKbOhoQBFZEsDTiVpliB.pkg
+PCSG00773	JP	Dead or Alive Xtreme 3: Venus (Free to Play) [DEAD OR ALIVE Xtreme 3 Venus ?????]	http://zeus.dl.playstation.net/cdn/JP0106/PCSG00773_00/JP0106-PCSG00773_00-DOAX300000000000_bg_1_9ea4f1184d9390f56993ce63afdcb5c7c14ee5e4.pkg
+PCSG00302	JP	Minecraft: PlayStation Vita Edition	http://ares.dl.playstation.net/cdn/JP0127/PCSG00302_00/PXPxMpSqLLPHobIeFLQJQwUVulScDCJoqQxFKxXyuvKBxGLtReOaugPkbsQxBIgSeAgezqjxGGPdbWCGYNWHZdRtBDplsrACxEtUw.pkg
+PCSG00354	JP	Eiyuu Densetsu: Sen no Kiseki II [???? ????II]	http://zeus.dl.playstation.net/cdn/JP0425/PCSG00354_00/VgcUTIJWDAYJENqkNfMtnsyeopdYPuNpMLhnrJGWOsSahjlkDHVUsIxzKOykCdGxvBIEUkQVrDmfKhQFzoYkdkeYJtjXrCojevETi.pkg
+PCSG00030	JP	NAX Music Player	http://zeus.dl.playstation.net/cdn/JP0036/PCSG00030_00/hjHoUbIvihRlwPradVxbgXpgPjHqDeGkwYiLfyPsVsZQXMKhjWMfnlmiMxXoLaUXpDrTykFuOUhJUMBrIOgCKYSjAcGBCWcdAfWiT.pkg
+PCSG00275	JP	???? ??? ????? for PlayStation Vita	http://ares.dl.playstation.net/cdn/JP0177/PCSG00275_00/tCoQilWEXjbdTIVzILtZneGYSzHorUiEqyuInkqAOBJIShKTygCpmFLVuojGlxinFvroXFnHSgdRJmjmIidedquiWNFFSIHxRZIpF.pkg
+PCSG00453	JP	??????7 Empires ???	http://zeus.dl.playstation.net/cdn/JP0106/PCSG00453_00/JP0106-PCSG00453_00-SM7EMPCOOPJP0000_bg_1_28f57a3fb8c57540ba2121b1640fdb423e2abc77.pkg
+PCSA00027	US	MotorStorm RC PS Vita Presented by Scion	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00027_00/CKVSHujeZAWPPUOFMNrHjptOYukpqxjYGugAwegatzhWKhDKldkpGKPNevBFAweaDLoqcKEWwPHZzBgMJdZWBtMFZLuJxcNCWawlT.pkg
+PCSB00355	EU	Total Recoil	http://zeus.dl.playstation.net/cdn/EP4168/PCSB00355_00/YWbNgehMAoZucCjuDNBwXNvYElSXaNFylHnlUqVMVsWYVDmaVVfhzFPCMtGFUCEH.pkg
+PCSB00356	EU	Injustice: Gods Among Us Ultimate Edition	http://zeus.dl.playstation.net/cdn/EP1018/PCSB00356_00/WXBNblNZFIcDLURGwVwDvgodwLyayNuYSnLfIOCxtLrValprjKUCRXzEDOPdoJjG.pkg
+PCSB00596	EU	Soldner-X 2: Final Prototype	http://zeus.dl.playstation.net/cdn/EP2005/PCSB00596_00/EP2005-PCSB00596_00-SOLDNERX2FINALPR_bg_1_8389b3ecb20398583be68c1db1bb6938ce54043d.pkg
+PCSB00733	EU	SPACE HULK	http://zeus.dl.playstation.net/cdn/EP4358/PCSB00733_00/EP4358-PCSB00733_00-SPACEHULK0000029_bg_1_688f2465ea29c2f8d6f3befe17ae0af8ca583ce3.pkg
+PCSF00030	EU	Table Top Tanks	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00030_00/DSFiDBfMtpnGpawlmrbgrVElmjlXKEPjkCipvfoSVFCcKmYRuWKIczPnHFiGPyqB.pkg
+PCSB00329	EU	The HD Adventures of Rotating Octopus Character	http://zeus.dl.playstation.net/cdn/EP4290/PCSB00329_00/IfjOqLHUudEMcABNdDxKepIuhuWZxwXWeSUwkhPtcjcvBENNywmTTkEHbwEawOEG.pkg
+PCSB00664	EU	Jetpack Full Game	http://zeus.dl.playstation.net/cdn/EP4249/PCSB00664_00/JNaKzbIwLZfHOdeFTzcverWkqfNaamjDqEiblebXzlYrQbwZiPqBQqSJSmPjbFsDVlqzMLTnAxtlvGRBCJORCokXAHiKCsYpOOxsv.pkg
+PCSB00185	EU	Doodle God	http://ares.dl.playstation.net/cdn/EP4384/PCSB00185_00/pvqYbBGPdtUAKYZgvcZhXjksVyIbPBMqjGdjJkdqtYWqPuVtXqlzmgcqtLtzJRMQ.pkg
+PCSB00246	EU	Hungry Giraffe	http://zeus.dl.playstation.net/cdn/EP4132/PCSB00246_00/XwitkByorGmSPanGtSmBitqoMHfyjsikOJdRCxHhdlwcrsFsFzIsVcNmnyuIAsun.pkg
+PCSF00543	EU	Destiny of Spirits	http://ares.dl.playstation.net/cdn/EP9000/PCSF00543_00/RfdPcjhYWfcwAkgvxiNJabvhrowOiqunaqQhnUOwfygCkipFBvJAFFsArXSIrqmk.pkg
+PCSB00581	EU	Crimsonland	http://ares.dl.playstation.net/cdn/EP4403/PCSB00581_00/VEaULWiYaNQUWQsiLUctgVtuclDOfenKpGIuDqQLwwZuBGTkidjhZHMKowcSlsdc.pkg
+PCSE00228	US	Germinator	http://ares.dl.playstation.net/cdn/UP4073/PCSE00228_00/oXiakIOvEakkEgsYxjBeSsgBMkeOlDtosuFgFjEsdWZDOarmUiGdbARKtLBZpRGQ.pkg
+PCSE00362	US	Age of Zombies	MISSING
+PCSE00224	US	Draw Slasher	http://zeus.dl.playstation.net/cdn/UP4396/PCSE00224_00/HCjBIpblMZIvOcRNHJXgWEpaMRvPQwXoqlSaOgvhPCyWwqSYAmmvUShZYFFklqhN.pkg
+PCSE00881	US	Gal Gun Double Peace	http://zeus.dl.playstation.net/cdn/UP4293/PCSE00881_00/UP4293-PCSE00881_00-GALGUNWAPP000000_bg_1_babb18a65bbe087d54d5febe175adbba83b0e662.pkg
+PCSE00017	US	Super Monkey Ball Banana Splitz	MISSING
+PCSE00346	US	XBLAZE Code Embryo	http://zeus.dl.playstation.net/cdn/UP1024/PCSE00346_00/txXPxaWaRDUPPMkcMQLfwpBgQLyhtDEBlgKLbyYtiWPfbGRVLKvdAPPmRDQwniVw.pkg
+PCSA00086	US	Ratchet and Clank: Full Frontal Assault	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00086_00/hTLwvnuczGFPVyfPXfbnyrSmXgfbVPYEiafiVqYRdNyGJvykcNdasIkQPCPaPeWipzwqbRSFjEhgRPYDbftmOKIZleSNvbrAUVbFq.pkg
+PCSE00938	US	Wanderjahr	http://zeus.dl.playstation.net/cdn/UP4252/PCSE00938_00/UP4252-PCSE00938_00-WDJRFULLGAME0001_bg_1_76e04520b922553c2b5531a610901d8405d5fb7b.pkg
+PCSE00694	US	Xeodrifter	http://zeus.dl.playstation.net/cdn/UP1050/PCSE00694_00/UP1050-PCSE00694_00-XEODRIFTERVITAUS_bg_1_b0e2eba12f4e376f81c03d5d01701cfa8437fe1b.pkg
+PCSE00710	US	Earth Defense Force 2: Invaders from Planet Space	http://zeus.dl.playstation.net/cdn/UP1023/PCSE00710_00/UP1023-PCSE00710_00-EARTHDEFENFORCE2_bg_1_d758717b188b556e2f4f0247b82d9b9ff6da5e95.pkg
+PCSE00683	US	Sayonara UmiharaKawase +	http://zeus.dl.playstation.net/cdn/UP0967/PCSE00683_00/UP0967-PCSE00683_00-UMIHARAKAWASE000_bg_1_beee15c227cd4415b8ce8c07d62b88f432a4dd54.pkg
+PCSE00904	US	Psycho-Pass: Mandatory Happiness	http://zeus.dl.playstation.net/cdn/UP1063/PCSE00904_00/UP1063-PCSE00904_00-PSYCHOPASSVITA00_bg_1_7ecbdd4273e2d8970df73096094cda7c0e00d903.pkg
+PCSB00049	EU	Shinobido 2: Revenge of Zen	http://zeus.dl.playstation.net/cdn/EP0700/PCSB00049_00/vryQXBPqEPWwusVVRbTPiBSfSAYhAEjiULryUbDDQZapHDDrmdNlsMUytkzDhPLJ.pkg
+PCSB00774	EU	Sparkle Unleashed	http://zeus.dl.playstation.net/cdn/EP4403/PCSB00774_00/EP4403-PCSB00774_00-SPARKLEUNLEASHED_bg_1_01912f784efbeb4c39825d89c1b81aaf448c1d78.pkg
+PCSB00350	EU	Sparkle	http://ares.dl.playstation.net/cdn/EP4403/PCSB00350_00/sDbIhVxxDZfiNNmVJhWfTNIMRLvkhfmidYarHOkfJrDAtVFTyTHOUQlfTYiiPvbL.pkg
+PCSE00047	US	SunFlowers	http://zeus.dl.playstation.net/cdn/UP4178/PCSE00047_00/RRlDFTbEJcZDZxeUTgsDjbHyMIUfdNVbcleiAOyWjPDHwmHfixVjFjjkhuVmCyjY.pkg
+PCSE00113	US	KickBeat	http://zeus.dl.playstation.net/cdn/UP4042/PCSE00113_00/NxMWAcrLpEhGanbVGMHTBnLsGzIhsEmupbeRWyixeXvkBwrEdpuvVdvUFpwHirPo.pkg
+PCSE00216	US	Lets Fish! Hooked on	http://zeus.dl.playstation.net/cdn/UP4382/PCSE00216_00/ySdvjheAcoFjljQNjCovvBElwiPkQIaZWWfyoUsqeDmwRdunNJcYXcKtKsjBnLAv.pkg
+PCSE00225	US	BreakQuest: Extra Evolution	http://zeus.dl.playstation.net/cdn/UP4101/PCSE00225_00/oAWoYXhHQBMNCjMZwxDVjqboDFQueVvERwUMfLxfxFtthbwsRMPvGulDngJHzTzg.pkg
+PCSE00311	US	Proteus	http://zeus.dl.playstation.net/cdn/UP4395/PCSE00311_00/dhPUuhvFxeOTpNjZhJytvjYvfMKcIdOcFfPEseqCyahKjtymBoePAIXSMijCpBkN.pkg
+PCSE00420	US	MouseCraft	http://zeus.dl.playstation.net/cdn/UP4395/PCSE00420_00/zbUrxVTVoajMJcLaUDaPKXNuRZwJqTRfMEvwmuKNlUnYrylXAkvNnDWojRSoCpMb.pkg
+PCSE00453	US	Crimsonland	http://ares.dl.playstation.net/cdn/UP4403/PCSE00453_00/rKaGdCvJXHtyLrRXfgnKbdRyaOePwiEDhMTWCnfLlfMcVJJWAWTrkGAJgcNPufIR.pkg
+PCSE00461	US	RACE THE SUN	http://zeus.dl.playstation.net/cdn/UP2127/PCSE00461_00/vwatvbMuaHHXAdmvNtsxokKLIxJaJocBjoNHkxAzRXlMzTDNnXgZJdbjaIIztLzY.pkg
+PCSE00485	US	Kick & Fennick	http://zeus.dl.playstation.net/cdn/UP4499/PCSE00485_00/UP4499-PCSE00485_00-KICKANDFENNICKUS_bg_1_c1c7a9054d7496c290dc9431c5304f89b93f8e5c.pkg
+PCSE00487	US	Gravity Badgers	http://zeus.dl.playstation.net/cdn/UP4459/PCSE00487_00/klfDQszxNcRtVhZQKWINXEvenhoWqNztEPGxVWhxObQViFGgQIrJFDbPVOatOmew.pkg
+PCSE00514	US	Nidhogg	http://zeus.dl.playstation.net/cdn/UP2143/PCSE00514_00/ZfVAKCfNmNjdbfTxIzejfZVEvLOHCPTzLNTFJFSMCKSGUDrToDvoNsBhItgZPobY.pkg
+PCSE00546	US	Retro City Rampage DX	http://zeus.dl.playstation.net/cdn/UP2077/PCSE00546_00/LehQNxdsQoejYielkBGSABXDZSLCYpcBjsRkVNfNhojslxTxgNVbsdwkgHZXDJCf.pkg
+PCSE00576	US	Minutes	http://zeus.dl.playstation.net/cdn/UP4477/PCSE00576_00/UP4477-PCSE00576_00-MINUTESUS0000001_bg_1_63c636f60c2f5f03db2d83ab2f806e39f71f006d.pkg
+PCSE00656	US	XCOM: Enemy Unknown Plus	http://zeus.dl.playstation.net/cdn/UP1001/PCSE00656_00/UP1001-PCSE00656_00-XCOMENEMYUNKPLUS_bg_1_7367dfba1e8379680a1361c394469484db5070fd.pkg
+PCSE00658	US	Day of the Tentacle Remastered	http://zeus.dl.playstation.net/cdn/UP2154/PCSE00658_00/UP2154-PCSE00658_00-DAYOFTHETENTACLE_bg_1_d89992429d331f11b318e320b6cb252d4c5e5057.pkg
+PCSE00672	US	Civilization Revolution 2 Plus	http://zeus.dl.playstation.net/cdn/UP1001/PCSE00672_00/UP1001-PCSE00672_00-CIVILIZAREV2PLUS_bg_2_5da9d238bc9d974246c4b0b6a469d87f531023ea.pkg
+PCSE00797	US	Forma.8 (3.60+!)	http://zeus.dl.playstation.net/cdn/UP4487/PCSE00797_00/UP4487-PCSE00797_00-0000000000FORMA8_bg_1_75efe0a7f92811990dcd16bc156aa04a48ac117c.pkg
+PCSE00849	US	Knock-Knock	http://zeus.dl.playstation.net/cdn/UP1330/PCSE00849_00/UP1330-PCSE00849_00-KNOCKKNOCKGAME00_bg_1_7c395be8d54c79a82d872344a95f0d99e5f30463.pkg
+PCSE00860	US	SwapQuest	http://zeus.dl.playstation.net/cdn/UP1932/PCSE00860_00/UP1932-PCSE00860_00-SWAPQUESTVITA000_bg_1_5a82b332e62b829c46499ba5f07d7992bada3a61.pkg
+PCSE00865	US	Sky Force Anniversary	http://zeus.dl.playstation.net/cdn/UP4179/PCSE00865_00/UP4179-PCSE00865_00-SKYFORCEANNIVERS_bg_1_7f6f771e29e0d68d39e08975e9310b7e0c37f9b6.pkg
+PCSE00887	US	Alone With You	http://zeus.dl.playstation.net/cdn/UP2150/PCSE00887_00/UP2150-PCSE00887_00-1ALONEWITHYOUPSV_bg_1_5024807c419d150c09fdade3b577e56845d57497.pkg
+PCSE00897	US	XenoRaid	http://zeus.dl.playstation.net/cdn/UP4403/PCSE00897_00/UP4403-PCSE00897_00-XENORAID00000000_bg_1_0790efc9f01dad13222a5198622495e967137ae9.pkg
+PCSE00903	US	Sword Art Online: Hollow Realization (3.60+!)	http://zeus.dl.playstation.net/cdn/UP0700/PCSE00903_00/UP0700-PCSE00903_00-SWORDARTHR0000US_bg_1_0c8f13d19918ab22f6919bae7cd8d5db300fec4e.pkg
+PCSE00924	US	Tokyo Twilight Ghost Hunters: Daybreak Special Gigs	http://zeus.dl.playstation.net/cdn/UP1024/PCSE00924_00/UP1024-PCSE00924_00-TTGHDAYBREAKSPGJ_bg_1_52328c7f51e37ecb3e547eda3ffc7afa10766452.pkg
+PCSE00930	US	Bard's Gold	http://zeus.dl.playstation.net/cdn/UP1626/PCSE00930_00/UP1626-PCSE00930_00-BARDSGOLDGAME000_bg_1_ce54622bd07f2b8027bed1c3dcf72a2cdeb1b95c.pkg
+PCSE00996	US	Hue (3.60+!)	http://zeus.dl.playstation.net/cdn/UP4395/PCSE00996_00/UP4395-PCSE00996_00-HUEVITASIEA00000_bg_1_e8b8ca4102f8f8232388db9d99449b4d596ed24a.pkg
+PCSA00062	US	Youtube for PS Vita	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00062_00/gETJDikuyGeiMebxWiJRzsHIaidTspprDeLojCHPhHhjKTzEIJxhXnAkdfNBrqAvkwkOFtMKlYehgGKGytdGfHfJqMWpeOoBzlynA.pkg
+PCSE00426	US	Hulu Plus PS Vita	http://zeus.dl.playstation.net/cdn/UT0008/PCSE00426_00/SNkjKzTnfDOYHXIgZIgRKPUbudLqMufcSOwRiwdhkwvfXXPQWSwZdymhqCAompZl.pkg
+PCSE00577	US	SpongeBob HeroPants	MISSING
+PCSA00099	US	Tearaway	MISSING
+PCSA00151	US	Dead Nation	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00151_00/EwjVQEjDfHWlDPQuuMuoTeKSifQwznzEZjMfxBDVRodjZXFeoZAGbCiSrlCBrDCT.pkg
+PCSE00372	US	The Walking Dead: Season 2 - Ep. 1, All That Remains	http://zeus.dl.playstation.net/cdn/UP2026/PCSE00372_00/VvkizGxcKiKCwedcyDqxOUtfhJRKmHNvbgGTnfbSslbfGfIXUbYcxQmklUyyMVaB.pkg
+PCSA00106	US	Destiny of Spirits	http://ares.dl.playstation.net/cdn/UP9000/PCSA00106_00/xwTIwFvIdmKniypWHXOMOYonmKeKSrfAFIkKVIQGQOgYXdlbsIyGdrFPGPNotrke.pkg
+PCSE00286	US	Worms Revolution Extreme	http://zeus.dl.playstation.net/cdn/UP4064/PCSE00286_00/ABkWetIaTMJNSEsZAhBwstqtiBvOENmcvtbNPSzyKxveZAJcYfUfMAKWdEOmrptP.pkg
+PCSC00006	JP	WipEout 2048	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00006_00/wDyivypmkmpjFkUfctXWonGPUeXcwnQhoBYRKOywEpSfrdxTAIvYluHXiRPZoiNwOOHeddRfACpXCBqBuXTdvmncJeFTYlJJQJIir.pkg
+PCSE00861	US	Azkend 2: The World Beneath	http://zeus.dl.playstation.net/cdn/UP4403/PCSE00861_00/UP4403-PCSE00861_00-AZKEND2000000000_bg_1_cbed2ed484fa3888e328919f1c7104b29f173a67.pkg
+PCSE00684	US	The Swindle	http://zeus.dl.playstation.net/cdn/UP4395/PCSE00684_00/UP4395-PCSE00684_00-THESWINDLEUSAVIT_bg_1_0401add146b83baf198a8232717f53c50ef76745.pkg
+PCSE00451	US	PixelJunk Shooter Ultimate	http://zeus.dl.playstation.net/cdn/UP4415/PCSE00451_00/fjrRTwquapsTTLkMNaMylMFIalJyrAbUTSrmaiSYoLZqYHUJJQHaFymZaAyNQdZq.pkg
+PCSE00307	US	PixelJunk Monsters: Ultimate HD	http://zeus.dl.playstation.net/cdn/UP4415/PCSE00307_00/SuQnyIcWrwekRDZwmsLpmjFdEHlEIMiLMFYwBZtvbawjMiKNyUbgredQEDDeysze.pkg
+PCSE00341	US	OlliOlli	http://zeus.dl.playstation.net/cdn/UP4409/PCSE00341_00/NMOchXZnhwtPmRTvnhntHoMNHuMlRCYFQjUYJkMONMwJVexcqlSWmRBwzEjUNJeD.pkg
+PCSE00388	US	Titan Attacks!	http://zeus.dl.playstation.net/cdn/UP4395/PCSE00388_00/ncVBRtcPAwUgoJltBYoAxtmjrzHhvkPYCVNWBwKXQIlwXIhZCgjrjmNkCFimjmTq.pkg
+PCSE00734	US	Super Exploding Zoo!	http://zeus.dl.playstation.net/cdn/UP4078/PCSE00734_00/UP4078-PCSE00734_00-SUPEREXPZOO00001_bg_1_244ea9eb537628c4913e71093eb60200150c20d5.pkg
+PCSE00597	US	Titan Souls	http://zeus.dl.playstation.net/cdn/UP3643/PCSE00597_00/UP3643-PCSE00597_00-DEVOTITANSOULS01_bg_1_853b88fd08b9e7f1eb6fcd6f4d573837ed0e07d0.pkg
+PCSE00504	US	Final Horizon	http://zeus.dl.playstation.net/cdn/UP4168/PCSE00504_00/JbbNfwccnaIssOLEjKDaoiDPvByMjutUDmlylcuAiolQCaVOEXRTrQNdNImUZuPt.pkg
+PCSA00140	US	Entwined	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00140_00/XLhHvwxFwFwyABWZeGvuiFLefhHEGjVFvvoFHFIGKSfnSXLXLKOkpGoqCAMOVCBu.pkg
+PCSE00447	US	Dragon Fin Soup	http://zeus.dl.playstation.net/cdn/UP2186/PCSE00447_00/UP2186-PCSE00447_00-GRIMMBROS1DFS002_bg_1_0b954643801f64adcfe395742977ac397e263538.pkg
+PCSA00116	US	CounterSpy	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00116_00/IQYJdduaRBzzFSLjdTRQLsqqusYRxQQJRTxLjTCbBYyjHWvuomNIPzcMrCVWbwDRhRFuquZUhnNECGiaBKMWtfWyVRgAqYqiHBjMD.pkg
+PCSE00049	US	CastleStorm	http://zeus.dl.playstation.net/cdn/UP4042/PCSE00049_00/AMqDSgvXRraXMYPsiuPZTcxCStEWmRLLKnyNxDbRvOItjkzjvSKQLzOeKzduvGBp.pkg
+PCSE00575	US	Stealth Inc 2: A Game of Clones	http://zeus.dl.playstation.net/cdn/UP4395/PCSE00575_00/UP4395-PCSE00575_00-STEALTHINC200000_bg_1_3bff26bf575f66cc2cb2365fa038516286cfa02b.pkg
+PCSE00280	US	Stealth Inc: A Clone in the Dark	http://zeus.dl.playstation.net/cdn/UP4395/PCSE00280_00/muztNbntQLQAomiuQHUiOdLMxogmgoNJvVKKxPFRiSaSDBbiTGpfnHfVlMKAIitW.pkg
+PCSE00051	US	Urban Trial Freestyle	http://zeus.dl.playstation.net/cdn/UP2081/PCSE00051_00/xESzCAkUaABLNhIMettMRqLEMosRakKxqgajnKkmcswfjgcUyMtGAuyzygBfvChL.pkg
+PCSE00837	US	Type:Rider	http://zeus.dl.playstation.net/cdn/UP1309/PCSE00837_00/UP1309-PCSE00837_00-TYPERIDERVITAUSA_bg_1_ed62a3beb76c471a26d7ef4f0d050d1241fef150.pkg
+PCSE00698	US	Super Time Force Ultra	http://zeus.dl.playstation.net/cdn/UP2003/PCSE00698_00/UP2003-PCSE00698_00-SUPERTIMEFORCEUL_bg_1_f6e414e7adaa9e51ab1bef696015ea6aa28de9c1.pkg
+PCSE00902	US	LASER DISCO DEFENDERS	http://zeus.dl.playstation.net/cdn/UP0809/PCSE00902_00/UP0809-PCSE00902_00-LASERDISCODEFEND_bg_1_c8006bf00255e485428d5bfa1981b429f2145732.pkg
+PCSE00478	US	Joe Danger	http://zeus.dl.playstation.net/cdn/UP2034/PCSE00478_00/cYZHwFoZmuYEqturSiwrBSAuvfwwuTGVjpVtdwUANPxQFmVjKiEriEhalESSkqyo.pkg
+PCSE00655	US	Geometry Wars 3: Dimensions Evolved	http://zeus.dl.playstation.net/cdn/UP0002/PCSE00655_00/UP0002-PCSE00655_00-GEOMETRYWARS3PSV_bg_1_1a8eed143425b8e69453a1be413eae31e8e532f2.pkg
+PCSE00495	US	Futuridium EP Deluxe	http://zeus.dl.playstation.net/cdn/UP4487/PCSE00495_00/wdTDfKTcsJwVidofFmNwRQbWQygmEDoNYiuifLHDKviXTDUpBUyigJjrMNDMuHMe.pkg
+PCSC00039	JP	Soul Sacrifice	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00039_00/QNMNYfnvvxPVjyIxiUvidDXcAsKXbIniAnTiYdGcyfYCtcvoukoTDlvHvNkLbnkuwAPoRzeVJzsRODZwDYTLJJokBrEvLCPzIZCwv.pkg
+PCSF00139	EU	Treasure Park	http://ares.dl.playstation.net/cdn/EP9000/PCSF00139_00/GLyATmtUZITvEOqWXMtWRZYSlFjbQzNPYdYRiGRHLgnAgecKNnjHDjLABCojyTEt.pkg
+PCSF00088	EU	PlayStation Vita Pets	MISSING
+PCSF00558	EU	The Muppets: Movie Adventures	MISSING
+PCSG01029	JP	Gal Gun Double Peace	http://zeus.dl.playstation.net/cdn/JP1368/PCSG01029_00/JP1368-PCSG01029_00-GALGUN2APP000000_bg_1_72ab10d861fe28f165f53236a9290d1feba151ce.pkg
+PCSE00374	US	Velocity 2X	http://zeus.dl.playstation.net/cdn/UP4143/PCSE00374_00/hQhTgxnmEtMZmOEFzkTobKXZgzIqDeupiZouegRVrchvfZCrPVPVrgzpUKxhSpAY.pkg
+PCSE00814	US	Teslagrad	http://zeus.dl.playstation.net/cdn/UP4513/PCSE00814_00/UP4513-PCSE00814_00-TESLAGRAD0000001_bg_1_24bb1a87da18520f4bb5d9c1bf7c6262c3625173.pkg
+PCSE00034	US	Tales from Space: Mutant Blobs Attack!!	http://ares.dl.playstation.net/cdn/UP2045/PCSE00034_00/rlSCwgOqhIAPrGgpFLAdfDUKWzYXKQOfCtifJyZheCmssTdHFXPVXDDHFrZKWKJsCmnYeqmMkTnJgOpdvwnCNHwHBrKcTePAHPPWA.pkg
+PCSA00092	US	Soul Sacrifice	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00092_00/oXGzyIDnNsPBrcybeSrUkndsQxYCHVIgakWMQCsQfRMDJtmruiadEJMSNcxhWQBqBirQnLfnpbgxHoMdRlqhZYrtXRGqnKNiCBnxJ.pkg
+PCSA00097	US	Sly 2 / Sly Cooper 2: Band of Thieves	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00097_00/GCscHhETwzbHMtfHmcGLVFGmzLMAuloVDIPjeXtfxXRALrGPShFsdnbNpTZDhBDN.pkg
+PCSA00098	US	Sly 3 / Sly Cooper 3: Honor Among Thieves	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00098_00/NfSQXuVpbflJkfJNCAFkkVwbeYBxDEVNgelkJZriuqpAwJsupSZGpZfOgViKEvTZ.pkg
+PCSE00430	US	SteamWorld Dig	http://zeus.dl.playstation.net/cdn/UP4473/PCSE00430_00/xzEourihGQAoPvuDAbrocNWOXiayfRKOIfULpoHTfyRjWYXFRFqstrIPRneWGVay.pkg
+PCSB01028	EU	Shantae: Half-Genie Hero (3.60+!)	http://zeus.dl.playstation.net/cdn/EP8916/PCSB01028_00/EP8916-PCSB01028_00-G000000000000945_bg_1_618cf994dbd6da4e60d1abfe5b97f783bd1af623.pkg
+PCSE01023	US	Salt and Sanctuary (3.60+!)	http://zeus.dl.playstation.net/cdn/UP0613/PCSE01023_00/UP0613-PCSE01023_00-SALTSANCTUARY000_bg_1_abe981ce0ec0ff8d445fe57f553ef68f479a7225.pkg
+PCSC00019	JP	????????? / Cliff Diving	http://ares.dl.playstation.net/cdn/JP9000/PCSC00019_00/nEGaqAazcNLfunadMzAntUmWarnuFQiwEHMxzVOMykbchcwHpErQCIGsTSRODWpXvrfhoPIYLamETmhSYhdJVyjZHqalAgUvbyMyY.pkg
+PCSC00020	JP	????????????? / Table Play Soccer	http://ares.dl.playstation.net/cdn/JP9000/PCSC00020_00/NlLiedcmfRttYIMNBsRnttmfVKsIULlEUUdqPvGDUWPiVKZRhVJMWcLWDycjPEKuPNpFhTkpCPWmnbHkFetcdWlyfPTtnYxDaamiG.pkg
+PCSC80006	JP	???????? / Treasure Park	http://ares.dl.playstation.net/cdn/JA0003/PCSC80006_00/cJDhHlPHJRijSufmcWXpMcFEVKeoshJhqYOBykXuvfePjAUGIWUZPSYpgXUOgvpkpqofXMTCDscHBfSoDUgubBXyrwFBAgltVJyRk.pkg
+PCSC00018	JP	????????? / Fireworks	http://ares.dl.playstation.net/cdn/JP9000/PCSC00018_00/FXWHjWUpjSEjWeTwbLgRroQJrkfkpbOWGVMvxMYnzQXEvdTuGMAlMIqhQUrtbiCVLgQSqWQSghDnqIIDRhaoeGLQWWkezLiGffvRw.pkg
+PCSG00141	JP	??????????????? / Phantasy Star Online 2	http://zeus.dl.playstation.net/cdn/JP0177/PCSG00141_00/zrIHlXGDNIDWoHDjiIEJnNBEYkvujGiEvVJRFDHprNKhzMbqENbOREoYNzfSKvXSMwyGpynJXngLmsLJglwbeJERweLAlixAuwJAl.pkg
+PCSG00160 (APP)	JP	????? Kiss AR / PhotoKano Kiss AR	http://zeus.dl.playstation.net/cdn/JP0117/PCSG00160_00/RhMsPWLaaIZMMjuStICVQzLwvFxSffiFiPuBllFtZVKEIumPhhEXPJtDPPiFJBNKSUnuBoCdTbXWNcMfiCiGGtoQmSAAVwECDSnjj.pkg
+PCSG00581	JP	??????????Z / Minna de Spelunker Z	http://zeus.dl.playstation.net/cdn/JP0082/PCSG00581_00/JP0082-PCSG00581_00-MINSPEZPSVITA000_bg_1_41536391854f9a5e02d88ae136bd31513a10b021.pkg
+PCSC80004 (APP)	JP	?????? / Wake-up Club	http://zeus.dl.playstation.net/cdn/JA0003/PCSC80004_00/UASbGxfsgUxpiOQjnzYhtXOMEkHICVOMHMwygnvMTxhUtcfEIesNGxwSfMSjKIXsMeSWTCVTxCfqcuzbkOgMUqOMaofeBMFzbXHbB.pkg
+PCSG00832	JP	???????? ?????????? / World Trigger: Smash Borders	http://zeus.dl.playstation.net/cdn/JP0700/PCSG00832_00/JP0700-PCSG00832_00-WTS00APPLI000000_bg_1_b9697a9c603f6468a8d266b3d2f2eb8e7ab8821b.pkg
+PCSG00211	JP	???12 ??? / Romance of the Three Kingdoms XII: Taisenban	http://zeus.dl.playstation.net/cdn/JP0106/PCSG00211_00/fOOCEpUdCbGGQzmnaflhuNVAgKrDHzpeVLGAJHPFMUmblxoVHtujfaRpSpDeaxPYqzqjotuYEHqkBUkbAenDsYHHviVljNviaSOFH.pkg
+PCSG00803	JP	????? 201X / Nobunaga's Ambition 201X	http://zeus.dl.playstation.net/cdn/JP0106/PCSG00803_00/JP0106-PCSG00803_00-NBG201XAPP000000_bg_1_a01c0466d7ed5d810cca02e3b2f7a899297d391e.pkg
+PCSG00717 (APP)	JP	????????????? ?????? PLUS	http://zeus.dl.playstation.net/cdn/JA0009/PCSG00717_00/JA0009-PCSG00717_00-WEBMAFANIMAXPLUS_bg_1_cf15a00b6564b594b6fc2d6a2a9b8b66e7c5fc3b.pkg
+PCSG00691	JP	?????????? ????????? / Jikkyou Powerful Pro Yakyuu: Success Special	http://zeus.dl.playstation.net/cdn/JP0101/PCSG00691_00/JP0101-PCSG00691_00-SUCCESSSPECIAL01_bg_1_f6ba4b2139880139973ae9b6ada7d476a861e612.pkg
+PCSG00255	JP	??-?????- / ShinobiAshi	http://zeus.dl.playstation.net/cdn/JP0155/PCSG00255_00/hnenbnpIkpEzKFTuLReOjNTUnMztIRirpTOIMHnGlnQdDEacMvdYCUxSDUUOAPiUORpAsJgBIJtdPhnxQWCZQRJdCHqKsKcPBLwye.pkg
+PCSG00182	JP	??????????? / Kaku-San-Sei Million Arthur	http://zeus.dl.playstation.net/cdn/JP0082/PCSG00182_00/LYCcuEVxqjjgvLScQFxmcHHIaFgrWsqwaCNHTCAXTJkhESuWzquHkFQJdxyBCsiSvNkHDSvNYCqllKyjgaHefKDgdtEGiugeFtUkj.pkg
+PCSG00254	JP	???? / Oukaranman	http://zeus.dl.playstation.net/cdn/JP0155/PCSG00254_00/iPKDMQFjepLHxuyuSWNRYHsPWbunTRiuvMydlVEtSZHTAOKLeQOLdPIKWhdUVIUFWbTxhUQZtNHaCpIKCCCXpLHzMkAaFUlGuskwJ.pkg
+PCSG00191 (APP)	JP	???????? ?????????? ??????? / Kidou Senshi Gundam: Battle Operation Support Appli	http://zeus.dl.playstation.net/cdn/JP0700/PCSG00191_00/VGbRNaiMQjOVbnTOPBHHeYzrpJuzIpLHiZexaPvFknpEEoBesHzdSqyIHmcGedDOAGpgroUknWvbmxEcSaeYbdsJTTkQwEXsQPSgU.pkg
+PCSG00764	JP	?????? Online Z ????????? / Shin Sangoku Musou Online Z	http://zeus.dl.playstation.net/cdn/JP0106/PCSG00764_00/JP0106-PCSG00764_00-MUSOUOLAPP000000_bg_1_1aaecbba4e7bdb499b20d800291544d6ade8ac2d.pkg
+PCSG00258	JP	?? MeiQ	http://zeus.dl.playstation.net/cdn/JP0155/PCSG00258_00/vdvHYtTjQIxsXbnyZJJpIhiwPhNptLLbSIAZmnrdhGilhadzyzeefBhReUniskczXMzLtLJzqdFRnfXoNGkwYRVmlmuHitAEdpvtT.pkg
+PCSC80012 (APP)	JP	????Reader™ for PlayStation®Vita	http://ares.dl.playstation.net/cdn/JA0001/PCSC80012_00/ycZrBOztrFeuHgCTvAQyJFFMHnAYvQUJIsDXbKUjXYPnKIhknXsxeoCtpBiqOsUnDKyibhWISliYADajjbxRFdRQRAnjMRyVqnEUa.pkg
+PCSG00503 (APP)	JP	????? ??????? / Ryuu ga Gotoku Zero Companion App	http://zeus.dl.playstation.net/cdn/JP0177/PCSG00503_00/JP0177-PCSG00503_00-RYUGAGOTOKUZERO0_bg_1_33c0045b9fa1d51b2a34c2593989fb05b5dcff42.pkg
+PCSB00878 (APP)	EU	Twitch	http://zeus.dl.playstation.net/cdn/EP8816/PCSB00878_00/EP8816-PCSB00878_00-G000000000000800_bg_1_66125a6f7d816447f2869d56f25e89e9716e9cb2.pkg
+PCSC00080 (APP)	JP	U-NEXT????????	http://zeus.dl.playstation.net/cdn/JA0003/PCSC00080_00/uNEfVaJoblJpzHAEnjbsDbxKnGngXkNsNDaXdIZxCmxJxirQgCqPibQdSGuWYlSSdMTyNtMcANUSSNYkJWfGtYIzuRRIRiBxCbIhP.pkg
+PCSC80003 (APP)	JP	uke-torne???????™	http://zeus.dl.playstation.net/cdn/JA0003/PCSC80003_00/XhpjkGuFzSbYuYcCbHexUVrpxNSySjnqpmgtsJPUOMQesaLjFaKQrCKxfXVAlUdUQqISGaJVFOdppaZKRGzfGdEMdtCeCzubpWClM.pkg
+PCSG00257	JP	RisingStar	http://zeus.dl.playstation.net/cdn/JP0155/PCSG00257_00/IxUyjoCUtjgOmDzDdLFrsHsjMHvYIsKmGnoHKLpMhVojOZXxXWgVHzATBPRXkzbpeZxTdCTCoXetGPIPfVIjNHjZnYYCrIejCtuDa.pkg
+PCSG80010 (APP)	JP	"ROBOTICS;NOTES ELITE AR"	http://zeus.dl.playstation.net/cdn/JP0745/PCSG80010_00/NTEulJSPTeohqsOeZEyyoqixSVHmOkEOQxwxmgILiBXhHyVUcuNvEWUTevRXNRvKHgggNxebsgRxcOuvDRxLVDrMRUOOwsrKrFzjS.pkg
+PCSC80018	JP	PocketStation for PlayStation Vita	http://zeus.dl.playstation.net/cdn/JA0003/PCSC80018_00/pQPQxDhSsKTYgePChkMtuIpyghZywbSOvfKvPsvdKMfgkUPSKGmOvibEysgRQBOURpMTlweKQnpGtFDaIXhaJPbEPRGdFqYUvZprD.pkg
+PCSG00572	JP	Project Discovery ?????????	http://zeus.dl.playstation.net/cdn/JP0117/PCSG00572_00/JP0117-PCSG00572_00-DISCOVERYENGINE0_bg_1_6f1afc14741c44a3f884bd4b9652ff9dae064da7.pkg
+PCSE00389	US	Putty Squad	http://zeus.dl.playstation.net/cdn/UP4037/PCSE00389_00/QOuwtKrHzXUtIjFwzXbUnxdZkExkVoHVlmCBbZAzGzuuzzqlrGVFAnGBUXWjfTzO.pkg
+PCSC80016 (APP)	JP	radiko.jp	http://zeus.dl.playstation.net/cdn/JA0003/PCSC80016_00/CCvsNscRPcnMHiYBotRvfcQNHPjmiiUuPBxnWfHHKsSfZhtPCmYMZpjiZulmVYHDKOxiVaTlcvaxWgfjaydjhOeUXyQycdiMSVjms.pkg
+PCSE00806	US	Crypt of the Necrodancer (latest update requires 3.60+!)	http://zeus.dl.playstation.net/cdn/UP1162/PCSE00806_00/UP1162-PCSE00806_00-CRYPTNECRODANCER_bg_1_f0e6e95001dd6a862d0d775bf8034f17d636b2ec.pkg
+PCSE00919	US	Darkest Dungeon (3.60+!)	http://zeus.dl.playstation.net/cdn/UP2619/PCSE00919_00/UP2619-PCSE00919_00-RHSDDPSV00000001_bg_1_a8c5ddeb495fc525a4ebb737f9751a09dcce5041.pkg
+PCSB00460	EU	Demon Gaze	http://zeus.dl.playstation.net/cdn/EP1063/PCSB00460_00/XqhMYTwPEzrbexhGKipSAtSBcRmCJhiwZikWzTFPPQEuxwAUbZWrpJHldEXyJVUm.pkg
+PCSE00901	US	Dex (3.60+!)	http://zeus.dl.playstation.net/cdn/UP1340/PCSE00901_00/UP1340-PCSE00901_00-DEXPSVITASCEA000_bg_1_d678a519261c7fe7e78a438b2467534aff33d62c.pkg
+PCSE00208	US	DJMAX TECHNIKA TUNE	http://zeus.dl.playstation.net/cdn/UP5005/PCSE00208_00/gVvdIvKxwfzHTVpqUJaapoPgTYhKMKqqNxdvlgaFblikgDYQpAyWfMBMwfiYKBWl.pkg
+PCSE00209	US	Earth Defense Force 2017 Portable	http://zeus.dl.playstation.net/cdn/UP0367/PCSE00209_00/jMrrQhoJAIdbyhpUjawnrQzkYbfGxMFFbERsCsbyCQWyxSmXXmgVIsWBaWEhAMiy.pkg
+PCSB00239	EU	Earth Defense Force 2017 Portable	http://zeus.dl.playstation.net/cdn/EP0700/PCSB00239_00/cMWNfJjijptZWGqShWlExJVhNNQljuefIYYxUMHnjXNTidxNJGeBFIxrFlCMAxul.pkg
+PCSG00243 (APP)	JP	JOYSOUND.TV Plus	http://ares.dl.playstation.net/cdn/JP0033/PCSG00243_00/SvFtXQFOxTIwSqExhBXHQRYcMXzaeeYObZNttOdRBqTfIDydwZoTAdXGdcnZtORsasJYmqxwOsnmATKlskgCcazMsJKafiIDIODGI.pkg
+PCSE00968	US	Asdivine Hearts (3.60+!)	http://zeus.dl.playstation.net/cdn/UP2500/PCSE00968_00/UP2500-PCSE00968_00-US0AHEARTS00VITA_bg_1_3f7231dcb88d49b1cbc1d36c3ba0e45f62d97b3a.pkg
+PCSE01034	US	Berserk and the Band of the Hawk (3.60+!)	http://zeus.dl.playstation.net/cdn/UP4108/PCSE01034_00/UP4108-PCSE01034_00-SLAYERGAME000000_bg_1_18a75d287b6ba165e3f38cd6b20125eace42272b.pkg
+PCSG00361	JP	Bullet Girls	http://zeus.dl.playstation.net/cdn/JP0367/PCSG00361_00/TEMrCOAIgjirUmPaSzDyoDunNOBMLJEbVKKoTXjUUdHjaHQgfQOGibTXBJnPHicfHMpunAjJCdlzwyXUqiJovkOSUhrtyLIqvyNvc.pkg
+PCSG00339	JP	Girls and Panzer	MISSING
+PCSG00041	JP	SAMURAI & DRAGONS ???	http://zeus.dl.playstation.net/cdn/JP0177/PCSG00041_00/UfHEvxUFfxpybfQavDYOnNrAEopJzMAzTOeEsXZPtFUwRhuBOlBhEcTgbjNsVQNaRzqBTNDjsIAYinJPyezythubcPUylDElorRaP.pkg
+PCSG00695	JP	Genkai Tokki: Moero Crystal	MISSING
+PCSG00987	JP	Blue Reflection: Maboroshi ni Mau - Shoujo no Ken (3.60+!)	MISSING
+PCSG00986	JP	Nights of Azure 2: Bride of the New Moon (3.60+!)	MISSING
+PCSG00034	JP	Ou to Maou to Shichinin no Himegimitachi: Shin Ousama Monogatari	http://zeus.dl.playstation.net/cdn/JP0101/PCSG00034_00/ofrESmOOFpzGvLLshoeSqYTPKfsBXhhicImDYxLYOWYxXoJJbBrUJeljwaVqDVpUyoMZclJjGHphthNTwNcMSFrLBNSQGvLxiAtyp.pkg
+PCSE00826	EU	Atelier Escha & Logy Plus ~Alchemists of the Dusk Sky~	http://zeus.dl.playstation.net/cdn/UP4108/PCSE00826_00/UP4108-PCSE00826_00-ESLOGIPLUSMASTER_bg_2_497777d874bdfe6959db99feb6ac27c837001fac.pkg
+PCSG00036	JP	Assault Armies	http://zeus.dl.playstation.net/cdn/JP0013/PCSG00036_00/bSKakNmMmboLJOWSewkGnUqgsMYrkBtiFTyhgOIijnqvDnGVOaBAqjTmtSVMVUYZnlbMSUeywWEsvcOCfQHdfRpDxGebTecIMkBuQ.pkg
+PCSG00106	JP	Need for Speed: Most Wanted	http://zeus.dl.playstation.net/cdn/JP0006/PCSG00106_00/JwrDmRpRaqDxGUmuVokACFbDxfShiZzsvYuvsXqmHMvsgBbuNmChNPxMMzxvyZQWRiTkzmXvHewFDEDbQqGnZugukjIeDBomyztUt.pkg
+PCSH00045	TW	??? PlayStation®Vita the Best	http://zeus.dl.playstation.net/cdn/HP0106/PCSH00045_00/IYfQfgOWSSRwDVRmDQVYvxjvlkYpITzITqvBNmrKAlpMZfIesuEZEPulmtQQLluwHwEqFCCgZqJBcUOqckABciUECcUHfFvLprAiC.pkg
+PCSE00707	US	Ar nosurge Plus: Ode to an Unborn Star	http://zeus.dl.playstation.net/cdn/UP4108/PCSE00707_00/UP4108-PCSE00707_00-ARNOSURGE0MASTER_bg_2_0dcfebd6bbbc2739bb583df492b09f6cfbed0f7b.pkg
+PCSE00070 (APP)	US	Netflix	http://ares.dl.playstation.net/cdn/UT0007/PCSE00070_00/BERFPQxjLOHZtYfBCiWApNEovNlFuUfLZwpLBggJjPKrAeIfvUyFABjYcNwWKpEAJXCgdjNKAocGPUbZmEqVWfuXmHGZtcpGGBiuR.pkg
+PCSG00330	JP	To Love-Ru Trouble Darkness: Battle Ectasy	MISSING
+PCSB00809 (APP)	EU	Crunchyroll	http://zeus.dl.playstation.net/cdn/EP8805/PCSB00809_00/EP8805-PCSB00809_00-20150410XCRUNCHY_bg_1_ac2a5947f1d4c98de0b511cf7f917f760dd09157.pkg
+PCSB01006	EU	Wanderjahr	http://zeus.dl.playstation.net/cdn/EP4252/PCSB01006_00/EP4252-PCSB01006_00-WDJRFULLGAME0001_bg_1_d06568bd494358591d52205b72078d2f5b77d83c.pkg
+PCSB00444	EU	Grand Theft Auto: iFruit	http://zeus.dl.playstation.net/cdn/EP1004/PCSB00444_00/QpteYZRNmtfzDCPzEJxaprbPsKiHyqkHwfZaLnvMLHNbEvYaKqaScwsEJalbIHPS.pkg
+PCSG00622	JP	Rogue Legacy	http://zeus.dl.playstation.net/cdn/JP1052/PCSG00622_00/JP1052-PCSG00622_00-CDGROGUELEGACY01_bg_1_fd972a2c3efd24b174ff36ce3e6d20889b442b69.pkg
+PCSG00452	JP	Shin Sangoku Musou 7: Empires	http://zeus.dl.playstation.net/cdn/JP0106/PCSG00452_00/JP0106-PCSG00452_00-SM7EMPGAMEJP0000_bg_1_a2d87311dd21b63c8be7f6d6f2eca9a983689faa.pkg
+PCSG00304	JP	Kagero: Darkside Princess	http://zeus.dl.playstation.net/cdn/JP0106/PCSG00304_00/LHXNEvqeuTZnIAGbPQLJHJHZrWIHBZSSTXvrmZjWBgdBDTKQotVsLOwEfsHwxpWXHvClfKmSWOQtbfihlKnmOwzYpfhyBxtmTqgtw.pkg
+PCSG00565	JP	Kagero: Mou Hitori no Princess	http://zeus.dl.playstation.net/cdn/JP0106/PCSG00565_00/JP0106-PCSG00565_00-KAGEROMOUHITORI0_bg_1_da76d73c100aeda4433fd9a3cd2f513ad6344d2a.pkg
+PCSG00014	JP	Lumines: Electronic Symphony	http://zeus.dl.playstation.net/cdn/JP0001/PCSG00014_00/XrDtlowgEVeoDkbalXTLPNLIqROEThCueOpJAsDLrUAqMqvtJWwXcnFLrUIXXIkaNmmtmfKLTtUXtEfftvZItASMSlUuPQGmDzJrk.pkg
+PCSC00097	JP	MonsterBag	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00097_00/JP9000-PCSC00097_00-MONSTERBAG000000_bg_1_ab98e7f0a22deaf3542741747403c6605b42eb11.pkg
+PCSC00001	JP	Minna no Golf 6	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00001_00/gBPcrNYeFGLRhXBnkynwxZRdGGKGXWQvpbJAJQwMUOynMIBsuOlNfIkkQizoFCgisTiNrvlyZOgYihpnckcspnpJbSJqujBTfzEdP.pkg
+PCSF00728	EU	Resident Evil Revelations 2	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00728_00/EP9000-PCSF00728_00-RESIDEVILREVELS2_bg_1_3f5f7b7b3552c13299bfe67f09c52ea2cf58c63e.pkg
+PCSG00433	JP	Zettai Zetsubou Shoujo: Danganronpa - Another Episode	MISSING
+PCSG00772	JP	Zettai Zetsubou Shoujo: Danganronpa - Another Episode (PlayStation Vita the Best)	http://zeus.dl.playstation.net/cdn/JP0365/PCSG00772_00/JP0365-PCSG00772_00-ZETTAIZETSUBOU00_bg_1_f3092d9875d82ef174962eb1ef107748dff377b6.pkg
+PCSE01116	US	Undertale (3.60+!)	http://zeus.dl.playstation.net/cdn/UP3893/PCSE01116_00/UP3893-PCSE01116_00-TFSHVCUTPSV00084_bg_1_da23e4e50b893ba1555bf054ec006df591589421.pkg
+PCSG00964	JP	UNDER NIGHT IN-BIRTH Exe:Late[st] (3.60+!)	http://zeus.dl.playstation.net/cdn/JP0036/PCSG00964_00/JP0036-PCSG00964_00-UNIEXEST00000000_bg_1_a4a4bf5d209096d5659a728aed58fc52d76ef625.pkg
+PCSC00043 (APP)	JP	????????????NEW ???????? / Paint Park Plus	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00043_00/IvKBexIkYSbdZmCWMzqheHTjDBWOLkgQHDUHOAxbIvkvzYvYnnMwnhOshDuGCJnudIgIBdEcmRIqxzlBXJuAxxDHWYbzsawRnFYBA.pkg
+PCSG00291	JP	Amagami	http://zeus.dl.playstation.net/cdn/JP0117/PCSG00291_00/rEngAfgrhjlimKYeDkZmKakXxapwHdvHrNTAclXABAUOSrwkpMdnUxEVGayCBAMxGnjRxxsPPPcxmArHsfGMkuGBdTWzEtbkXyyzO.pkg
+PCSC80029 (APP)	JP	AMNESIA World AR	http://zeus.dl.playstation.net/cdn/JP9002/PCSC80029_00/KQgZLjCZsRHXyxivtoezpsfUHDnPdCqOwqoDqcHhKZgCFHterqRBynSyrYfsQlISOBPKQtmLLUHAhulUTcEtwxbNdViqwSJNxOZtn.pkg
+PCSG00971	JP	ASDIVINE HEARTS (3.60+!)	http://zeus.dl.playstation.net/cdn/JP0013/PCSG00971_00/JP0013-PCSG00971_00-JP0AHEARTS00VITA_bg_1_45b3c01a48992e334972bf39c9f2ee910960715a.pkg
+PCSG00425	JP	Bakumatsu Rock: Ultra Soul	http://zeus.dl.playstation.net/cdn/JP0507/PCSG00425_00/hEZNLWLRRXNAWgNjvXpQNELIOHvrffteQgwPXodNbbbvgbvSoPMWLGlDDHXHhWrHsGJyxPMPzNtszKidXgUJIkQewgSOTyknqTpbq.pkg
+PCSG00261	JP	Batman: Arkham Origins Blackgate	http://zeus.dl.playstation.net/cdn/JP0012/PCSG00261_00/UkROIZsiWFtyjCqRGPUiiPEDUdQKaVdGGiYajhBsYptsLgLRahIJSlDuSyZLurwRSwJnFQWFwKbBFLxTNDedzAZBoQoRBCpuhRlsa.pkg
+PCSG00582	JP	BLAZBLUE CHRONOPHANTASMA EXTEND	http://zeus.dl.playstation.net/cdn/JP0036/PCSG00582_00/JP0036-PCSG00582_00-BBCPPSV000001000_bg_1_bd8d89b30fd655457bfb4fe2588c2e44afb41d4b.pkg
+PCSG00259	JP	BOOLINK	http://zeus.dl.playstation.net/cdn/JP0155/PCSG00259_00/eFXfWuFVeRFitvPrIRpFMinWjnsdIrzVYaXmstqYRyyWVUInDhVZcuayexPFBFuljAaPwiFbzsqHswyGyclgfjxpFlanhKhoeppNs.pkg
+PCSG00568	JP	Bullet Girls 2	http://zeus.dl.playstation.net/cdn/JP0367/PCSG00568_00/JP0367-PCSG00568_00-BULLETGIRLS20000_bg_1_ced928d08e0112132bd471de773ab0499c4e283e.pkg
+PCSG00497	JP	Chaos Rings	http://zeus.dl.playstation.net/cdn/JP0082/PCSG00497_00/JP0082-PCSG00497_00-DIESEL1000112233_bg_1_743cd6057c93f386bc9efa007973b936fcbf708a.pkg
+PCSG00499	JP	Chaos Rings Omega	http://zeus.dl.playstation.net/cdn/JP0082/PCSG00499_00/JP0082-PCSG00499_00-DIESELOM00112233_bg_1_313c8e75fd6aaa8da131a1607bf0378eb13f9ee1.pkg
+PCSG00555	JP	"CHAOS;CHILD"	http://zeus.dl.playstation.net/cdn/JP0745/PCSG00555_00/JP0745-PCSG00555_00-CHAOSCHILD000PSV_bg_1_704151184c8ddd8054926c8ddfcf8567ad3f8af5.pkg
+PCSG00435	JP	"CHAOS;HEAD Love Chu*Chu!"	http://zeus.dl.playstation.net/cdn/JP0745/PCSG00435_00/mxXZXwHuQWOizbvrvnROCjbflMmyGOjvzDasxRlAyUgbXkWFTdmoRspRaTrPxBXSwMnAEFKPPHVimILcSLgMbRGKNMZZQCMkAhaBg.pkg
+PCSG00434	JP	"CHAOS;HEAD NOAH"	http://zeus.dl.playstation.net/cdn/JP0745/PCSG00434_00/UYIkEhKmwjKOTjpdrsNMbeOWsShxiTiBaGrECfCsDRsCdPBaUFuOMuyrgylDkMlyAbUrxquwXUVCimlxSRgAAOcpvLdsqeTuUbRJP.pkg
+PCSG00432	JP	Chikyuu Boueigun 2 PORTABLE V2	http://zeus.dl.playstation.net/cdn/JP0367/PCSG00432_00/xMLXqYZoegVZUNOtNGmDluouGlKXmzYuuEieDwaTNHlBJGyhOqYUYJoyBHMqigtUSxacGaFqmFpRIhUwHQPcUDiAaBLmglYoQLsOh.pkg
+PCSG00103	JP	Chikyuu Boueigun 3 Portable	http://zeus.dl.playstation.net/cdn/JP0367/PCSG00103_00/qTFNaMrAjpDXDSsKKHRAqgCvyQTFKgfcqIebRofBRdUUDxIaKeVkGXfMgxcXQMaZSrPApBetLhZzDEIclWfRWNIKGwQEBTESeYnQF.pkg
+PCSC00056	JP	CounterSpy	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00056_00/gKeQriZCfUssbqbbKcadQmxeIKlbsMLDfotXjFaZGdQfkQmGTqpCUJYwRzJooGmRZTywAZmVkZbrhBxlTWJrXccfpKiRXouQXfsSi.pkg
+PCSG00681	JP	Criminal Girls 2	http://zeus.dl.playstation.net/cdn/JP0404/PCSG00681_00/JP0404-PCSG00681_00-1000000000000000_bg_1_aa7ccd229117a86bc9a1f1d0d8dcc11f346e8b96.pkg
+PCSG00241	JP	Criminal Girls: Invitation	http://zeus.dl.playstation.net/cdn/JP0404/PCSG00241_00/zzzzhBbzoqVONcJyXplTXuiJeJxevIltZiClFtpksYILIMsmgjoeIusiWyefTFSFcOfSIXUmESmYRTNlQUHzzTaZFjxzvLexacOtx.pkg
+PCSG00537	JP	Croixleur Sigma	http://zeus.dl.playstation.net/cdn/JP0122/PCSG00537_00/JP0122-PCSG00537_00-CROIXLEUR0000000_bg_1_6b7e2f02b0ec72fb5900ca1e89e5dd9ef389a60b.pkg
+PCSG00043	JP	Demon Gaze	http://zeus.dl.playstation.net/cdn/JP0117/PCSG00043_00/MYliHQDcExUAkZCFrOsqmefhcJoqAfSVFAOozLeYrjyAyKHYZneScWnZxffWSjsIfHwOXYJzvNqIRDzmxTlzvuhdNFNTCiCIPvLRO.pkg
+PCSG00341	JP	Dengeki Bunko: Fighting Climax	http://zeus.dl.playstation.net/cdn/JP0177/PCSG00341_00/rqjQKXAxjSadtdotTUmKYQpBOXvPuIYWGTmGJxTCasnmTYXXctUVbcOucQDjSVtcwZkojGsYlhEJtKYikoAKqrELYqIUiNWTSktSK.pkg
+PCSG00516	JP	Digimon Story Cyber Sleuth	http://zeus.dl.playstation.net/cdn/JP0700/PCSG00516_00/JP0700-PCSG00516_00-DSCYBERSLEUTH001_bg_1_8a62f208dd882e92a93ae48744d93ed204b322a0.pkg
+PCSC80021 (APP)	JP	DMM.com	http://zeus.dl.playstation.net/cdn/JA0003/PCSC80021_00/omBfMYhbjxLrQkPGuvkAsMyuHqKucunWXXklBGWReKHnkRvygVrqDBMFtdPEfXjjxcVRAOnKGrKJrxcWuCIqoLazRdIzhLpBqxHfV.pkg
+PCSG00407	JP	Dungeon Travelers 2: Ouritsu Toshokan to Mamono no Fuuin	http://zeus.dl.playstation.net/cdn/JP0761/PCSG00407_00/iUAVREMuqNeZYpVJjCLWmVTrulwOMfANjviyQqDLlaXcwDWiUxKwRmBfItuoAQUdUyepayuQTtGswTbyBtQANsFqAjqqPPdkLhGqU.pkg
+PCSG00195	JP	Eiyuu Densetsu: Sen no Kiseki	http://zeus.dl.playstation.net/cdn/JP0425/PCSG00195_00/RTKjJjQQszonwtqrjcBdxMICgimOIOdQavObhEncdjEwFgsWCVyroWkQEBpWgQEsTgPBgzyCAXeiNrWqMZmSiddXjnlgodWgyAMsb.pkg
+PCSG00488	JP	Eiyuu Densetsu: Sora no Kiseki FC Evolution	http://zeus.dl.playstation.net/cdn/JP0117/PCSG00488_00/JP0117-PCSG00488_00-FCEVOLUTION00000_bg_1_efba4a3bd19c51859c8217473cd17c963c97b30b.pkg
+PCSG00489	JP	Eiyuu Densetsu: Sora no Kiseki SC Evolution	http://zeus.dl.playstation.net/cdn/JP0117/PCSG00489_00/JP0117-PCSG00489_00-SCEVOLUTION00000_bg_1_5a766f1cac7e45a57e4ecbca1e44c9c85ccc1d1b.pkg
+PCSG00442	JP	Farming Simulator 14: Pocket Nouen 2	http://zeus.dl.playstation.net/cdn/JP0075/PCSG00442_00/UJDtWLvnEsHYCxZjRvjofVbFNJYIXaxoTBtFITzIWgQwJgStlIGlSOKXqCaerTQXeOSfnNHVkghHkePBsaQVYczitzdoYqBAxUcLk.pkg
+PCSC80001 (APP)	JP	Flickr	http://zeus.dl.playstation.net/cdn/JA0003/PCSC80001_00/MptdZzLitKaYnigUXcryyFnzvXfYttJyPmhMhItPJwEbJBilIhkeqQRDJKQWhlgYMZTRvCezFyRCEVulosTHopvlICYDrQhiUAfbM.pkg
+PCSC00054	JP	Freedom Wars	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00054_00/qFdgssSMcTAvFFiZaBnRlUFFJeyvnmYXsRVOMLTiOMeVNzkACTtrEhRsKlXwlDBBZcULBviFlipktmvqJVWTcUuBBJttLIqeizNMq.pkg
+PCSG00227	JP	Furuiro Meikyuu Rondo: La Roue de fortune	http://zeus.dl.playstation.net/cdn/JP0061/PCSG00227_00/GfWecBBqKKLmtBRjalJPpbwAfGUtZlRTlcMMFlhOPNncIuCiBHIFZEhoQaYeHkgCCWOZmuuUwJMnIJgYnCGhUAkUQQhCpUobSypDH.pkg
+PCSG00256	JP	GENIMUS	http://zeus.dl.playstation.net/cdn/JP0155/PCSG00256_00/YNgwQYmbCKYkQxWljoFRTfeJRCAQVolZOiWCIhTxRBmWjKxdZXXuSUyVFzWQpinPvwUfStHrXHfBjAFlFBdOSNPYbAUdxsjuIIvFu.pkg
+PCSG00921	JP	Geten no Hana with Yume Akari - Aizouban	http://zeus.dl.playstation.net/cdn/JP0106/PCSG00921_00/JP0106-PCSG00921_00-GETENVITAPKG0000_bg_1_e39e235d5b72c2218f4dba8963d52e50bfda7883.pkg
+PCSG00152	JP	Getsuei Gakuen: kou	http://zeus.dl.playstation.net/cdn/JP0036/PCSG00152_00/GeEBUyjOnUPqZkrRripFvCigBleFByBxuSfaRUHcOxrnfELmOBUJXekOmcibrGPIexWQYHjSXrtXTgHaNkCZyTOLifzJLxIQwYBET.pkg
+PCSG00240	JP	God Eater 2	http://zeus.dl.playstation.net/cdn/JP0700/PCSG00240_00/QmjPglAqffmHTBwbunQJscshChwcJLFMTxqgAbhzSzZATgqZhTlzGaxFHMBUMyvJryrITbUtkFVugXyVSLuGyoepncnwevQOaFvcO.pkg
+PCSG00719	JP	GOD EATER RESURRECTION	http://zeus.dl.playstation.net/cdn/JP0700/PCSG00719_00/JP0700-PCSG00719_00-DOWNLOADABLEGAME_bg_1_b07b52d6a8e5b421a60de1ef2d222028a9b59021.pkg
+PCSG00992	JP	Harukanaru Toki no Naka de 3 Ultimate (3.60+!)	http://zeus.dl.playstation.net/cdn/JP0106/PCSG00992_00/JP0106-PCSG00992_00-HARUKA3ULTIMATE0_bg_1_7ecbb566d12cd2679eabfaefd125ff259ff62dc8.pkg
+PCSG00975	JP	Harukanaru Toki no Naka de 6: Gentou Rondo (3.60+!)	http://zeus.dl.playstation.net/cdn/JP0106/PCSG00975_00/JP0106-PCSG00975_00-BBVITAPKG0000000_bg_1_408467de4b4cd624359e1df59ecf19d33433c9d0.pkg
+PCSC00078	JP	HELLDIVERS	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00078_00/JP9000-PCSC00078_00-HELLDIVERSSCEJ00_bg_1_c8b1a6c8f610983cc1ea1372d5843d754e49b62e.pkg
+PCSG00388	JP	Hideboh: Tap Dance Hero	http://zeus.dl.playstation.net/cdn/JP0369/PCSG00388_00/HuqkbfiBvRfvCpuGYNmzWouVKrdJzpHywGHXLdZSXCyCBFLHsvrZvidpCbZTbyBGLwWHyicEWqbYuVcvDHthYzAwhMJwkDHenxrAp.pkg
+PCSC00077	JP	Hohokum	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00077_00/XLhwvxqCLaxKxZpcQPVdDKfuFQsodTTPuObdPvQDKPlTdJkbIhTvSWtQNJgoGWszKhfQsCLmMxSKwcWRBiSyinAtSEcsKKhXMskxh.pkg
+PCSG80007 (APP)	JP	Hulu	http://zeus.dl.playstation.net/cdn/JA0002/PCSG80007_00/CVlBAzbCHkwfSFxBPTLwFbcAnXnEhDiRuLyPaUUZozXXUkKisABjROZGipSNvdFkEVanSqqBmwZcQdEQPuxvnLFBaIJzCHXvisaRg.pkg
+PCSG00359	JP	Infinità Strada ????????????	http://ares.dl.playstation.net/cdn/JP0095/PCSG00359_00/dNFnsPSuJAkbykBzUgzFjKceyXdtWERsBuZmxPHnmQWSaohzGJuJYhFAnbCqPTjKxSaaQVkPoqGnHisEtTWlPURCpmkOSrhGafXiD.pkg
+PCSG00104	JP	Jet Set Radio	http://zeus.dl.playstation.net/cdn/JP0177/PCSG00104_00/tzhpGgnbnIHdxQThoWKuNiPlbvrqvHprhDTfQPQjEaqMOSOwmZQAuEOXNCQsUoribflpfzVCtYrtXbTtGzZgUWTeyhlSUpgWnMrwH.pkg
+PCSC00045	JP	KILLZONE: MERCENARY	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00045_00/RBkUckveLkbJYBmTaUNxTakLmrWdZdhQHvZSCQdlzJVFhSRPqQABWtCxEpediywfiVhsuyhNzrTcpausbyZKbHPZbCMDBbZnbJhXS.pkg
+PCSG00774	JP	Kin-Iro no Corda 4	http://zeus.dl.playstation.net/cdn/JP0106/PCSG00774_00/JP0106-PCSG00774_00-CORDA4VITAPKG000_bg_1_0582a79c41a4df7e64ec91ab490d0030bba9fd11.pkg
+PCSC00086 (APP)	JP	Live from PlayStation	http://zeus.dl.playstation.net/cdn/JA0003/PCSC00086_00/kMMSxiaSxsCFzWdKUDXnevxIpmXdlrXXVXvurLHnCdzlhjfwmUIMUwojMoSjANGawwgvHDpgFUqsYaEHkbnCrxFmjrzSHPvGQZwEe.pkg
+PCSG00444	JP	Luminous Arc Infinity	http://zeus.dl.playstation.net/cdn/JP0507/PCSG00444_00/JP0507-PCSG00444_00-LUMINOUSINF00000_bg_1_ac66fb2cb7b8d664718c9b41486c0bc6e5e3da2f.pkg
+PCSG00130	JP	MALICIOUS REBIRTH	http://zeus.dl.playstation.net/cdn/JP0015/PCSG00130_00/IqCcJKAEWhciVwpBmyQMAQesarNfDhMKejUGNsklrFVKalKUcMuuNXLqQKhkprTbmNUODZhzZJzDPSqLNcXsFpfmqpRXJLPxjxCvg.pkg
+PCSG00398	JP	Meikyuu Cross Blood: Infinity Ultimate	http://zeus.dl.playstation.net/cdn/JP0745/PCSG00398_00/lUZNxqCSQywiDXrTsEnbcySXeGmAuoWSnwZmgokOkhUcWYfhCbWgnOIoIOAKVPTmzsTPNYpHTDiBNuQdFamlUMHZMoxGKELNrdjPJ.pkg
+PCSG00171	JP	Meruru no Atelier Plus: Arland no Renkinjutsushi 3	http://zeus.dl.playstation.net/cdn/JP0103/PCSG00171_00/UvgsdduiNCojcqwGUGkDwfMtUhdpFiVPEhUnvEuOVKUgaLqkUtQtorJQgDbCQBTTnwSAfkgNAHtkiRftlCFyaGQWtDLCJFOscDoku.pkg
+PCSC80017 (APP)	JP	naspocket	http://zeus.dl.playstation.net/cdn/JA0003/PCSC80017_00/NCYUOXjSXLlFEhVkAtXlJkADZcfXhZeQgWkABqYHVyUewBFKuLjZzEbSZhSezmZmiqDxYlRMNdTCUfnOKtjEocRVXOXEHkREwVXNp.pkg
+PCSD00076 (APP)	JP	NBA Game Time (has English)	http://ares.dl.playstation.net/cdn/HA0002/PCSD00076_00/DuFdQfxCpcZtwUdpKbFlHdMAJaYvMmpXyvtOncFeHhiCUtquiMyGwqEqqTvfCWLFEPRTScNDYRsPWNrmAPIRRPyEDZFUSbiUoEZRa.pkg
+PCSC80022 (APP)	JP	NHK??????	http://zeus.dl.playstation.net/cdn/JA0003/PCSC80022_00/zWPZEAULPZuAFngsQoRbwKyOdmJCuMTgolDgbfnSADwsDODdGAncPIYPQfYNadPTvjHgzmRbPAgOAhVephIWHMgzwUjPwsMdxXwhW.pkg
+PCSG00586	JP	Nihilumbra: Seimei to Shikisai no Tabiji	http://zeus.dl.playstation.net/cdn/JP0204/PCSG00586_00/JP0204-PCSG00586_00-000000NIHILUMBRA_bg_1_9ce0d51cae05648685156996520798cc5643b073.pkg
+PCSG00374	JP	Nobunaga no Yabou: Souzou	http://zeus.dl.playstation.net/cdn/JP0106/PCSG00374_00/ZVwyqedaGTAjGjLZQpDvwSiONoyDvEqNpPmPnOSKjvGzmJbnPcEmjPhsXAszVtTrLbkgjRItulhjJEADdOgbOdQJseiVKZjdGTUeO.pkg
+PCSC00060	JP	Ore no Shikabane wo Koete Yuke 2	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00060_00/JynusPrgrPGnlLDQoPoekVAwnJtUCyKrgYEiWwCHOouUXMdSkldSJEGujgogpjMuKhvpptQfKhdQChmgFkabPIOBhGHKZVLeTZuYQ.pkg
+PCSG00139	JP	PhotoKano Kiss	http://zeus.dl.playstation.net/cdn/JP0117/PCSG00139_00/JPXeCkLGinOzMBiyucUKKBTMotgbSeUaqLsOlHiXbYzfZjafeEwtQdHgtIazRwkDWWJwXLfsBlMHwIItHMZbqwHLHwoNPdsfDlNns.pkg
+PCSG00006	JP	Power Smash 4	http://zeus.dl.playstation.net/cdn/JP0177/PCSG00006_00/uSlIyQdJrEcfFJDBOOIOAHvDghxDOVsilQhBbgJqYbcqwPTyEJVfDEtuCMCwLwXLAaTwjWvTebdZFZGitIKuoXmwRdarSmhQdbRKb.pkg
+PCSG00712	JP	Punch Line	http://zeus.dl.playstation.net/cdn/JP0745/PCSG00712_00/JP0745-PCSG00712_00-PUNCHLINEGAME000_bg_1_46bbde200b7ae3b8d76a17b42f1e7e60258f2bc9.pkg
+PCSC00011	JP	Reality Fighters	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00011_00/DyHrRctLREVTpsiaIgIJHhbrDNzyhEOklLcMxFvcEwMaFEueRVnxNnPgtoNlWZJveNdjvlCXDVehoYbyOcTrVieaBUFJGWHOjiRFq.pkg
+PCSC00017	JP	Resistance: America Saigo no Teikou	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00017_00/gEzvPLzyMaJHuXRQhXWLnazPfUvNVmBHZCZjpsSULbhrNmjxVuUgbfRpfaDmhkJjADgeTAdnwzpwSqwyGoDNmqfpXoLIwPZCvdfJh.pkg
+PCSG00352	JP	"ROBOTICS;NOTES ELITE"	http://zeus.dl.playstation.net/cdn/JP0745/PCSG00352_00/HKZxoiTzmxFKNkdISSEpkJRAxDTrmOrbkOnDycDCKbfkNzPCOishfJjpFJfsMycTXgQhjcSTsNmBWNptuAmMLAUQvsLgKnQBgqGWh.pkg
+PCSG00818	JP	Rocketbirds 2: Evolution	http://zeus.dl.playstation.net/cdn/JP0186/PCSG00818_00/JP0186-PCSG00818_00-RB20000000000001_bg_1_91492e5899e9c3888e4336114d6014833604088c.pkg
+PCSG00185	JP	Rocketbirds: Hardboiled Chicken	http://zeus.dl.playstation.net/cdn/JP0032/PCSG00185_00/CympPprXJSVmkdZZqtWEbKuWtgaJNinlIBktVrWxQRrWHVErENUcHQhXjqCPNtpWBGWyBqdGGdgFpINRvEnAZdKKgcNBpVvbTKLyR.pkg
+PCSG00216	JP	Rui wa Tomo o Yobu	http://zeus.dl.playstation.net/cdn/JP0745/PCSG00216_00/ZUmOyVtziFfFvdiHSovFUSmerfKpfLxgpSeTgQPjpAPyDIaRRFeOhBAEbwcIdtxkfmHIRZCbNrUpmdxHuZkhorYwjFXCKxXqdoRUT.pkg
+PCSG00908	JP	Saki: Zenkoku-hen Plus (3.60+!)	http://zeus.dl.playstation.net/cdn/JP0741/PCSG00908_00/JP0741-PCSG00908_00-SAKIGAME00000003_bg_1_8f40e091e32a80a6bc2fc5e291c91a57643b59d7.pkg
+PCSC00007	JP	Sawari Makuru!	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00007_00/vlxNVittuyWWUtvJfXvZaDdPzbihUGvOQiOFGuoMMNqgBDqUxHXqcXZNCYYgkKDvKAtvxHUUwafjYQdIyxeolDIJdprqBOvRjIUlq.pkg
+PCSG00471	JP	Sengoku Musou Chronicle 3	http://zeus.dl.playstation.net/cdn/JP0106/PCSG00471_00/haMpUHMmgTaERliIXhcTxORvplQxMmWsXzpWePbiCwLkIcZAJOvuRdNOwrqtXXLGPclfPEUpsQRIUyvKVjHCKLFMtZPuChXqDOwyU.pkg
+PCSG00418	JP	Senran Kagura: Estival Versus - Shoujotachi no Sentaku	http://zeus.dl.playstation.net/cdn/JP0507/PCSG00418_00/JP0507-PCSG00418_00-0000000000000000_bg_1_37fff8e8cbaf09c35e407ceaa9b369bb0c0141b4.pkg
+PCSG01005	JP	Shiin (3.60+!)	http://zeus.dl.playstation.net/cdn/JP0091/PCSG01005_00/JP0091-PCSG01005_00-EXPHORROR2017HRV_bg_1_f0c19097077c7e7af94f355114343309157c68ae.pkg
+PCSG00878	JP	Shinshaku Tsurugi no Machi no Ihoujin: Kuro no Kyuuden	http://zeus.dl.playstation.net/cdn/JP0091/PCSG00878_00/JP0091-PCSG00878_00-NSOABLACKPALACE1_bg_1_491a8e438810b1345668d16ba9f98dcc0bd548f7.pkg
+PCSG00239	JP	Sora no Mukou de Saki Masuyou ni	http://zeus.dl.playstation.net/cdn/JP0745/PCSG00239_00/HbbfHhLghsDeTsxsvPRbVHlSymDAZMaqiBKmfMPZyLRXBkhdagDaEgCxnnhLNMdNyKAvytSOHgGZyKIMFOUrBNkrBIieyODvCVOws.pkg
+PCSC00049	JP	Soul Sacrifice Delta	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00049_00/NfzMucSbTtqSjfJxpKGhlXyySwfrtpcPSQUkrPHbbfBrEevqRUzbCIponhushHQViBDjDLOSBHZzfjiwJVJVKOByUqVWikfvvDZWR.pkg
+PCSC00024	JP	Sound Shapes	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00024_00/HxtZddwWRnUGcIOemVaUPicUcCEwnNtfcwmAniRbpRgjribxrRiCzSUYeXJIiOsqHhBHGCMcqCvogHaPMUeNkhPqgIXZqHGQPaUlj.pkg
+PCSG00146	JP	"STEINS;GATE Hiyoku Renri no Darling"	http://zeus.dl.playstation.net/cdn/JP0745/PCSG00146_00/XJGfuKoLufyrMAkdwvQCEuyzPWoDepuJWJOsXVOxRbzLgLfYQxjriVKeIXcchtGHDTEhZWAypXEbrbluxHPjscOUyCusCHvMXdqCE.pkg
+PCSG00063	JP	STREET FIGHTER X TEKKEN	http://zeus.dl.playstation.net/cdn/JP0102/PCSG00063_00/zBfqJAeAmuNHqmYMehOPFShYkhCSBjpQizFEZymcoJpBwOKwwUUVpsAKnsGSAwpocpjpqlPVAiIrjxanePHtTukfefGoPwKgycDyh.pkg
+PCSG00879	JP	Super Time Force Ultra	http://zeus.dl.playstation.net/cdn/JP2326/PCSG00879_00/JP2326-PCSG00879_00-SUPERTIMEFORCEUL_bg_1_f55ced31ba111b88034cac1a7b40ff339a72ab2a.pkg
+PCSG00645	JP	SUPERBEAT:XONiC	http://zeus.dl.playstation.net/cdn/JP0036/PCSG00645_00/JP0036-PCSG00645_00-SUPERBEATXONIC01_bg_1_7b48361e762fcab3023c238bb440247e8bfb3a98.pkg
+PCSG00677	JP	The Idol M@ster: Must Songs - Aka-Ban	http://zeus.dl.playstation.net/cdn/JP0700/PCSG00677_00/JP0700-PCSG00677_00-TAIKOIDOLMASTER0_bg_1_563d577f53118bd3d08e7fdde086eb92973fd0cb.pkg
+PCSG00678	JP	The Idol M@ster: Must Songs - Ao-Ban	http://zeus.dl.playstation.net/cdn/JP0700/PCSG00678_00/JP0700-PCSG00678_00-TAIKOIDOLMASTER0_bg_1_33e86da91c6825fc037d91fd20eca2b2dc19e2c3.pkg
+PCSC00085	JP	The Unfinished Swan	http://zeus.dl.playstation.net/cdn/JP9000/PCSC00085_00/rKfgIwCetpaNIjHYWiHquZaMnezxheVQCAlZRotLfrpikIXvWrEMMgPKCDCpAJEeUqZXRnLoGaBvHJCXziyKpPljsNkgglHODFOfl.pkg
+PCSG00387	JP	Tokyo Shinseiroku: Operation Abyss	http://zeus.dl.playstation.net/cdn/JP0745/PCSG00387_00/JJjdiNXDaQmIkqcRJQmKdXGTnvLbwLNqghkWbTBAedxKWqTCATtOtryJniQjiqHaRwkarIZMUFYcDpKtmBhfdPKErIeztShLbIEET.pkg
+PCSG00514	JP	Tokyo Shinseiroku: Operation Babel	http://zeus.dl.playstation.net/cdn/JP0745/PCSG00514_00/JP0745-PCSG00514_00-OPERATIONBABEL01_bg_1_795637fddc90cbe4b42e63a058b99faae1cc70c5.pkg
+PCSG00538	JP	TorqueL	http://zeus.dl.playstation.net/cdn/JP0122/PCSG00538_00/XdjWvCcVhkLwxPukaEFFIetcaPkvyEDGaBieghGpUjoYMhNfuXUmfFFSIRwrNqsdWAXAxdZHSAPtlIawmkqdVsoDPPcCVgvRKkRLj.pkg
+PCSG00127	JP	Totori no Atelier Plus: Arland no Renkinjutsushi 2	http://zeus.dl.playstation.net/cdn/JP0103/PCSG00127_00/IoMFRFEDtDugPWnKggDBzhDhhYAgQEkcRXwwhkUBPdyosvmjLaRvwfcliWMbFxmDdBRmRBZSviASlmhQFLJEmJHMqOitngywkgVDK.pkg
+PCSG00193	JP	Toukiden	http://zeus.dl.playstation.net/cdn/JP0106/PCSG00193_00/ICsCoPBaYlQurjmnELMFyYdLwxGUJNNShEHhzYaCCCFZcelIucBVvZpJjawiZLjeqflmabKobPqkNKVrpUoCvlvWdGlJfpzoGWUXW.pkg
+PCSG00379	JP	Toukiden: Kiwami	http://zeus.dl.playstation.net/cdn/JP0106/PCSG00379_00/lgduXNsEjMRDNgoxFFxDsXkFRhbSRgqsAHFKbHRkRXsbkywxEGhfIBCOyRyeVAsLnsvKVmRLiwARvHvnfopTjXuPCiHSCJfYSOCQF.pkg
+PCSG00011	JP	ULTIMATE MARVEL VS. CAPCOM3	http://zeus.dl.playstation.net/cdn/JP0102/PCSG00011_00/wjadGItcwsdSiWpfhAHtRwrjXbEXPNnZTGzPjIAvQIglYaSeonIpOhAwLknhmBlKzjXJAWIeKWfBLPfYhgAqknApzIrNBmaPGRQbe.pkg
+PCSG01112	JP	Undertale (3.60+!)	http://zeus.dl.playstation.net/cdn/JP0215/PCSG01112_00/JP0215-PCSG01112_00-TF000000PSVJP084_bg_1_112fca49f80f0bc492ec886472205a782d6df2c9.pkg
+PCSG00838	JP	Utawarerumono: Futari no Hakuoro	http://zeus.dl.playstation.net/cdn/JP0761/PCSG00838_00/JP0761-PCSG00838_00-UTAWAREFUTARIORO_bg_1_f7a1c5e84fd325010d0dcf8a237127f7408e72de.pkg
+PCSG00617	JP	Utawarerumono: Itsuwari no Kamen	http://zeus.dl.playstation.net/cdn/JP0761/PCSG00617_00/JP0761-PCSG00617_00-UTAWAREITSUKAMEN_bg_1_76a5894a9efb95553f78f835fdbc18e1711c4f7b.pkg
+PCSG00307	JP	Valhalla Knights 3 GOLD	http://zeus.dl.playstation.net/cdn/JP0507/PCSG00307_00/BqZFLEDwnIbwyeChuEqyScnJHRQaffnQXnZmiazwOwPmmTuehiQykcLJDbKhaozsqBFxMraamKeZjweGLVhbyHHKGgavkKuTxwvQj.pkg
+PCSG00136	JP	XBLAZE Code: Embryo	http://zeus.dl.playstation.net/cdn/JP0036/PCSG00136_00/LKuAfzeVCToqfynCeOFIwExNskiMFqtQAKZWDnOxtoihPdScsUNkuZKRdJEuJJEaoynggcWMZgTYpCUrlmbmQWmeKyeSYYMahmeNx.pkg
+PCSD00061	TW	Destiny of Spirits : Asia ???	http://ares.dl.playstation.net/cdn/HP9000/PCSD00061_00/pBfsSPbTFzdCYxQEeONYomGjsPeHsKWjTllFSZwBKyIpOGESCEqoCubQNxizfxKTxfKeTgobZNMiGWACZISVKwzybxCNNxIZJDqtS.pkg
+PCSD00020	TW	Treasure Park	http://ares.dl.playstation.net/cdn/HP9010/PCSD00020_00/JhqywqltuJIrLMPQxGQwWFGECapClpWuDHXhrDoMBsBddEdezBdBkhkFjeTUHgIHNEiXorizZcuftCHCopuYczKsOjGfbosnHyvGp.pkg
+PCSD00001	TW	UNCHARTED: Golden Abyss™ ???	http://zeus.dl.playstation.net/cdn/HP9000/PCSD00001_00/HNXdJdPgxpnUitGMRhTRBblFvDjNcTwKEAAwPrfHiRoJgYCFtYBxmwuDfUwmhdTtAcJmhuMfOzISvYyefuRxvWqzeXbVdSLtofwSH.pkg
+PCSH00087	TW	???????? ???	http://zeus.dl.playstation.net/cdn/HP0106/PCSH00087_00/qWmJEyQyowlWpglYWLDwcJCjWRNoBbhTJTZGNsDWijumBdQPSQpTJNrygatvmVnoIGfWFbXVXCHdDWVBNuFeSenBTRHAvjnpxkxdR.pkg
+PCSE00386	US	Backgammon Blitz	http://ares.dl.playstation.net/cdn/UP4437/PCSE00386_00/jMaVaTcBdpYhAhoGJZGYPJPfUJdPIQuDnzeBFIrZXgDAquShmdpJbQLdojJIePAW.pkg
+PCSE00792	US	DARIUSBURST Chronicle Saviours	MISSING
+PCSE00627	US	XBlaze Lost: Memories	http://zeus.dl.playstation.net/cdn/UP1024/PCSE00627_00/UP1024-PCSE00627_00-XBLAZE2VITAUSA00_bg_1_7df40682bafccb7189fed733179b9f841ec4c5bb.pkg
+PCSE00436	US	The Treasures of Montezuma 4	http://zeus.dl.playstation.net/cdn/UP4235/PCSE00436_00/UP4235-PCSE00436_00-MONTEZUMA400000U_bg_1_02e0514bf4356412b16eeee2f5327e647b8be856.pkg
+PCSG00409	JP	????????????????V??????????RPG?-????????????- / Chain Chronicle V	http://ares.dl.playstation.net/cdn/JP0177/PCSG00409_00/ENGxIgIYKSuRSfnQCpPPANremFgjjTROXHMceQneJwtzuyzDRhHnqOUUpSxTStlxDgrbRFxzlxNQMUrCUgTWPXfOUhWyUzTCPnOuZ.pkg
+PCSG00332	JP	(@Simple V Series Vol. 1) The Docodemo Gal Mahjong	http://zeus.dl.playstation.net/cdn/JP0367/PCSG00332_00/WvJNrWubjmZLXycJKLLkaiywOohNwNNVAgcHnrpmRiPxDcwMsIvgBkWiYhPCPBWWSomvUNzUgdSgzMKZsbugfjIrlYGMQkmSmDrby.pkg
+PCSB00641	EU	htoLNiQ: The Firefly Diary	http://zeus.dl.playstation.net/cdn/EP1063/PCSB00641_00/BxeLubindLSXQWqSQGHPwHrAACIqSXEiXfQWBurRLYgrcGjjDnMhurjbmCMDSkLh.pkg
+PCSF00658 (APP)	EU	Live from PlayStation	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00658_00/rqrwIQBdDSqzWMPEvyelYCIlmqFokkMnmZhnMSDuejcWfDGCSQQVihjezBHlVvRu.pkg
+PCSF00123 (APP)	EU	LiveTweet	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00123_00/ogKgOvhQBWFzZuAPOzWoBLqgSORptpyOkGwDlCtpheFkFTLMteXRCVtFCEigpICQ.pkg
+PCSF00122 (APP)	EU	Flickr	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00122_00/BGUfrumoTuscGSVYMDFmBORyQhLgXDAMgjgCKmHXApPTHyCgcathSEZfRggafFSx.pkg
+PCSB00455	EU	Disgaea 4: A Promise Revisited	http://zeus.dl.playstation.net/cdn/EP1063/PCSB00455_00/VgRfXsgNJWmgAVteccPKZNwmORNMSGfEhTyRGQUGgLWnbsphjoFvaFVGPbtfqsJL.pkg
+PCSE00303 (APP)	US	Crunchyroll	http://ares.dl.playstation.net/cdn/UP2074/PCSE00303_00/XidcNbZApVkFBghcQsDNXdwWTuUrgZlqGTzybBiagdexhMdTVOQUzjfUzSqEPiNw.pkg
+PCSG00224	JP	Puyo Puyo Tetris	MISSING
+PCSH00250	AS	Dead Or Alive Extreme 3 Venus	MISSING
+PCSH00261	AS	Digimon World - Next Order	MISSING
+PCSC00052	JP	Miku Miku Hockey	MISSING
+PCSB01011	EU	Valkyrie Drive Bhikkhuni	MISSING
+PCSA00050	US	Frobisher Says!	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00050_00/uJOOTYmMAaxoXqmLgUmcADKrhNznmAiQorTjPsLwxteqVMdyFHrMOILoOnsPWQLeAGCGozRqwNjYJztwimbNpdipOCeaVbBQjhIWi.pkg
+PCSE00421	US	Get Off My Lawn!	http://zeus.dl.playstation.net/cdn/UP2043/PCSE00421_00/GTqJCjsUAOYvXTOpxRSurACFpINYLpHpkbAOFNGLdLkDHkBRVwjTBOJAjIzjbAxv.pkg
+PCSA00007	US	Hustle Kings	http://ares.dl.playstation.net/cdn/UP9000/PCSA00007_00/qAbinVGrxDDnxZEBctdOskdIXlBonwWeDDNCaBvBXIwTIKDSrzPdApyPkoYxSaPHrvRovSgtbKFPBhjjbQMsldUzFznyxEqxUXEOk.pkg
+PCSB00511	EU	Hotline Miami 2: Wrong Number	http://zeus.dl.playstation.net/cdn/EP3643/PCSB00511_00/EP3643-PCSB00511_00-HOTLINEMIAMI2000_bg_1_f5820f4191ad5156fde296fa7c8c130fa23bf633.pkg
+PCSA00113	US	Imaginstruments	http://ares.dl.playstation.net/cdn/UP9000/PCSA00113_00/iHrFKExGVqQCdFwBGZtOZHtNaZBbKKuwKSRNqzaqRhWqilitWzYklGnzMNVHAjKnJwwUcMscpkTzMUUREBzhzmylYifaFYRZzcRNz.pkg
+PCSA00067	US	Wake-up Club	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00067_00/OrjBtJfRUxllHoFnGiVIivhYcVJzKSLJjPpKTGcIFyeiWroeHKztmdrMxulWTyrjjaaURdJQSupetliyrWrOajFFBVXBhXtvJsDcy.pkg
+PCSE00364	US	WeatherNation	http://zeus.dl.playstation.net/cdn/UP2170/PCSE00364_00/UP2170-PCSE00364_00-WEATHERNATIOVITA_bg_1_30182fdd15b624fc8eb63298a632f1dbcc9f4521.pkg
+PCSA00075	US	When Vikings Attack!	http://ares.dl.playstation.net/cdn/UP9000/PCSA00075_00/pfiXCJDTlZCVaSBhhMgqaXKarlputCDyeIwOUpVvswLzXYFAmEGblDRwXqQEgPIagsPVHueWAtWJIqCJfkSBpAlEJEObaGOuMmslT.pkg
+PCSE00038	US	Velocity Ultra	http://ares.dl.playstation.net/cdn/UP4143/PCSE00038_00/cCAHimmzHPlIhyhyLgbSlceesNFUAOhXfskeQkkUYGkMmsWWCjmxWzxGlkvzzoJV.pkg
+PCSA00088	US	UNCHARTED: Fight for Fortune	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00088_00/cDISPOyaBqDxkPabuwxoJTqmPlZldUnipPgTNfqnEwHeWSdOAaTUGIpHDdOYELUbFLPXsKIcDsqVoNFQsxgamXjZZEPQLUHeCdBZe.pkg
+PCSE00304	US	TUNEIN RADIO PS Vita	http://ares.dl.playstation.net/cdn/UT0020/PCSE00304_00/OddRFjkEZrMeMuoFfjiFlGZAmjxJmxtUIFApAqbjZInWOrfobzDAUsYqOBMhVdAi.pkg
+PCSE00312	US	Tennis in the Face	http://zeus.dl.playstation.net/cdn/UP4403/PCSE00312_00/UP4403-PCSE00312_00-TENNISINTHEFACEE_bg_1_23d25d7e523d54558f213684d0437ac365fb8d98.pkg
+PCSE00680	US	Sparkle Unleashed	http://zeus.dl.playstation.net/cdn/UP4403/PCSE00680_00/UP4403-PCSE00680_00-SPARKLEUNLEASHED_bg_1_ba1f5b77e8600e0260068f55e9ad200a87eb23bf.pkg
+PCSB00507	EU	Switch Galaxy Ultra	http://zeus.dl.playstation.net/cdn/EP4460/PCSB00507_00/EP4460-PCSB00507_00-SWITCHGULTRA0000_bg_1_5499dd3a2488ab4f101c580207db993ee8b3373c.pkg
+PCSE00295	US	Sparkle	http://ares.dl.playstation.net/cdn/UP4403/PCSE00295_00/MCgDlwnUdYvxkWeEoXiStgaeHyvmjAeZNvODqPmqaHTajXKlOSzvtWDYCPXFOzIJ.pkg
+PCSE00454	US	Sparkle 2	http://ares.dl.playstation.net/cdn/UP4403/PCSE00454_00/JgltQnFdhPFKMFoHFzPjyaxBfIQhzWtwNTVxIzVyhUzZirhXybvBHFFgDpHajaUz.pkg
+PCSB00203	EU	Retro City Rampage	http://ares.dl.playstation.net/cdn/EP2077/PCSB00203_00/WPUTfrpPZANHfuJwwwTbIxbuUZALurDdwSdCeNWGGNigYvTqfbSYXBZdDXxEvkFm.pkg
+PCSE00513	US	Rollers of the Realm	http://zeus.dl.playstation.net/cdn/UP0005/PCSE00513_00/jQjXoASZgieEwhqhTSJOzQTyfyBNjiKwmsgJDcCMXXkFnqAtKqOYYDHbuoQCwvIj.pkg
+PCSE00042	US	Puddle	http://zeus.dl.playstation.net/cdn/UP4115/PCSE00042_00/OfhjsocNFNYUDBjnzxgiqCHNqEFpkQPGJksSVzJblsibzcZcOBGMDUqLuuPjlFfnqFPACobuTEcmbqKLBaGOxAKJriCPzFIhMbfem.pkg
+PCSA00109	US	Pinball Heroes: Complete	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00109_00/KKJmDNfIkALSEwNmtcGzKOpeERGjcdjiaRmPwhRSBeaNpcGDXUkvRnrTUukHTSosVxAKxNYjTKKbRzauNJxEaMrrmgrUiLHLOKrVW.pkg
+PCSA00059	US	Paint Park App	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00059_00/qkWPAKHIMpxVfgHlihCfcweufgimgvPkJzjqibZKaNKjiPzGcXOQHaZsCgUWqKOrklgDuKlvGnSMKegpyleDZHkfEoUXjQTCCHKrJ.pkg
+PCSB00825	EU	Octodad: Dadliest Catch	http://zeus.dl.playstation.net/cdn/EP2104/PCSB00825_00/EP2104-PCSB00825_00-OCTODADDADLIESTC_bg_1_4d66701e6feef86ad5fe49ed58db622b1f4cc98e.pkg
+PCSE00418	US	NHL	http://zeus.dl.playstation.net/cdn/UT0026/PCSE00418_00/vHYjqzJbaTjrKrXbGvTzmmFooUQRKaxNXBnFHlgSZLyxbueoeMNnQdvYZCnyTiun.pkg
+PCSE00074	US	niconico	http://zeus.dl.playstation.net/cdn/UP2069/PCSE00074_00/RgplURbIboxgfaezgdeMpTYGDcZXPjAmXewOAVYUFYuMUeSafyjBukoaCLMQYzOVCvXsXlVLtlYCZSyLwbDKdpjvBhZfzAuMTJLBv.pkg
+PCSA00034	US	MotorStorm RC PS Vita	http://ares.dl.playstation.net/cdn/UP9000/PCSA00034_00/cumCDwiIpODgutrqHWFZvfPMnXTrCvioAZnmckRqEbJookJxsUbtMpYxvtUHLqVPSOBXagYvBOblDmJFPGOTkBQnEqblyvrWGtgeC.pkg
+PCSE00654	US	MLB.TV PREMIUM	http://zeus.dl.playstation.net/cdn/UP0181/PCSE00654_00/UP0181-PCSE00654_00-MLBTVPSVSTREAM15_bg_1_1f59e8ad363fe922132def480be393848e8bfe60.pkg
+PCSA00045	US	LiveTweet	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00045_00/ahPauQDFGSHebjTunswwhkEMPKavxxfykYJjYTUCoxXRgMwjDFJKEKTuwIbINgBiRVuggleSdhIEEEekYJfJRNWbiFDDgEHncGJzL.pkg
+PCSE00315	US	King Oddball	http://ares.dl.playstation.net/cdn/UP4403/PCSE00315_00/qsqJkRtrBEvYYSzlBHpqNPoVEXUMUvIYmodTaIghPpdFEJfLNnrYwfadPFUGVqJw.pkg
+PCSB00313	EU	Men's Room Mayhem	http://ares.dl.playstation.net/cdn/EP4337/PCSB00313_00/KVcDhoLRjrhEVFjquAFenPVbNLozNoXiRVFqmmIlTGiTTpLRxAfxTHWKtFZzBOrP.pkg
+PCSB00687	EU	Home - A Unique Horror Adventure	http://zeus.dl.playstation.net/cdn/EP4538/PCSB00687_00/EP4538-PCSB00687_00-000000000HOMEPSV_bg_1_0f11cbed54bafa9a585a5da84a93b22a1cc172d2.pkg
+PCSA00046	US	Flickr for the PlayStation Vita system	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00046_00/HjksVeWLxkAQUfqWPGgTjFbfPcGCpEtbIEWMfqRtKVKNMzvdLdJiPeiBZhgGUYFrvRGTyzngKWXMEpYtngaMgLZZpoAmKqPkIYEQk.pkg
+PCSB00328	EU	Floating Cloud God Saves the Pilgrims in HD!	http://zeus.dl.playstation.net/cdn/EP4290/PCSB00328_00/wQWAKhuhrxRRIaTxGpaHtdUeXdcFXyoNsFSPGkGsvxBRPODXhYDqEvGVBVWoWuvg.pkg
+PCSA00156	US	Fat Princess: Piece of Cake	http://ares.dl.playstation.net/cdn/UP9000/PCSA00156_00/LYGWQTgZqsRpEUsSoSTauJJZdqdzbiIkZiJQLLmpTbQMtGhcpSjdWxvrQfNgxjwF.pkg
+PCSE00795	US	DramaFever	http://zeus.dl.playstation.net/cdn/UP8903/PCSE00795_00/UP8903-PCSE00795_00-DRAMAFEVER000100_bg_1_2c03d1aaabed9065d839478b91254895793a331e.pkg
+PCSA00087	US	Ecolibrium	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00087_00/mUTJYbYUwTSUAHnMQInNlXaSUhgVUzXfmCUYPHvQjdUfersxioADZjFxKvcGIOaFuPembSfXsSciJZfQlpBTxURgEIjGKXUbgbtPi.pkg
+PCSE00542	US	Desert Ashes	http://zeus.dl.playstation.net/cdn/UP2188/PCSE00542_00/UP2188-PCSE00542_00-NTDDASHES0000100_bg_1_a913da5b3315b5aa8f89b77dd940f794c8d06ad4.pkg
+PCSE00133	US	Doodle God	http://ares.dl.playstation.net/cdn/UP4384/PCSE00133_00/VOGuEUNYqYnxAbUPDnNmbgSmHGOnBILNMfhhyNVheQJScdojlmzeRBeqvIsZpAVt.pkg
+PCSA00117	US	Doki-Doki Universe	http://ares.dl.playstation.net/cdn/UP9000/PCSA00117_00/VhloEeCmKaDUHWWozgVrGzHuLPFnxJTxOoSvvlgeoMRkMquRIZPZQHkfegaXIYLj.pkg
+PCSE00123	US	Colors!	http://ares.dl.playstation.net/cdn/UP2076/PCSE00123_00/NiQPhBErUreektBFDlsXMqhOojTUHtsarnUxMUWUoqNCtQbTHnjepnnWMYgQhOiI.pkg
+PCSE00291	US	Crazy Market	http://zeus.dl.playstation.net/cdn/UP4178/PCSE00291_00/UYiNCsrkmeAIuXfkqvQvrXxpfnNvlAfUrqbyBcvmibVjFSFJckaEqMtVuafgQlvx.pkg
+PCSE00232	US	A-men	http://zeus.dl.playstation.net/cdn/UP4176/PCSE00232_00/fgcTnrIklUaUeefOmUFQRYSqfpeYTPYGwiMvbYcdRZCwgiYCWHhjthMjiSJnWpXZ.pkg
+PCSE00274	US	Atomic Ninjas	http://ares.dl.playstation.net/cdn/UP4151/PCSE00274_00/CbixbHomzQmoUpuPOBUrccXdvNzZhTRWkrcbjgeMnYYNJWMKWpwAZkNhSMuIFRur.pkg
+PCSE00834	US	Baseball Riot	http://zeus.dl.playstation.net/cdn/UP4403/PCSE00834_00/UP4403-PCSE00834_00-BASEBALLRIOT0000_bg_1_08fdcfe7474ea92da5b2f8d4e75ef1ab5e21ab81.pkg
+PCSE00377	US	Best of Arcade Games	http://zeus.dl.playstation.net/cdn/UP4008/PCSE00377_00/xPKMWvSMLdIQDXRVXEzatsGtREWnRypgtjhHqcdpAHtppIqQFvadbnIEMwAONSww.pkg
+PCSE00378	US	Best of Board Games	http://zeus.dl.playstation.net/cdn/UP4008/PCSE00378_00/IUJVfcvlaQSlkncEjPsSkvizPMkPCBYAdXfWahlQHbhGTEMmdpRBXIDDingIrXfq.pkg
+PCSE00267	US	Coconut Dodge Revitalised	http://ares.dl.playstation.net/cdn/UP4143/PCSE00267_00/uvYvqCOQPAIAjZLFlJqNKVyKGZHjcgdAdVHWbOCcLbIxaWqYycyTtWgqDdjCXuNV.pkg
+PCSE00472	US	Another World - 20th Anniversary Edition	http://zeus.dl.playstation.net/cdn/UP4489/PCSE00472_00/xKxxvFWcKPxePbaavcAxkMOWCRyfRFWhdKwdJhmDhlxoeYVeptsyDkTeQqaKQzQQ.pkg
+PCSE00033	US	Guacamelee!	http://ares.dl.playstation.net/cdn/UP2045/PCSE00033_00/WJbbRXmDqYHMTrIRhhvcSvuMwCtAjBnueuKhRSJJOjtjfXpOcxIlhUBePnjElJMe.pkg
+PCSE00088	US	Jet Set Radio™	http://zeus.dl.playstation.net/cdn/UP0177/PCSE00088_00/UgmJfXlUwVABzWvWZVHotvymDXrOlRXodPSDrXLbTkvHmFzPiDbHzQtPNPBbfKQd.pkg
+PCSE00301	US	Lone Survivor: The Director's Cut	http://zeus.dl.playstation.net/cdn/UP4395/PCSE00301_00/VFOhcaTzerXxOkPoumXzoNObxaFSpXZFooAZkVXrscxWnwyEuXgllgIyDPRRfHVy.pkg
+PCSE00678	US	NekoBuro - Cats Block	http://zeus.dl.playstation.net/cdn/UP4115/PCSE00678_00/UP4115-PCSE00678_00-SCEANEKOBUROCATS_bg_1_6c9282eb1c9f84429aa2488c84c7bd0edaab7b11.pkg
+PCSE00541	US	Rock Boshers DX: Director's Cut	http://zeus.dl.playstation.net/cdn/UP4501/PCSE00541_00/UsEbwxBmqDQDbvJIkiMtabcMXBwohRKYNZirCbvLHrZaaYGgSpTDiwsyaNtAbhrI.pkg
+PCSE00233	US	Ninja Gaiden Sigma 2 Plus	http://zeus.dl.playstation.net/cdn/UP4108/PCSE00233_00/CIjiSydCXGLccMVZHLhJxcssTVbCsyghGLmcURAaHNaqOlIIddKDYXhTkxGymdGP.pkg
+PCSF00351	EU	BigFest	http://zeus.dl.playstation.net/cdn/EP9000/PCSF00351_00/EP9000-PCSF00351_00-BIGFEST000000001_bg_1_e763225e99d3abb0fdb7cdb8cb7ae921974317a7.pkg
+PCSB00396	EU	Dragon Ball Z: Battle of Z	http://zeus.dl.playstation.net/cdn/EP0700/PCSB00396_00/tzWiOTZEvjAJOEYUICBnJvlgntrKUlaXpseLWFVfxcEgftodRMIFsthXSvQtDfZi.pkg
+PCSE00529	US	MotoGP 14	http://zeus.dl.playstation.net/cdn/UP0700/PCSE00529_00/XQkPkqaqkZAiMYCEikJisDysjzjhqDlJayMKlbQpRWYVDOGNDFBFgAdSrnCOvrgZ.pkg
+PCSA00118	US	Open Me! Trial Pack	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00118_00/PXNflRvprDaHNbpxwnqcGTovqBSPusWlpBvYvLPEsdYkTjBHWvMzxOUFRWRzyhhaAZouAXDZnUImYpBazQdSPDAvgRnqQqDKEhyuq.pkg
+PCSA00111	US	Paint Park Plus	http://zeus.dl.playstation.net/cdn/UP9000/PCSA00111_00/eMejCBGCmyTgXjfozOXhbHxdKECclWOFseXJLDKisZbLNhFhXhWrGxlDKyfgQdJvSONlzPFnHaYEfNQVlBHfBVozPcOFgoQCmpfMT.pkg
+PCSE01066	US	Toukiden 2 Free Alliances Version	http://zeus.dl.playstation.net/cdn/UP4108/PCSE01066_00/UP4108-PCSE01066_00-TOUKIDEN2F2P0000_bg_1_85e0db595776ca4898ef3d07df447e99a4af67f8.pkg
+PCSE00791	US	LEGO Star Wars: The Force Awakens	http://zeus.dl.playstation.net/cdn/UP1018/PCSE00791_00/UP1018-PCSE00791_00-LEGOFORCEAWAKENS_bg_1_80fae89be1f1b24b657e2e3177036899ba30ceab.pkg
+PCSE00839	US	Funk of Titans	http://zeus.dl.playstation.net/cdn/UP8906/PCSE00839_00/UP8906-PCSE00839_00-0000000000000001_bg_1_6d84d1b5741fcc41d6ad3631af2ecc3c3dd3573a.pkg
+PCSE00941	US	Exile's End	http://zeus.dl.playstation.net/cdn/UP1023/PCSE00941_00/UP1023-PCSE00941_00-0000000000000000_bg_1_d21eb4d26e5c1a68dc4937aaf4d06476bc659ba0.pkg
+PCSE00395	US	Ethan: Meteor Hunter	http://zeus.dl.playstation.net/cdn/UP4425/PCSE00395_00/oAfwcrsVsnMEyCPYeZTCRptJZggcNwCjOTxwnnpMNsVthiyPNakmiMieEIMJIftf.pkg
+PCSE00587	US	LEGO Jurassic World	http://zeus.dl.playstation.net/cdn/UP1018/PCSE00587_00/UP1018-PCSE00587_00-LEGOJW0000000001_bg_1_67cf06320251d40bf2d277d7e467ba2a2b73e2ee.pkg
+PCSE00982	US	My Name is Mayo	http://zeus.dl.playstation.net/cdn/UP0307/PCSE00982_00/UP0307-PCSE00982_00-MYNAMEISMAYO0000_bg_1_47a34052fd1b79c5147946129ed29827fca78d99.pkg
+PCSE00220	US	Nun Attack	http://zeus.dl.playstation.net/cdn/UP4096/PCSE00220_00/orgvFBrpBmXTwmRJAsRPDOWSyEcnmUAqbZpXjgGrylsLbSCLcCSqaDCiYjCcoqgx.pkg
+PCSE00036	US	Wanted Corp (3.60+!)	http://zeus.dl.playstation.net/cdn/UP4129/PCSE00036_00/UP4129-PCSE00036_00-WANTEDCORPNGP000_bg_1_e3e72e10090b0a4e13434115eec64402a6244b32.pkg
+PCSE00771	US	Taco Master	http://zeus.dl.playstation.net/cdn/UP0388/PCSE00771_00/UP0388-PCSE00771_00-TACOMASTERKAXANG_bg_2_7dd9abd2bd70d1ce993a07b9d708aac29cef3961.pkg
+PCSE00929	US	Stranded: A Mars Adventure (3.60+!)	http://zeus.dl.playstation.net/cdn/UP1807/PCSE00929_00/UP1807-PCSE00929_00-STRANDED00001000_bg_1_43c01781a9931ef8438aa7ee5ff55478eea80505.pkg
+PCSG00346	JP	Genkai Tokki: Moero Chronicle	MISSING
+PCSE00788 (APP)	US	Twitch	http://zeus.dl.playstation.net/cdn/UP8902/PCSE00788_00/UP8902-PCSE00788_00-TWITCHPSVAPPSCEA_bg_1_87990589b6212ab1fb654f132d44459ef883dd63.pkg
+PCSE00974	US	Slain: Back from Hell (3.60+?)	http://zeus.dl.playstation.net/cdn/UP2187/PCSE00974_00/UP2187-PCSE00974_00-0000000000000000_bg_1_e9d63bb98fe3a88655c64c032fe5efc90bbc12ea.pkg
+PCSE01097	US	Oceanhorn: Monster of Uncharted Seas (3.60+?)	http://zeus.dl.playstation.net/cdn/UP0760/PCSE01097_00/UP0760-PCSE01097_00-OCEANHORN0000001_bg_1_12f0692b2bb34a527b09ed3b04e4e0bebb440587.pkg
+PCSE00116	US	Orgarythm	http://zeus.dl.playstation.net/cdn/UP1023/PCSE00116_00/jgXGwNqeMmVCNoHKXGkhsTFxDQvaCNOKuQFJfaMfzfQArsaCdoSNeBIepzRTxUKj.pkg
+PCSE00950	US	Shantae: Half-Genie Hero (3.60+)	http://zeus.dl.playstation.net/cdn/UP1023/PCSE00950_00/UP1023-PCSE00950_00-SHANTAEHALFGENIE_bg_1_2f55334726aab28567d9deeb845fe5540c021924.pkg
