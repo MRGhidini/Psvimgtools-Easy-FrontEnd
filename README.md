@@ -32,7 +32,7 @@ You need the NoNpDrm plugin in your vita.
 
 # PFS Decrypt
 
-For decrypt Games, DLCs SAVEDATA and TROPHY including 3.61+
+For decrypt Games, DLC, SAVEDATA and TROPHY including 3.61+
 * First you have to extract a pkg using the option "Extraction of PKG to NoNpDRM"
 * Put the extracted pkg in the PFS folder, and use the "PFS Decrypt" option to extract PFS from your file.
 In the PFS folder, you have two .txt files, one is GAME.txt and the other is DLC.txt, they contain the necessary ZRIF. You can add more ZRIF, just by adding the separate GAMEID + ZRIF separated by semicolons.
