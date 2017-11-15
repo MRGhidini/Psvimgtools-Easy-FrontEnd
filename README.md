@@ -30,6 +30,14 @@ Just download pkg, if you want suggestions there is a list in the file Download.
 In the PKG folder, you have a list of suggestions for downloading from the Zeus list, with the zRIF already added to the ListKey.txt file.
 You need the NoNpDrm plugin in your vita.
 
+# PFS Decrypt
+
+For decrypt Games, DLCs SAVEDATA and TROPHY including 3.61+
+* First you have to extract a pkg using the option "Extraction of PKG to NoNpDRM"
+* Put the extracted pkg in the PFS folder, and use the "PFS Decrypt" option to extract PFS from your file.
+In the PFS folder, you have two .txt files, one is GAME.txt and the other is DLC.txt, they contain the necessary ZRIF. You can add more ZRIF, just by adding the separate GAMEID + ZRIF separated by semicolons.
+
+
 # Automatic Clone PSP games
 
 Added ability to clone PSP games, doing all the work, automatic
