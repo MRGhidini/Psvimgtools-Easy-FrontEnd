@@ -92,3 +92,11 @@ The program will look for the APP / Games in EXTRAIRAppGame and recreate in PSvi
 
 In this option, it searches all APP in the root of the APPGAMES folder list program in a listbox, and after selecting loads within Ps vita / APP
 
+## Special thanks  
+- Team Molecule / Yifanlu
+- Motoharu for psvpfstools
+- Codestation for QCMA
+- DaveeFTW for cracking CMA keys. (cma.henkaku.xyz)
+- St4rk, weaknespase and everyone involved in PkgDecrypt. For zRIF string decode/inflate code.
+- Hackinformer for pkg list and all its publications
+- Nukasnel / Bergot / Danilo for test
