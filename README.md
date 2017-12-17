@@ -107,4 +107,4 @@ In this option, it searches all APP in the root of the APPGAMES folder list prog
 - DaveeFTW for cracking CMA keys. (cma.henkaku.xyz)
 - St4rk, weaknespase and everyone involved in PkgDecrypt. For zRIF string decode/inflate code.
 - Hackinformer for pkg list and all its publications
-- Nukasnel / Bergot / Danilo / Codebreaker for test
+- Nukasnel / Bergot / Danilo / Codebreaker / chronoss09 for test
