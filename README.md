@@ -2,7 +2,7 @@
 
 This is a graphical interface for the PSVIMGTools Team Molecule / Yifanlu Which is a tool that can be used to decrypt and extract backup files PSVita (.psvimg) You just need to know the AID (QCMA Key) of the account that created the backup,
 
-This works on all firmwares to date, including 3.65. And probably all future firmwares
+This works on all firmwares to date, including 3.65 / 3.67 / 3.68. And probably all future firmwares
 
 # Requirements
 
