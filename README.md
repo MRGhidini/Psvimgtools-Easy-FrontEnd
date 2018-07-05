@@ -19,6 +19,16 @@ https://codestation.github.io/qcma/
 
 Clicking on the magnifying glass, the program automatically searches for the last key used by QCMA! Or you can inform it manually!
 
+# Auto H-encore
+
+FrontEnd for h-encore automating all steps with just one click
+All steps of TheFlow's work have been automated in this frontend, the steps can be found here: [*TheFlow h-encore steps*](https://github.com/TheOfficialFloW/h-encore#installation) 
+To use the automatic mode below:
+* 1 - Download the vulnerable DRM-free demo of [**Bitter Smile**](http://ares.dl.playstation.net/cdn/JP0741/PCSG90096_00/xGMrXOkORxWRyqzLMihZPqsXAbAXLzvAdJFqtPJLAZTgOcqJobxQAhLNbgiFydVlcmVOrpZKklOYxizQCRpiLfjeROuWivGXfwgkq.pkg) 
+* 2 - After downloading, place the pkg in the path below inside the program (C:\Program Files (x86)\PsvimgToolsEasy\Psvimgtools Easy FrontEnd\PKG-h-encore)
+* 3 - select the account IDQCMA and click on the option "Extraction of pkg to h-encore"
+All the work was done automatically and now it's just connect the psvita with QCMA and pass the app to vita.
+
 # Extracting of pkg to NoNpDrm
 
 Just download pkg, if you want suggestions there is a list in the file Download.txt, after download put your file.pkg in the PKG folder, if there is a zRIF add to the file ListKey.txt: ex: Title_ID;zRIF
@@ -106,5 +116,6 @@ In this option, it searches all APP in the root of the APPGAMES folder list prog
 - Codestation for QCMA
 - DaveeFTW for cracking CMA keys. (cma.henkaku.xyz)
 - St4rk, weaknespase and everyone involved in PkgDecrypt. For zRIF string decode/inflate code.
+- TheFlow for H-encore 
 - Hackinformer for pkg list and all its publications
 - Nukasnel / Bergot / Danilo / Codebreaker / chronoss09 for test
