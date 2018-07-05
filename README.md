@@ -28,7 +28,7 @@ To use the automatic mode below:
 * 2 - After downloading, place the pkg in the path below inside the program (C:\Program Files (x86)\PsvimgToolsEasy\Psvimgtools Easy FrontEnd\PKG-h-encore)
 * 3 - select the account IDQCMA and click on the option "Extraction of pkg to h-encore"
 All the work was done automatically and now it's just connect the psvita with QCMA and pass the app to vita.
-* TUTORIAL in Ingles [GamersRebirthDL - Youtube ](https://www.youtube.com/watch?v=pa1bS-4Az_E&feature=youtu.be)
+* TUTORIAL in English [GamersRebirthDL - Youtube ](https://www.youtube.com/watch?v=pa1bS-4Az_E&feature=youtu.be)
 * TUTORIAL in Portuguese [RobertGhidini - Youtube ](https://www.youtube.com/watch?v=gP70sZA2Vwc)
 
 # Extracting of pkg to NoNpDrm
