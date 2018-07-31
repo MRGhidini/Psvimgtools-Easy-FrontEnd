@@ -24,8 +24,13 @@ Clicking on the magnifying glass, the program automatically searches for the las
 FrontEnd for h-encore automating all steps with just one click
 All steps of TheFlow's work have been automated in this frontend, the steps can be found here: [*TheFlow h-encore steps*](https://github.com/TheOfficialFloW/h-encore#installation) 
 To use the automatic mode below:
+
+* 0 - The tool checks if the game has been downloaded, if it was not, the tool asks you if it can download automatically, if you choose yes, you can skip to step 3 
+
+Step 1 and 2 are optional
 * 1 - Download the vulnerable DRM-free demo of [**Bitter Smile**](http://ares.dl.playstation.net/cdn/JP0741/PCSG90096_00/xGMrXOkORxWRyqzLMihZPqsXAbAXLzvAdJFqtPJLAZTgOcqJobxQAhLNbgiFydVlcmVOrpZKklOYxizQCRpiLfjeROuWivGXfwgkq.pkg) 
 * 2 - After downloading, place the pkg in the path below inside the program (C:\Program Files (x86)\PsvimgToolsEasy\Psvimgtools Easy FrontEnd\PKG-h-encore)
+
 * 3 - select the account IDQCMA and click on the option "Extraction of pkg to h-encore"
 All the work was done automatically and now it's just connect the psvita with QCMA and pass the app to vita.
 * TUTORIAL in English [GamersRebirthDL - Youtube ](https://www.youtube.com/watch?v=pa1bS-4Az_E&feature=youtu.be)
