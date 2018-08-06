@@ -35,7 +35,8 @@ Step 1 and 2 are optional
 * 3 - select the account IDQCMA and click on the option "Extraction of pkg to h-encore"
 All the work was done automatically and now it's just connect the psvita with QCMA and pass the app to vita.
 * TUTORIAL in English [GamersRebirthDL - Youtube ](https://www.youtube.com/watch?v=pa1bS-4Az_E&feature=youtu.be)
-* TUTORIAL in Portuguese [RobertGhidini - Youtube ](https://www.youtube.com/watch?v=gP70sZA2Vwc)
+* TUTORIAL in English REDUCE H-ENCORE SIZE FROM 240mb to 13mb [GamersRebirthDL - Youtube ](https://www.youtube.com/watch?v=6_MSQf0uh4Y&feature=youtu.be)
+* TUTORIAL in Portuguese [RobertGhidini - Youtube ](https://www.youtube.com/watch?v=QZ6GBvRc_K4)
 
 # Extracting of pkg to NoNpDrm
 
