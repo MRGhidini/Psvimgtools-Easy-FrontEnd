@@ -123,13 +123,13 @@ The program will look for the APP / Games in EXTRAIRAppGame and recreate in PSvi
 In this option, it searches all APP in the root of the APPGAMES folder list program in a listbox, and after selecting loads within Ps vita / APP
 Here are some APP options that you can install directly on psvita.
 
--VITASHELL-VitaShell
--MLCL00001-MolecularShell 
--HACKINFOR
--WOLOLO
--HIDENAPPS
--PCSA00044-SKYPE
--URICALL00
+- VITASHELL-VitaShell
+- MLCL00001-MolecularShell 
+- HACKINFOR
+- WOLOLO
+- HIDENAPPS
+- PCSA00044-SKYPE
+- URICALL00
 
 If you want to add more app, add it directly to the root folder of the tool in Program Files (x86) \ PsvimgToolsEasy \ Psvimgtools Easy FrontEnd \ APPGAMES
 
