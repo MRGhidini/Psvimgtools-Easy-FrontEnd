@@ -18,7 +18,10 @@ https://codestation.github.io/qcma/
 
 # Usage
 
-Clicking on the magnifying glass, the program automatically searches for the last key used by QCMA! Or you can inform it manually!
+Create a user or multiple users for each psn account you have.
+After creating a user, select an account.
+The tool saves the last logged in account, and can load the last used account the next time you open the tool!
+Every account created the tool saves in a sqllite database, being able to be accessed in the root folder "EXTRA" \ Config.db
 
 # Auto H-encore
 
