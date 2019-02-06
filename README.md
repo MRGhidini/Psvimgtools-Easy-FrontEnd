@@ -11,7 +11,7 @@ Operational system:
 Windows 7 (32bits / 64bits), Windows 8 (32bits / 64bits), Windows 8 (32bits / 64bits), Windows Server 2008 (32bits / 64bits) and UP
 
 Taget Framework:
-.NET Framework 4.5.2 - Minimum required
+.NET Framework 4.6.1 - Minimum required
 
 QCMA program installed:
 https://codestation.github.io/qcma/
